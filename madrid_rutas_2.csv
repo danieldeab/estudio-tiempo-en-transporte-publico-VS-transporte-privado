@@ -1,0 +1,969 @@
+origen,destino,modo_transporte,hora_salida,fecha_consulta,distancia_km,duracion_sin_trafico_min,duracion_con_trafico_min,diferencia_trafico_min
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",TRANSIT,08:00,2026-02-27,15.7,32.1,,
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",TRANSIT,08:00,2026-02-27,2.49,11.2,,
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",TRANSIT,08:00,2026-02-27,6.93,22.9,,
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",TRANSIT,08:00,2026-02-27,6.48,22.4,,
+"Puerta del Sol, Madrid","Vallecas, Madrid",TRANSIT,08:00,2026-02-27,11.23,40.0,,
+"Puerta del Sol, Madrid","Moncloa, Madrid",TRANSIT,08:00,2026-02-27,12.06,64.5,,
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",TRANSIT,08:00,2026-02-27,4.45,18.2,,
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",TRANSIT,08:00,2026-02-27,4.56,25.0,,
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",TRANSIT,08:00,2026-02-27,14.73,44.2,,
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",TRANSIT,08:00,2026-02-27,12.29,20.7,,
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",TRANSIT,08:00,2026-02-27,5.21,15.6,,
+"Retiro, Madrid","Ciudad Universitaria, Madrid",TRANSIT,08:00,2026-02-27,8.02,50.9,,
+"Retiro, Madrid","Leganés, Madrid",TRANSIT,08:00,2026-02-27,16.03,42.4,,
+"Retiro, Madrid","Getafe, Madrid",TRANSIT,08:00,2026-02-27,14.87,40.7,,
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",TRANSIT,08:00,2026-02-27,33.21,42.2,,
+"Estación de Atocha, Madrid","Aranjuez, Madrid",TRANSIT,08:00,2026-02-27,48.17,48.6,,
+"Estación de Atocha, Madrid","Alcobendas, Madrid",TRANSIT,08:00,2026-02-27,19.15,52.5,,
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",TRANSIT,08:00,2026-02-27,26.41,58.4,,
+"Estación de Atocha, Madrid","Móstoles, Madrid",TRANSIT,08:00,2026-02-27,19.76,39.5,,
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",TRANSIT,08:00,2026-02-27,21.62,44.9,,
+"Estación de Atocha, Madrid","Parla, Madrid",TRANSIT,08:00,2026-02-27,21.86,41.4,,
+"Estación de Atocha, Madrid","Pinto, Madrid",TRANSIT,08:00,2026-02-27,20.65,26.6,,
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",TRANSIT,08:00,2026-02-27,15.34,24.5,,
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",TRANSIT,08:00,2026-02-27,22.64,33.5,,
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",TRANSIT,08:00,2026-02-27,13.63,37.0,,
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",TRANSIT,08:00,2026-02-27,17.78,61.3,,
+"Moncloa, Madrid","Majadahonda, Madrid",TRANSIT,08:00,2026-02-27,14.83,78.6,,
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",TRANSIT,08:00,2026-02-27,5.91,48.2,,
+"Moncloa, Madrid","Boadilla del Monte, Madrid",TRANSIT,08:00,2026-02-27,38.31,102.5,,
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",TRANSIT,08:00,2026-02-27,42.93,94.9,,
+"Puerta del Sol, Madrid","Alcorcón, Madrid",TRANSIT,08:00,2026-02-27,19.3,47.8,,
+"Puerta del Sol, Madrid","Leganés, Madrid",TRANSIT,08:00,2026-02-27,16.67,33.5,,
+"Puerta del Sol, Madrid","Getafe, Madrid",TRANSIT,08:00,2026-02-27,15.41,26.5,,
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",TRANSIT,08:00,2026-02-27,24.63,43.5,,
+"Puerta del Sol, Madrid","Coslada, Madrid",TRANSIT,08:00,2026-02-27,16.55,34.5,,
+"Estación de Atocha, Madrid",Toledo,TRANSIT,08:00,2026-02-27,83.88,51.4,,
+"Estación de Atocha, Madrid",Segovia,TRANSIT,08:00,2026-02-27,81.9,82.5,,
+"Estación de Atocha, Madrid",Ávila,TRANSIT,08:00,2026-02-27,129.29,145.9,,
+"Estación de Atocha, Madrid",Cuenca,TRANSIT,08:00,2026-02-27,195.47,81.0,,
+"Estación de Chamartín, Madrid",Valladolid,TRANSIT,08:00,2026-02-27,179.22,69.5,,
+"Estación de Chamartín, Madrid",Burgos,TRANSIT,08:00,2026-02-27,304.28,107.5,,
+"Estación de Chamartín, Madrid",Salamanca,TRANSIT,08:00,2026-02-27,185.73,201.9,,
+"Estación de Atocha, Madrid",Córdoba,TRANSIT,08:00,2026-02-27,344.21,117.0,,
+"Estación de Atocha, Madrid",Ciudad Real,TRANSIT,08:00,2026-02-27,171.32,64.0,,
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",TRANSIT,08:00,2026-02-27,625.94,210.3,,
+"Estación de Atocha, Madrid","Valencia, España",TRANSIT,08:00,2026-02-27,406.73,147.6,,
+"Estación de Atocha, Madrid","Sevilla, España",TRANSIT,08:00,2026-02-27,471.37,188.0,,
+"Estación de Atocha, Madrid","Zaragoza, España",TRANSIT,08:00,2026-02-27,306.53,98.6,,
+"Estación de Atocha, Madrid","Málaga, España",TRANSIT,08:00,2026-02-27,536.46,173.1,,
+"Estación de Chamartín, Madrid","Bilbao, España",TRANSIT,08:00,2026-02-27,326.28,317.8,,
+"Estación de Chamartín, Madrid","San Sebastián, España",TRANSIT,08:00,2026-02-27,568.33,324.5,,
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",TRANSIT,08:00,2026-02-27,10.37,9.0,,
+"Móstoles, Madrid","Alcorcón, Madrid",TRANSIT,08:00,2026-02-27,8.38,23.7,,
+"Móstoles, Madrid","Leganés, Madrid",TRANSIT,08:00,2026-02-27,13.27,26.2,,
+"Móstoles, Madrid","Fuenlabrada, Madrid",TRANSIT,08:00,2026-02-27,10.65,46.2,,
+"Getafe, Madrid","Parla, Madrid",TRANSIT,08:00,2026-02-27,9.03,20.8,,
+"Getafe, Madrid","Leganés, Madrid",TRANSIT,08:00,2026-02-27,10.91,16.1,,
+"Las Rozas de Madrid, Madrid","Majadahonda, Madrid",TRANSIT,08:00,2026-02-27,12.26,31.0,,
+"Tres Cantos, Madrid","Alcobendas, Madrid",TRANSIT,08:00,2026-02-27,28.81,51.0,,
+"Aranjuez, Madrid","Valdemoro, Madrid",TRANSIT,08:00,2026-02-27,22.39,25.1,,
+"Aranjuez, Madrid","Ocaña, Toledo",TRANSIT,08:00,2026-02-27,12.18,20.0,,
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,09:00,2026-02-27,20.96,25.8,25.3,-0.5
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",DRIVE,09:00,2026-02-27,3.71,15.1,14.4,-0.7
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",DRIVE,09:00,2026-02-27,18.03,27.1,25.9,-1.2
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",DRIVE,09:00,2026-02-27,12.59,26.6,25.0,-1.6
+"Puerta del Sol, Madrid","Vallecas, Madrid",DRIVE,09:00,2026-02-27,18.78,22.6,22.3,-0.3
+"Puerta del Sol, Madrid","Moncloa, Madrid",DRIVE,09:00,2026-02-27,11.92,20.5,19.5,-1.0
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",DRIVE,09:00,2026-02-27,6.51,21.9,22.6,0.7
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",DRIVE,09:00,2026-02-27,4.2,11.9,11.1,-0.8
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",DRIVE,09:00,2026-02-27,10.39,12.8,12.4,-0.4
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,09:00,2026-02-27,12.54,16.0,15.6,-0.4
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",DRIVE,09:00,2026-02-27,5.83,17.7,17.1,-0.6
+"Retiro, Madrid","Ciudad Universitaria, Madrid",DRIVE,09:00,2026-02-27,8.78,22.4,20.4,-2.0
+"Retiro, Madrid","Leganés, Madrid",DRIVE,09:00,2026-02-27,14.27,23.3,22.1,-1.2
+"Retiro, Madrid","Getafe, Madrid",DRIVE,09:00,2026-02-27,14.99,25.4,23.9,-1.5
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",DRIVE,09:00,2026-02-27,33.74,31.6,29.9,-1.7
+"Estación de Atocha, Madrid","Aranjuez, Madrid",DRIVE,09:00,2026-02-27,47.89,43.0,40.8,-2.2
+"Estación de Atocha, Madrid","Alcobendas, Madrid",DRIVE,09:00,2026-02-27,18.7,19.5,18.3,-1.2
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",DRIVE,09:00,2026-02-27,25.2,27.3,25.6,-1.7
+"Estación de Atocha, Madrid","Móstoles, Madrid",DRIVE,09:00,2026-02-27,25.18,30.6,29.0,-1.6
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",DRIVE,09:00,2026-02-27,22.96,27.1,26.0,-1.1
+"Estación de Atocha, Madrid","Parla, Madrid",DRIVE,09:00,2026-02-27,24.36,29.1,27.2,-1.9
+"Estación de Atocha, Madrid","Pinto, Madrid",DRIVE,09:00,2026-02-27,23.85,23.6,22.4,-1.2
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",DRIVE,09:00,2026-02-27,16.68,17.7,17.2,-0.5
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",DRIVE,09:00,2026-02-27,26.62,27.8,27.2,-0.6
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",DRIVE,09:00,2026-02-27,9.54,11.8,11.7,-0.1
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",DRIVE,09:00,2026-02-27,17.9,15.8,15.5,-0.3
+"Moncloa, Madrid","Majadahonda, Madrid",DRIVE,09:00,2026-02-27,18.27,16.4,16.1,-0.3
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",DRIVE,09:00,2026-02-27,10.63,13.0,12.6,-0.4
+"Moncloa, Madrid","Boadilla del Monte, Madrid",DRIVE,09:00,2026-02-27,20.84,19.4,18.9,-0.5
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",DRIVE,09:00,2026-02-27,34.15,29.0,28.1,-0.9
+"Puerta del Sol, Madrid","Alcorcón, Madrid",DRIVE,09:00,2026-02-27,15.35,25.0,24.9,-0.1
+"Puerta del Sol, Madrid","Leganés, Madrid",DRIVE,09:00,2026-02-27,13.68,24.1,23.3,-0.8
+"Puerta del Sol, Madrid","Getafe, Madrid",DRIVE,09:00,2026-02-27,14.4,26.2,25.1,-1.1
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",DRIVE,09:00,2026-02-27,30.81,36.5,34.4,-2.1
+"Puerta del Sol, Madrid","Coslada, Madrid",DRIVE,09:00,2026-02-27,20.72,28.7,27.4,-1.3
+"Estación de Atocha, Madrid",Toledo,DRIVE,09:00,2026-02-27,73.34,57.2,54.6,-2.6
+"Estación de Atocha, Madrid",Segovia,DRIVE,09:00,2026-02-27,99.76,74.5,72.1,-2.4
+"Estación de Atocha, Madrid",Ávila,DRIVE,09:00,2026-02-27,117.1,82.4,78.6,-3.8
+"Estación de Atocha, Madrid",Cuenca,DRIVE,09:00,2026-02-27,164.27,98.5,95.0,-3.5
+"Estación de Chamartín, Madrid",Valladolid,DRIVE,09:00,2026-02-27,208.61,133.7,134.1,0.4
+"Estación de Chamartín, Madrid",Burgos,DRIVE,09:00,2026-02-27,234.65,140.0,135.5,-4.5
+"Estación de Chamartín, Madrid",Salamanca,DRIVE,09:00,2026-02-27,214.75,133.4,133.0,-0.4
+"Estación de Atocha, Madrid",Córdoba,DRIVE,09:00,2026-02-27,392.87,238.5,229.6,-8.9
+"Estación de Atocha, Madrid",Ciudad Real,DRIVE,09:00,2026-02-27,190.37,134.3,137.9,3.6
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",DRIVE,09:00,2026-02-27,613.8,366.8,351.1,-15.7
+"Estación de Atocha, Madrid","Valencia, España",DRIVE,09:00,2026-02-27,355.0,215.0,210.2,-4.8
+"Estación de Atocha, Madrid","Sevilla, España",DRIVE,09:00,2026-02-27,534.39,307.4,306.1,-1.3
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,09:00,2026-02-27,314.08,193.5,187.0,-6.5
+"Estación de Atocha, Madrid","Málaga, España",DRIVE,09:00,2026-02-27,533.33,316.2,306.6,-9.6
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,09:00,2026-02-27,387.98,233.3,224.4,-8.9
+"Estación de Chamartín, Madrid","San Sebastián, España",DRIVE,09:00,2026-02-27,442.83,268.6,260.2,-8.4
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",DRIVE,09:00,2026-02-27,14.38,18.7,18.5,-0.2
+"Móstoles, Madrid","Alcorcón, Madrid",DRIVE,09:00,2026-02-27,8.93,15.5,16.1,0.6
+"Móstoles, Madrid","Leganés, Madrid",DRIVE,09:00,2026-02-27,11.77,22.1,21.4,-0.7
+"Móstoles, Madrid","Fuenlabrada, Madrid",DRIVE,09:00,2026-02-27,9.98,18.0,17.6,-0.4
+"Getafe, Madrid","Parla, Madrid",DRIVE,09:00,2026-02-27,10.84,15.5,15.4,-0.1
+"Getafe, Madrid","Leganés, Madrid",DRIVE,09:00,2026-02-27,4.77,12.6,12.6,0.0
+"Las Rozas de Madrid, Madrid","Majadahonda, Madrid",DRIVE,09:00,2026-02-27,3.12,7.1,5.7,-1.4
+"Tres Cantos, Madrid","Alcobendas, Madrid",DRIVE,09:00,2026-02-27,17.22,15.6,15.3,-0.3
+"Aranjuez, Madrid","Valdemoro, Madrid",DRIVE,09:00,2026-02-27,22.01,21.4,20.7,-0.7
+"Aranjuez, Madrid","Ocaña, Toledo",DRIVE,09:00,2026-02-27,16.03,17.0,16.3,-0.7
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",TRANSIT,09:00,2026-02-27,15.7,32.6,,
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",TRANSIT,09:00,2026-02-27,2.21,11.6,,
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",TRANSIT,09:00,2026-02-27,6.93,22.9,,
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",TRANSIT,09:00,2026-02-27,6.48,22.4,,
+"Puerta del Sol, Madrid","Vallecas, Madrid",TRANSIT,09:00,2026-02-27,11.23,40.0,,
+"Puerta del Sol, Madrid","Moncloa, Madrid",TRANSIT,09:00,2026-02-27,10.48,59.7,,
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",TRANSIT,09:00,2026-02-27,4.45,18.2,,
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",TRANSIT,09:00,2026-02-27,4.56,25.0,,
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",TRANSIT,09:00,2026-02-27,14.73,45.2,,
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",TRANSIT,09:00,2026-02-27,12.29,20.7,,
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",TRANSIT,09:00,2026-02-27,5.21,15.6,,
+"Retiro, Madrid","Ciudad Universitaria, Madrid",TRANSIT,09:00,2026-02-27,8.37,47.3,,
+"Retiro, Madrid","Leganés, Madrid",TRANSIT,09:00,2026-02-27,16.03,38.9,,
+"Retiro, Madrid","Getafe, Madrid",TRANSIT,09:00,2026-02-27,14.48,38.4,,
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",TRANSIT,09:00,2026-02-27,33.21,42.2,,
+"Estación de Atocha, Madrid","Aranjuez, Madrid",TRANSIT,09:00,2026-02-27,48.17,48.6,,
+"Estación de Atocha, Madrid","Alcobendas, Madrid",TRANSIT,09:00,2026-02-27,24.9,51.0,,
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",TRANSIT,09:00,2026-02-27,24.25,60.7,,
+"Estación de Atocha, Madrid","Móstoles, Madrid",TRANSIT,09:00,2026-02-27,19.76,38.5,,
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",TRANSIT,09:00,2026-02-27,21.62,44.9,,
+"Estación de Atocha, Madrid","Parla, Madrid",TRANSIT,09:00,2026-02-27,21.86,41.4,,
+"Estación de Atocha, Madrid","Pinto, Madrid",TRANSIT,09:00,2026-02-27,20.65,26.6,,
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",TRANSIT,09:00,2026-02-27,15.34,24.5,,
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",TRANSIT,09:00,2026-02-27,22.64,33.5,,
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",TRANSIT,09:00,2026-02-27,13.63,37.0,,
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",TRANSIT,09:00,2026-02-27,17.78,61.8,,
+"Moncloa, Madrid","Majadahonda, Madrid",TRANSIT,09:00,2026-02-27,18.44,78.8,,
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",TRANSIT,09:00,2026-02-27,5.78,46.9,,
+"Moncloa, Madrid","Boadilla del Monte, Madrid",TRANSIT,09:00,2026-02-27,36.47,98.9,,
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",TRANSIT,09:00,2026-02-27,44.48,109.5,,
+"Puerta del Sol, Madrid","Alcorcón, Madrid",TRANSIT,09:00,2026-02-27,17.66,47.9,,
+"Puerta del Sol, Madrid","Leganés, Madrid",TRANSIT,09:00,2026-02-27,16.77,34.5,,
+"Puerta del Sol, Madrid","Getafe, Madrid",TRANSIT,09:00,2026-02-27,15.41,25.5,,
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",TRANSIT,09:00,2026-02-27,24.63,40.5,,
+"Puerta del Sol, Madrid","Coslada, Madrid",TRANSIT,09:00,2026-02-27,16.55,31.5,,
+"Estación de Atocha, Madrid",Toledo,TRANSIT,09:00,2026-02-27,83.76,51.7,,
+"Estación de Atocha, Madrid",Segovia,TRANSIT,09:00,2026-02-27,82.79,120.3,,
+"Estación de Atocha, Madrid",Ávila,TRANSIT,09:00,2026-02-27,128.06,114.7,,
+"Estación de Atocha, Madrid",Cuenca,TRANSIT,09:00,2026-02-27,212.02,110.2,,
+"Estación de Chamartín, Madrid",Valladolid,TRANSIT,09:00,2026-02-27,179.23,73.5,,
+"Estación de Chamartín, Madrid",Burgos,TRANSIT,09:00,2026-02-27,303.85,165.9,,
+"Estación de Chamartín, Madrid",Salamanca,TRANSIT,09:00,2026-02-27,239.64,189.6,,
+"Estación de Atocha, Madrid",Córdoba,TRANSIT,09:00,2026-02-27,343.92,106.6,,
+"Estación de Atocha, Madrid",Ciudad Real,TRANSIT,09:00,2026-02-27,171.32,64.0,,
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",TRANSIT,09:00,2026-02-27,607.34,193.1,,
+"Estación de Atocha, Madrid","Valencia, España",TRANSIT,09:00,2026-02-27,406.67,146.2,,
+"Estación de Atocha, Madrid","Sevilla, España",TRANSIT,09:00,2026-02-27,470.54,162.6,,
+"Estación de Atocha, Madrid","Zaragoza, España",TRANSIT,09:00,2026-02-27,306.57,80.0,,
+"Estación de Atocha, Madrid","Málaga, España",TRANSIT,09:00,2026-02-27,509.77,194.1,,
+"Estación de Chamartín, Madrid","Bilbao, España",TRANSIT,09:00,2026-02-27,322.43,333.1,,
+"Estación de Chamartín, Madrid","San Sebastián, España",TRANSIT,09:00,2026-02-27,514.65,342.1,,
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",TRANSIT,09:00,2026-02-27,10.37,9.0,,
+"Móstoles, Madrid","Alcorcón, Madrid",TRANSIT,09:00,2026-02-27,8.41,27.3,,
+"Móstoles, Madrid","Leganés, Madrid",TRANSIT,09:00,2026-02-27,13.27,26.2,,
+"Móstoles, Madrid","Fuenlabrada, Madrid",TRANSIT,09:00,2026-02-27,10.65,46.2,,
+"Getafe, Madrid","Parla, Madrid",TRANSIT,09:00,2026-02-27,9.03,20.8,,
+"Getafe, Madrid","Leganés, Madrid",TRANSIT,09:00,2026-02-27,10.91,16.1,,
+"Las Rozas de Madrid, Madrid","Majadahonda, Madrid",TRANSIT,09:00,2026-02-27,12.26,31.0,,
+"Tres Cantos, Madrid","Alcobendas, Madrid",TRANSIT,09:00,2026-02-27,28.81,42.5,,
+"Aranjuez, Madrid","Valdemoro, Madrid",TRANSIT,09:00,2026-02-27,21.05,26.0,,
+"Aranjuez, Madrid","Ocaña, Toledo",TRANSIT,09:00,2026-02-27,16.96,15.0,,
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,10:00,2026-02-27,20.96,25.8,26.4,0.6
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",DRIVE,10:00,2026-02-27,3.71,15.1,15.7,0.6
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",DRIVE,10:00,2026-02-27,18.03,27.1,27.0,-0.1
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",DRIVE,10:00,2026-02-27,12.59,26.6,26.1,-0.5
+"Puerta del Sol, Madrid","Vallecas, Madrid",DRIVE,10:00,2026-02-27,18.78,22.6,23.5,0.9
+"Puerta del Sol, Madrid","Moncloa, Madrid",DRIVE,10:00,2026-02-27,11.92,20.5,20.5,0.0
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",DRIVE,10:00,2026-02-27,6.51,21.9,24.1,2.2
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",DRIVE,10:00,2026-02-27,4.2,11.9,11.3,-0.6
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",DRIVE,10:00,2026-02-27,10.39,12.8,12.3,-0.5
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,10:00,2026-02-27,12.54,16.0,16.2,0.2
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",DRIVE,10:00,2026-02-27,5.83,17.7,18.2,0.5
+"Retiro, Madrid","Ciudad Universitaria, Madrid",DRIVE,10:00,2026-02-27,8.78,22.4,21.2,-1.2
+"Retiro, Madrid","Leganés, Madrid",DRIVE,10:00,2026-02-27,14.27,23.3,22.6,-0.7
+"Retiro, Madrid","Getafe, Madrid",DRIVE,10:00,2026-02-27,14.99,25.4,24.4,-1.0
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",DRIVE,10:00,2026-02-27,33.74,31.6,30.1,-1.5
+"Estación de Atocha, Madrid","Aranjuez, Madrid",DRIVE,10:00,2026-02-27,47.89,43.0,41.4,-1.6
+"Estación de Atocha, Madrid","Alcobendas, Madrid",DRIVE,10:00,2026-02-27,18.7,19.5,18.4,-1.1
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",DRIVE,10:00,2026-02-27,25.2,27.3,25.9,-1.4
+"Estación de Atocha, Madrid","Móstoles, Madrid",DRIVE,10:00,2026-02-27,25.18,30.6,29.4,-1.2
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",DRIVE,10:00,2026-02-27,22.96,27.1,26.6,-0.5
+"Estación de Atocha, Madrid","Parla, Madrid",DRIVE,10:00,2026-02-27,24.36,29.1,28.0,-1.1
+"Estación de Atocha, Madrid","Pinto, Madrid",DRIVE,10:00,2026-02-27,23.85,23.6,22.6,-1.0
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",DRIVE,10:00,2026-02-27,16.68,17.7,17.5,-0.2
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",DRIVE,10:00,2026-02-27,26.62,27.8,27.6,-0.2
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",DRIVE,10:00,2026-02-27,9.54,11.8,11.8,0.0
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",DRIVE,10:00,2026-02-27,17.9,15.8,15.4,-0.4
+"Moncloa, Madrid","Majadahonda, Madrid",DRIVE,10:00,2026-02-27,18.27,16.4,16.1,-0.3
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",DRIVE,10:00,2026-02-27,10.63,13.0,12.8,-0.2
+"Moncloa, Madrid","Boadilla del Monte, Madrid",DRIVE,10:00,2026-02-27,20.84,19.4,18.8,-0.6
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",DRIVE,10:00,2026-02-27,34.15,29.0,28.4,-0.6
+"Puerta del Sol, Madrid","Alcorcón, Madrid",DRIVE,10:00,2026-02-27,15.35,25.0,26.2,1.2
+"Puerta del Sol, Madrid","Leganés, Madrid",DRIVE,10:00,2026-02-27,13.68,24.1,25.0,0.9
+"Puerta del Sol, Madrid","Getafe, Madrid",DRIVE,10:00,2026-02-27,14.4,26.2,26.3,0.1
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",DRIVE,10:00,2026-02-27,30.81,36.5,35.5,-1.0
+"Puerta del Sol, Madrid","Coslada, Madrid",DRIVE,10:00,2026-02-27,20.72,28.7,28.7,0.0
+"Estación de Atocha, Madrid",Toledo,DRIVE,10:00,2026-02-27,73.34,57.2,56.5,-0.7
+"Estación de Atocha, Madrid",Segovia,DRIVE,10:00,2026-02-27,99.76,74.5,72.6,-1.9
+"Estación de Atocha, Madrid",Ávila,DRIVE,10:00,2026-02-27,117.1,82.4,78.5,-3.9
+"Estación de Atocha, Madrid",Cuenca,DRIVE,10:00,2026-02-27,164.27,98.5,95.1,-3.4
+"Estación de Chamartín, Madrid",Valladolid,DRIVE,10:00,2026-02-27,208.61,133.7,135.2,1.5
+"Estación de Chamartín, Madrid",Burgos,DRIVE,10:00,2026-02-27,234.65,140.0,136.3,-3.7
+"Estación de Chamartín, Madrid",Salamanca,DRIVE,10:00,2026-02-27,214.75,133.4,133.1,-0.3
+"Estación de Atocha, Madrid",Córdoba,DRIVE,10:00,2026-02-27,392.87,238.5,231.8,-6.7
+"Estación de Atocha, Madrid",Ciudad Real,DRIVE,10:00,2026-02-27,190.37,134.3,140.1,5.8
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",DRIVE,10:00,2026-02-27,613.8,366.8,353.5,-13.3
+"Estación de Atocha, Madrid","Valencia, España",DRIVE,10:00,2026-02-27,355.0,215.0,218.5,3.5
+"Estación de Atocha, Madrid","Sevilla, España",DRIVE,10:00,2026-02-27,534.39,307.4,299.4,-8.0
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,10:00,2026-02-27,314.08,193.5,188.8,-4.7
+"Estación de Atocha, Madrid","Málaga, España",DRIVE,10:00,2026-02-27,533.33,316.2,304.9,-11.3
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,10:00,2026-02-27,387.98,233.3,225.8,-7.5
+"Estación de Chamartín, Madrid","San Sebastián, España",DRIVE,10:00,2026-02-27,442.83,268.6,260.1,-8.5
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",DRIVE,10:00,2026-02-27,14.38,18.7,18.8,0.1
+"Móstoles, Madrid","Alcorcón, Madrid",DRIVE,10:00,2026-02-27,8.93,15.5,17.3,1.8
+"Móstoles, Madrid","Leganés, Madrid",DRIVE,10:00,2026-02-27,11.77,22.1,20.9,-1.2
+"Móstoles, Madrid","Fuenlabrada, Madrid",DRIVE,10:00,2026-02-27,9.98,18.0,18.7,0.7
+"Getafe, Madrid","Parla, Madrid",DRIVE,10:00,2026-02-27,10.84,15.5,15.6,0.1
+"Getafe, Madrid","Leganés, Madrid",DRIVE,10:00,2026-02-27,4.77,12.6,13.2,0.6
+"Las Rozas de Madrid, Madrid","Majadahonda, Madrid",DRIVE,10:00,2026-02-27,3.12,7.1,5.8,-1.3
+"Tres Cantos, Madrid","Alcobendas, Madrid",DRIVE,10:00,2026-02-27,17.22,15.6,15.5,-0.1
+"Aranjuez, Madrid","Valdemoro, Madrid",DRIVE,10:00,2026-02-27,22.01,21.4,21.2,-0.2
+"Aranjuez, Madrid","Ocaña, Toledo",DRIVE,10:00,2026-02-27,16.03,17.0,16.6,-0.4
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",TRANSIT,10:00,2026-02-27,15.75,34.1,,
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",TRANSIT,10:00,2026-02-27,2.49,11.2,,
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",TRANSIT,10:00,2026-02-27,7.19,21.9,,
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",TRANSIT,10:00,2026-02-27,6.48,22.4,,
+"Puerta del Sol, Madrid","Vallecas, Madrid",TRANSIT,10:00,2026-02-27,11.23,40.0,,
+"Puerta del Sol, Madrid","Moncloa, Madrid",TRANSIT,10:00,2026-02-27,10.48,60.5,,
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",TRANSIT,10:00,2026-02-27,4.45,18.2,,
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",TRANSIT,10:00,2026-02-27,4.56,24.0,,
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",TRANSIT,10:00,2026-02-27,11.27,41.1,,
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",TRANSIT,10:00,2026-02-27,12.29,20.7,,
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",TRANSIT,10:00,2026-02-27,5.21,15.6,,
+"Retiro, Madrid","Ciudad Universitaria, Madrid",TRANSIT,10:00,2026-02-27,7.69,45.2,,
+"Retiro, Madrid","Leganés, Madrid",TRANSIT,10:00,2026-02-27,16.96,41.4,,
+"Retiro, Madrid","Getafe, Madrid",TRANSIT,10:00,2026-02-27,14.87,39.4,,
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",TRANSIT,10:00,2026-02-27,33.21,42.2,,
+"Estación de Atocha, Madrid","Aranjuez, Madrid",TRANSIT,10:00,2026-02-27,48.17,48.6,,
+"Estación de Atocha, Madrid","Alcobendas, Madrid",TRANSIT,10:00,2026-02-27,24.9,50.0,,
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",TRANSIT,10:00,2026-02-27,24.25,61.8,,
+"Estación de Atocha, Madrid","Móstoles, Madrid",TRANSIT,10:00,2026-02-27,19.76,38.5,,
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",TRANSIT,10:00,2026-02-27,21.62,44.9,,
+"Estación de Atocha, Madrid","Parla, Madrid",TRANSIT,10:00,2026-02-27,21.86,41.4,,
+"Estación de Atocha, Madrid","Pinto, Madrid",TRANSIT,10:00,2026-02-27,19.86,28.9,,
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",TRANSIT,10:00,2026-02-27,15.34,24.5,,
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",TRANSIT,10:00,2026-02-27,22.64,33.5,,
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",TRANSIT,10:00,2026-02-27,13.63,37.0,,
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",TRANSIT,10:00,2026-02-27,17.78,61.8,,
+"Moncloa, Madrid","Majadahonda, Madrid",TRANSIT,10:00,2026-02-27,14.83,78.6,,
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",TRANSIT,10:00,2026-02-27,5.91,48.2,,
+"Moncloa, Madrid","Boadilla del Monte, Madrid",TRANSIT,10:00,2026-02-27,36.47,98.9,,
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",TRANSIT,10:00,2026-02-27,41.37,91.5,,
+"Puerta del Sol, Madrid","Alcorcón, Madrid",TRANSIT,10:00,2026-02-27,15.82,43.9,,
+"Puerta del Sol, Madrid","Leganés, Madrid",TRANSIT,10:00,2026-02-27,17.17,30.9,,
+"Puerta del Sol, Madrid","Getafe, Madrid",TRANSIT,10:00,2026-02-27,14.43,25.5,,
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",TRANSIT,10:00,2026-02-27,24.63,40.5,,
+"Puerta del Sol, Madrid","Coslada, Madrid",TRANSIT,10:00,2026-02-27,16.55,31.5,,
+"Estación de Atocha, Madrid",Toledo,TRANSIT,10:00,2026-02-27,83.76,57.7,,
+"Estación de Atocha, Madrid",Segovia,TRANSIT,10:00,2026-02-27,81.26,78.5,,
+"Estación de Atocha, Madrid",Ávila,TRANSIT,10:00,2026-02-27,128.23,126.2,,
+"Estación de Atocha, Madrid",Cuenca,TRANSIT,10:00,2026-02-27,212.01,113.2,,
+"Estación de Chamartín, Madrid",Valladolid,TRANSIT,10:00,2026-02-27,179.23,68.5,,
+"Estación de Chamartín, Madrid",Burgos,TRANSIT,10:00,2026-02-27,305.59,200.6,,
+"Estación de Chamartín, Madrid",Salamanca,TRANSIT,10:00,2026-02-27,243.1,105.5,,
+"Estación de Atocha, Madrid",Córdoba,TRANSIT,10:00,2026-02-27,344.21,100.1,,
+"Estación de Atocha, Madrid",Ciudad Real,TRANSIT,10:00,2026-02-27,171.32,64.0,,
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",TRANSIT,10:00,2026-02-27,625.94,210.2,,
+"Estación de Atocha, Madrid","Valencia, España",TRANSIT,10:00,2026-02-27,407.01,141.2,,
+"Estación de Atocha, Madrid","Sevilla, España",TRANSIT,10:00,2026-02-27,470.81,169.8,,
+"Estación de Atocha, Madrid","Zaragoza, España",TRANSIT,10:00,2026-02-27,306.53,98.6,,
+"Estación de Atocha, Madrid","Málaga, España",TRANSIT,10:00,2026-02-27,536.46,160.1,,
+"Estación de Chamartín, Madrid","Bilbao, España",TRANSIT,10:00,2026-02-27,336.05,323.0,,
+"Estación de Chamartín, Madrid","San Sebastián, España",TRANSIT,10:00,2026-02-27,549.89,413.6,,
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",TRANSIT,10:00,2026-02-27,10.37,9.0,,
+"Móstoles, Madrid","Alcorcón, Madrid",TRANSIT,10:00,2026-02-27,8.38,23.7,,
+"Móstoles, Madrid","Leganés, Madrid",TRANSIT,10:00,2026-02-27,13.27,26.2,,
+"Móstoles, Madrid","Fuenlabrada, Madrid",TRANSIT,10:00,2026-02-27,10.65,46.2,,
+"Getafe, Madrid","Parla, Madrid",TRANSIT,10:00,2026-02-27,9.03,20.8,,
+"Getafe, Madrid","Leganés, Madrid",TRANSIT,10:00,2026-02-27,10.91,16.1,,
+"Las Rozas de Madrid, Madrid","Majadahonda, Madrid",TRANSIT,10:00,2026-02-27,21.38,33.0,,
+"Tres Cantos, Madrid","Alcobendas, Madrid",TRANSIT,10:00,2026-02-27,14.8,54.9,,
+"Aranjuez, Madrid","Valdemoro, Madrid",TRANSIT,10:00,2026-02-27,21.05,26.0,,
+"Aranjuez, Madrid","Ocaña, Toledo",TRANSIT,10:00,2026-02-27,16.96,15.0,,
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,11:00,2026-02-27,20.96,25.8,27.8,2.0
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",DRIVE,11:00,2026-02-27,3.71,15.1,16.5,1.4
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",DRIVE,11:00,2026-02-27,18.03,27.1,28.2,1.1
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",DRIVE,11:00,2026-02-27,12.59,26.6,26.6,0.0
+"Puerta del Sol, Madrid","Vallecas, Madrid",DRIVE,11:00,2026-02-27,18.78,22.6,24.4,1.8
+"Puerta del Sol, Madrid","Moncloa, Madrid",DRIVE,11:00,2026-02-27,11.92,20.5,21.2,0.7
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",DRIVE,11:00,2026-02-27,6.51,21.9,24.6,2.7
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",DRIVE,11:00,2026-02-27,4.2,11.9,12.3,0.4
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",DRIVE,11:00,2026-02-27,10.39,12.8,12.7,-0.1
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,11:00,2026-02-27,12.54,16.0,16.5,0.5
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",DRIVE,11:00,2026-02-27,5.83,17.7,18.8,1.1
+"Retiro, Madrid","Ciudad Universitaria, Madrid",DRIVE,11:00,2026-02-27,8.78,22.4,22.0,-0.4
+"Retiro, Madrid","Leganés, Madrid",DRIVE,11:00,2026-02-27,14.27,23.3,23.0,-0.3
+"Retiro, Madrid","Getafe, Madrid",DRIVE,11:00,2026-02-27,14.99,25.4,24.9,-0.5
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",DRIVE,11:00,2026-02-27,33.74,31.6,30.3,-1.3
+"Estación de Atocha, Madrid","Aranjuez, Madrid",DRIVE,11:00,2026-02-27,47.89,43.0,42.1,-0.9
+"Estación de Atocha, Madrid","Alcobendas, Madrid",DRIVE,11:00,2026-02-27,18.7,19.5,18.2,-1.3
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",DRIVE,11:00,2026-02-27,25.2,27.3,25.7,-1.6
+"Estación de Atocha, Madrid","Móstoles, Madrid",DRIVE,11:00,2026-02-27,25.18,30.6,29.7,-0.9
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",DRIVE,11:00,2026-02-27,22.96,27.1,27.1,0.0
+"Estación de Atocha, Madrid","Parla, Madrid",DRIVE,11:00,2026-02-27,24.36,29.1,27.9,-1.2
+"Estación de Atocha, Madrid","Pinto, Madrid",DRIVE,11:00,2026-02-27,23.85,23.6,23.5,-0.1
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",DRIVE,11:00,2026-02-27,16.68,17.7,17.1,-0.6
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",DRIVE,11:00,2026-02-27,26.62,27.8,27.3,-0.5
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",DRIVE,11:00,2026-02-27,9.54,11.8,11.6,-0.2
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",DRIVE,11:00,2026-02-27,17.9,15.8,15.9,0.1
+"Moncloa, Madrid","Majadahonda, Madrid",DRIVE,11:00,2026-02-27,18.27,16.4,16.5,0.1
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",DRIVE,11:00,2026-02-27,10.63,13.0,13.0,0.0
+"Moncloa, Madrid","Boadilla del Monte, Madrid",DRIVE,11:00,2026-02-27,20.84,19.4,18.9,-0.5
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",DRIVE,11:00,2026-02-27,34.15,29.0,28.1,-0.9
+"Puerta del Sol, Madrid","Alcorcón, Madrid",DRIVE,11:00,2026-02-27,15.35,25.0,27.9,2.9
+"Puerta del Sol, Madrid","Leganés, Madrid",DRIVE,11:00,2026-02-27,13.68,24.1,26.0,1.9
+"Puerta del Sol, Madrid","Getafe, Madrid",DRIVE,11:00,2026-02-27,14.4,26.2,27.4,1.2
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",DRIVE,11:00,2026-02-27,30.81,36.5,36.4,-0.1
+"Puerta del Sol, Madrid","Coslada, Madrid",DRIVE,11:00,2026-02-27,20.72,28.7,29.9,1.2
+"Estación de Atocha, Madrid",Toledo,DRIVE,11:00,2026-02-27,73.34,57.2,56.5,-0.7
+"Estación de Atocha, Madrid",Segovia,DRIVE,11:00,2026-02-27,99.76,74.5,72.8,-1.7
+"Estación de Atocha, Madrid",Ávila,DRIVE,11:00,2026-02-27,117.1,82.4,79.4,-3.0
+"Estación de Atocha, Madrid",Cuenca,DRIVE,11:00,2026-02-27,164.27,98.5,93.8,-4.7
+"Estación de Chamartín, Madrid",Valladolid,DRIVE,11:00,2026-02-27,208.61,133.7,137.5,3.8
+"Estación de Chamartín, Madrid",Burgos,DRIVE,11:00,2026-02-27,234.65,140.0,137.4,-2.6
+"Estación de Chamartín, Madrid",Salamanca,DRIVE,11:00,2026-02-27,214.75,133.4,134.4,1.0
+"Estación de Atocha, Madrid",Córdoba,DRIVE,11:00,2026-02-27,392.87,238.5,232.1,-6.4
+"Estación de Atocha, Madrid",Ciudad Real,DRIVE,11:00,2026-02-27,190.37,134.3,139.1,4.8
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",DRIVE,11:00,2026-02-27,613.8,366.8,356.0,-10.8
+"Estación de Atocha, Madrid","Valencia, España",DRIVE,11:00,2026-02-27,355.0,215.0,225.7,10.7
+"Estación de Atocha, Madrid","Sevilla, España",DRIVE,11:00,2026-02-27,534.39,307.4,296.0,-11.4
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,11:00,2026-02-27,314.08,193.5,190.7,-2.8
+"Estación de Atocha, Madrid","Málaga, España",DRIVE,11:00,2026-02-27,533.33,316.2,308.3,-7.9
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,11:00,2026-02-27,387.98,233.3,226.4,-6.9
+"Estación de Chamartín, Madrid","San Sebastián, España",DRIVE,11:00,2026-02-27,442.83,268.6,260.6,-8.0
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",DRIVE,11:00,2026-02-27,14.38,18.7,19.1,0.4
+"Móstoles, Madrid","Alcorcón, Madrid",DRIVE,11:00,2026-02-27,8.93,15.5,18.8,3.3
+"Móstoles, Madrid","Leganés, Madrid",DRIVE,11:00,2026-02-27,11.77,22.1,21.7,-0.4
+"Móstoles, Madrid","Fuenlabrada, Madrid",DRIVE,11:00,2026-02-27,9.98,18.0,19.5,1.5
+"Getafe, Madrid","Parla, Madrid",DRIVE,11:00,2026-02-27,10.84,15.5,15.6,0.1
+"Getafe, Madrid","Leganés, Madrid",DRIVE,11:00,2026-02-27,4.77,12.6,13.7,1.1
+"Las Rozas de Madrid, Madrid","Majadahonda, Madrid",DRIVE,11:00,2026-02-27,3.12,7.1,5.8,-1.3
+"Tres Cantos, Madrid","Alcobendas, Madrid",DRIVE,11:00,2026-02-27,17.22,15.6,15.4,-0.2
+"Aranjuez, Madrid","Valdemoro, Madrid",DRIVE,11:00,2026-02-27,22.01,21.4,21.4,0.0
+"Aranjuez, Madrid","Ocaña, Toledo",DRIVE,11:00,2026-02-27,16.03,17.0,16.5,-0.5
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",TRANSIT,11:00,2026-02-27,15.7,34.1,,
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",TRANSIT,11:00,2026-02-27,2.49,11.2,,
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",TRANSIT,11:00,2026-02-27,6.93,22.9,,
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",TRANSIT,11:00,2026-02-27,6.48,22.4,,
+"Puerta del Sol, Madrid","Vallecas, Madrid",TRANSIT,11:00,2026-02-27,11.23,40.0,,
+"Puerta del Sol, Madrid","Moncloa, Madrid",TRANSIT,11:00,2026-02-27,6.39,67.9,,
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",TRANSIT,11:00,2026-02-27,4.45,18.2,,
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",TRANSIT,11:00,2026-02-27,4.56,25.7,,
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",TRANSIT,11:00,2026-02-27,14.73,45.2,,
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",TRANSIT,11:00,2026-02-27,12.29,20.7,,
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",TRANSIT,11:00,2026-02-27,5.21,15.6,,
+"Retiro, Madrid","Ciudad Universitaria, Madrid",TRANSIT,11:00,2026-02-27,7.69,42.1,,
+"Retiro, Madrid","Leganés, Madrid",TRANSIT,11:00,2026-02-27,16.03,41.0,,
+"Retiro, Madrid","Getafe, Madrid",TRANSIT,11:00,2026-02-27,14.87,41.7,,
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",TRANSIT,11:00,2026-02-27,33.21,42.2,,
+"Estación de Atocha, Madrid","Aranjuez, Madrid",TRANSIT,11:00,2026-02-27,48.17,48.6,,
+"Estación de Atocha, Madrid","Alcobendas, Madrid",TRANSIT,11:00,2026-02-27,24.9,51.0,,
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",TRANSIT,11:00,2026-02-27,24.25,60.8,,
+"Estación de Atocha, Madrid","Móstoles, Madrid",TRANSIT,11:00,2026-02-27,19.76,38.5,,
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",TRANSIT,11:00,2026-02-27,21.62,44.9,,
+"Estación de Atocha, Madrid","Parla, Madrid",TRANSIT,11:00,2026-02-27,21.86,41.4,,
+"Estación de Atocha, Madrid","Pinto, Madrid",TRANSIT,11:00,2026-02-27,19.98,27.6,,
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",TRANSIT,11:00,2026-02-27,15.34,24.5,,
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",TRANSIT,11:00,2026-02-27,22.64,33.5,,
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",TRANSIT,11:00,2026-02-27,13.63,37.0,,
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",TRANSIT,11:00,2026-02-27,22.37,59.8,,
+"Moncloa, Madrid","Majadahonda, Madrid",TRANSIT,11:00,2026-02-27,33.75,91.7,,
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",TRANSIT,11:00,2026-02-27,5.91,48.2,,
+"Moncloa, Madrid","Boadilla del Monte, Madrid",TRANSIT,11:00,2026-02-27,36.47,96.9,,
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",TRANSIT,11:00,2026-02-27,40.85,90.7,,
+"Puerta del Sol, Madrid","Alcorcón, Madrid",TRANSIT,11:00,2026-02-27,15.82,43.9,,
+"Puerta del Sol, Madrid","Leganés, Madrid",TRANSIT,11:00,2026-02-27,16.67,36.5,,
+"Puerta del Sol, Madrid","Getafe, Madrid",TRANSIT,11:00,2026-02-27,14.43,25.5,,
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",TRANSIT,11:00,2026-02-27,24.63,39.5,,
+"Puerta del Sol, Madrid","Coslada, Madrid",TRANSIT,11:00,2026-02-27,16.55,30.5,,
+"Estación de Atocha, Madrid",Toledo,TRANSIT,11:00,2026-02-27,83.88,61.4,,
+"Estación de Atocha, Madrid",Segovia,TRANSIT,11:00,2026-02-27,81.26,81.5,,
+"Estación de Atocha, Madrid",Ávila,TRANSIT,11:00,2026-02-27,128.24,115.2,,
+"Estación de Atocha, Madrid",Cuenca,TRANSIT,11:00,2026-02-27,212.02,110.2,,
+"Estación de Chamartín, Madrid",Valladolid,TRANSIT,11:00,2026-02-27,179.23,71.5,,
+"Estación de Chamartín, Madrid",Burgos,TRANSIT,11:00,2026-02-27,215.35,208.2,,
+"Estación de Chamartín, Madrid",Salamanca,TRANSIT,11:00,2026-02-27,243.1,105.5,,
+"Estación de Atocha, Madrid",Córdoba,TRANSIT,11:00,2026-02-27,344.21,109.1,,
+"Estación de Atocha, Madrid",Ciudad Real,TRANSIT,11:00,2026-02-27,171.32,64.0,,
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",TRANSIT,11:00,2026-02-27,625.94,209.9,,
+"Estación de Atocha, Madrid","Valencia, España",TRANSIT,11:00,2026-02-27,406.67,146.2,,
+"Estación de Atocha, Madrid","Sevilla, España",TRANSIT,11:00,2026-02-27,470.82,174.8,,
+"Estación de Atocha, Madrid","Zaragoza, España",TRANSIT,11:00,2026-02-27,306.53,98.6,,
+"Estación de Atocha, Madrid","Málaga, España",TRANSIT,11:00,2026-02-27,536.46,170.1,,
+"Estación de Chamartín, Madrid","Bilbao, España",TRANSIT,11:00,2026-02-27,334.25,314.8,,
+"Estación de Chamartín, Madrid","San Sebastián, España",TRANSIT,11:00,2026-02-27,572.19,383.1,,
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",TRANSIT,11:00,2026-02-27,10.37,9.0,,
+"Móstoles, Madrid","Alcorcón, Madrid",TRANSIT,11:00,2026-02-27,8.41,27.3,,
+"Móstoles, Madrid","Leganés, Madrid",TRANSIT,11:00,2026-02-27,13.27,26.2,,
+"Móstoles, Madrid","Fuenlabrada, Madrid",TRANSIT,11:00,2026-02-27,10.65,46.2,,
+"Getafe, Madrid","Parla, Madrid",TRANSIT,11:00,2026-02-27,9.03,20.8,,
+"Getafe, Madrid","Leganés, Madrid",TRANSIT,11:00,2026-02-27,10.91,16.1,,
+"Las Rozas de Madrid, Madrid","Majadahonda, Madrid",TRANSIT,11:00,2026-02-27,12.26,31.0,,
+"Tres Cantos, Madrid","Alcobendas, Madrid",TRANSIT,11:00,2026-02-27,28.81,49.3,,
+"Aranjuez, Madrid","Valdemoro, Madrid",TRANSIT,11:00,2026-02-27,22.94,26.0,,
+"Aranjuez, Madrid","Ocaña, Toledo",TRANSIT,11:00,2026-02-27,16.96,15.0,,
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,12:00,2026-02-27,20.96,25.8,27.8,2.0
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",DRIVE,12:00,2026-02-27,3.71,15.1,16.2,1.1
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",DRIVE,12:00,2026-02-27,18.03,27.1,28.2,1.1
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",DRIVE,12:00,2026-02-27,12.59,26.6,25.9,-0.7
+"Puerta del Sol, Madrid","Vallecas, Madrid",DRIVE,12:00,2026-02-27,18.78,22.6,24.4,1.8
+"Puerta del Sol, Madrid","Moncloa, Madrid",DRIVE,12:00,2026-02-27,11.92,20.5,20.8,0.3
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",DRIVE,12:00,2026-02-27,6.51,21.9,24.2,2.3
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",DRIVE,12:00,2026-02-27,4.2,11.9,12.8,0.9
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",DRIVE,12:00,2026-02-27,10.39,12.8,13.2,0.4
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,12:00,2026-02-27,12.54,16.0,17.3,1.3
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",DRIVE,12:00,2026-02-27,5.83,17.7,19.8,2.1
+"Retiro, Madrid","Ciudad Universitaria, Madrid",DRIVE,12:00,2026-02-27,8.78,22.4,23.3,0.9
+"Retiro, Madrid","Leganés, Madrid",DRIVE,12:00,2026-02-27,14.27,23.3,24.2,0.9
+"Retiro, Madrid","Getafe, Madrid",DRIVE,12:00,2026-02-27,14.99,25.4,25.6,0.2
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",DRIVE,12:00,2026-02-27,33.74,31.6,30.3,-1.3
+"Estación de Atocha, Madrid","Aranjuez, Madrid",DRIVE,12:00,2026-02-27,47.89,43.0,43.6,0.6
+"Estación de Atocha, Madrid","Alcobendas, Madrid",DRIVE,12:00,2026-02-27,18.7,19.5,18.4,-1.1
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",DRIVE,12:00,2026-02-27,25.2,27.3,25.8,-1.5
+"Estación de Atocha, Madrid","Móstoles, Madrid",DRIVE,12:00,2026-02-27,25.18,30.6,31.7,1.1
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",DRIVE,12:00,2026-02-27,22.96,27.1,30.2,3.1
+"Estación de Atocha, Madrid","Parla, Madrid",DRIVE,12:00,2026-02-27,24.36,29.1,29.7,0.6
+"Estación de Atocha, Madrid","Pinto, Madrid",DRIVE,12:00,2026-02-27,23.85,23.6,25.4,1.8
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",DRIVE,12:00,2026-02-27,16.68,17.7,17.2,-0.5
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",DRIVE,12:00,2026-02-27,26.62,27.8,27.2,-0.6
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",DRIVE,12:00,2026-02-27,9.54,11.8,11.7,-0.1
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",DRIVE,12:00,2026-02-27,17.9,15.8,17.0,1.2
+"Moncloa, Madrid","Majadahonda, Madrid",DRIVE,12:00,2026-02-27,18.27,16.4,17.5,1.1
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",DRIVE,12:00,2026-02-27,10.63,13.0,12.9,-0.1
+"Moncloa, Madrid","Boadilla del Monte, Madrid",DRIVE,12:00,2026-02-27,20.84,19.4,18.8,-0.6
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",DRIVE,12:00,2026-02-27,34.15,29.0,28.1,-0.9
+"Puerta del Sol, Madrid","Alcorcón, Madrid",DRIVE,12:00,2026-02-27,15.35,25.0,29.1,4.1
+"Puerta del Sol, Madrid","Leganés, Madrid",DRIVE,12:00,2026-02-27,13.68,24.1,26.4,2.3
+"Puerta del Sol, Madrid","Getafe, Madrid",DRIVE,12:00,2026-02-27,14.4,26.2,27.8,1.6
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",DRIVE,12:00,2026-02-27,30.81,36.5,36.5,0.0
+"Puerta del Sol, Madrid","Coslada, Madrid",DRIVE,12:00,2026-02-27,20.72,28.7,30.1,1.4
+"Estación de Atocha, Madrid",Toledo,DRIVE,12:00,2026-02-27,73.34,57.2,57.8,0.6
+"Estación de Atocha, Madrid",Segovia,DRIVE,12:00,2026-02-27,99.76,74.5,74.3,-0.2
+"Estación de Atocha, Madrid",Ávila,DRIVE,12:00,2026-02-27,117.1,82.4,80.1,-2.3
+"Estación de Atocha, Madrid",Cuenca,DRIVE,12:00,2026-02-27,164.27,98.5,94.8,-3.7
+"Estación de Chamartín, Madrid",Valladolid,DRIVE,12:00,2026-02-27,208.61,133.7,138.9,5.2
+"Estación de Chamartín, Madrid",Burgos,DRIVE,12:00,2026-02-27,234.65,140.0,137.0,-3.0
+"Estación de Chamartín, Madrid",Salamanca,DRIVE,12:00,2026-02-27,214.75,133.4,134.7,1.3
+"Estación de Atocha, Madrid",Córdoba,DRIVE,12:00,2026-02-27,392.87,238.5,233.8,-4.7
+"Estación de Atocha, Madrid",Ciudad Real,DRIVE,12:00,2026-02-27,190.37,134.3,139.1,4.8
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",DRIVE,12:00,2026-02-27,613.8,366.8,356.4,-10.4
+"Estación de Atocha, Madrid","Valencia, España",DRIVE,12:00,2026-02-27,355.0,215.0,216.0,1.0
+"Estación de Atocha, Madrid","Sevilla, España",DRIVE,12:00,2026-02-27,534.39,307.4,297.6,-9.8
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,12:00,2026-02-27,314.08,193.5,189.7,-3.8
+"Estación de Atocha, Madrid","Málaga, España",DRIVE,12:00,2026-02-27,533.33,316.2,312.2,-4.0
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,12:00,2026-02-27,387.98,233.3,225.8,-7.5
+"Estación de Chamartín, Madrid","San Sebastián, España",DRIVE,12:00,2026-02-27,442.83,268.6,261.7,-6.9
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",DRIVE,12:00,2026-02-27,14.38,18.7,20.4,1.7
+"Móstoles, Madrid","Alcorcón, Madrid",DRIVE,12:00,2026-02-27,8.93,15.5,17.6,2.1
+"Móstoles, Madrid","Leganés, Madrid",DRIVE,12:00,2026-02-27,11.77,22.1,22.3,0.2
+"Móstoles, Madrid","Fuenlabrada, Madrid",DRIVE,12:00,2026-02-27,9.98,18.0,19.9,1.9
+"Getafe, Madrid","Parla, Madrid",DRIVE,12:00,2026-02-27,10.84,15.5,16.0,0.5
+"Getafe, Madrid","Leganés, Madrid",DRIVE,12:00,2026-02-27,4.77,12.6,13.1,0.5
+"Las Rozas de Madrid, Madrid","Majadahonda, Madrid",DRIVE,12:00,2026-02-27,3.12,7.1,5.9,-1.2
+"Tres Cantos, Madrid","Alcobendas, Madrid",DRIVE,12:00,2026-02-27,17.22,15.6,16.1,0.5
+"Aranjuez, Madrid","Valdemoro, Madrid",DRIVE,12:00,2026-02-27,22.01,21.4,21.6,0.2
+"Aranjuez, Madrid","Ocaña, Toledo",DRIVE,12:00,2026-02-27,16.03,17.0,16.1,-0.9
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",TRANSIT,12:00,2026-02-27,15.7,34.1,,
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",TRANSIT,12:00,2026-02-27,2.49,11.2,,
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",TRANSIT,12:00,2026-02-27,6.93,22.9,,
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",TRANSIT,12:00,2026-02-27,6.48,22.4,,
+"Puerta del Sol, Madrid","Vallecas, Madrid",TRANSIT,12:00,2026-02-27,11.23,40.0,,
+"Puerta del Sol, Madrid","Moncloa, Madrid",TRANSIT,12:00,2026-02-27,10.48,60.9,,
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",TRANSIT,12:00,2026-02-27,4.45,18.2,,
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",TRANSIT,12:00,2026-02-27,4.56,26.1,,
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",TRANSIT,12:00,2026-02-27,14.73,45.2,,
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",TRANSIT,12:00,2026-02-27,12.29,20.7,,
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",TRANSIT,12:00,2026-02-27,5.21,15.6,,
+"Retiro, Madrid","Ciudad Universitaria, Madrid",TRANSIT,12:00,2026-02-27,7.69,43.8,,
+"Retiro, Madrid","Leganés, Madrid",TRANSIT,12:00,2026-02-27,16.03,42.6,,
+"Retiro, Madrid","Getafe, Madrid",TRANSIT,12:00,2026-02-27,14.48,38.0,,
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",TRANSIT,12:00,2026-02-27,33.21,42.2,,
+"Estación de Atocha, Madrid","Aranjuez, Madrid",TRANSIT,12:00,2026-02-27,48.26,36.6,,
+"Estación de Atocha, Madrid","Alcobendas, Madrid",TRANSIT,12:00,2026-02-27,24.9,50.1,,
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",TRANSIT,12:00,2026-02-27,24.25,60.3,,
+"Estación de Atocha, Madrid","Móstoles, Madrid",TRANSIT,12:00,2026-02-27,19.76,38.5,,
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",TRANSIT,12:00,2026-02-27,21.62,44.9,,
+"Estación de Atocha, Madrid","Parla, Madrid",TRANSIT,12:00,2026-02-27,21.86,41.4,,
+"Estación de Atocha, Madrid","Pinto, Madrid",TRANSIT,12:00,2026-02-27,19.71,30.5,,
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",TRANSIT,12:00,2026-02-27,15.34,24.5,,
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",TRANSIT,12:00,2026-02-27,22.64,33.5,,
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",TRANSIT,12:00,2026-02-27,9.76,31.8,,
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",TRANSIT,12:00,2026-02-27,22.6,58.3,,
+"Moncloa, Madrid","Majadahonda, Madrid",TRANSIT,12:00,2026-02-27,14.83,78.6,,
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",TRANSIT,12:00,2026-02-27,5.91,48.2,,
+"Moncloa, Madrid","Boadilla del Monte, Madrid",TRANSIT,12:00,2026-02-27,38.31,100.5,,
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",TRANSIT,12:00,2026-02-27,41.3,91.3,,
+"Puerta del Sol, Madrid","Alcorcón, Madrid",TRANSIT,12:00,2026-02-27,17.47,44.7,,
+"Puerta del Sol, Madrid","Leganés, Madrid",TRANSIT,12:00,2026-02-27,16.67,34.5,,
+"Puerta del Sol, Madrid","Getafe, Madrid",TRANSIT,12:00,2026-02-27,14.43,25.5,,
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",TRANSIT,12:00,2026-02-27,25.13,39.0,,
+"Puerta del Sol, Madrid","Coslada, Madrid",TRANSIT,12:00,2026-02-27,17.05,29.9,,
+"Estación de Atocha, Madrid",Toledo,TRANSIT,12:00,2026-02-27,83.88,54.4,,
+"Estación de Atocha, Madrid",Segovia,TRANSIT,12:00,2026-02-27,81.76,84.0,,
+"Estación de Atocha, Madrid",Ávila,TRANSIT,12:00,2026-02-27,128.24,115.2,,
+"Estación de Atocha, Madrid",Cuenca,TRANSIT,12:00,2026-02-27,195.45,81.1,,
+"Estación de Chamartín, Madrid",Valladolid,TRANSIT,12:00,2026-02-27,179.23,73.5,,
+"Estación de Chamartín, Madrid",Burgos,TRANSIT,12:00,2026-02-27,303.96,109.5,,
+"Estación de Chamartín, Madrid",Salamanca,TRANSIT,12:00,2026-02-27,243.31,150.5,,
+"Estación de Atocha, Madrid",Córdoba,TRANSIT,12:00,2026-02-27,343.92,106.6,,
+"Estación de Atocha, Madrid",Ciudad Real,TRANSIT,12:00,2026-02-27,171.32,64.0,,
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",TRANSIT,12:00,2026-02-27,602.48,168.1,,
+"Estación de Atocha, Madrid","Valencia, España",TRANSIT,12:00,2026-02-27,406.73,141.6,,
+"Estación de Atocha, Madrid","Sevilla, España",TRANSIT,12:00,2026-02-27,470.54,164.6,,
+"Estación de Atocha, Madrid","Zaragoza, España",TRANSIT,12:00,2026-02-27,306.89,107.1,,
+"Estación de Atocha, Madrid","Málaga, España",TRANSIT,12:00,2026-02-27,536.46,173.1,,
+"Estación de Chamartín, Madrid","Bilbao, España",TRANSIT,12:00,2026-02-27,334.25,314.8,,
+"Estación de Chamartín, Madrid","San Sebastián, España",TRANSIT,12:00,2026-02-27,549.77,308.5,,
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",TRANSIT,12:00,2026-02-27,10.37,9.0,,
+"Móstoles, Madrid","Alcorcón, Madrid",TRANSIT,12:00,2026-02-27,8.38,23.7,,
+"Móstoles, Madrid","Leganés, Madrid",TRANSIT,12:00,2026-02-27,13.27,26.2,,
+"Móstoles, Madrid","Fuenlabrada, Madrid",TRANSIT,12:00,2026-02-27,10.65,46.2,,
+"Getafe, Madrid","Parla, Madrid",TRANSIT,12:00,2026-02-27,9.03,20.8,,
+"Getafe, Madrid","Leganés, Madrid",TRANSIT,12:00,2026-02-27,10.91,16.1,,
+"Las Rozas de Madrid, Madrid","Majadahonda, Madrid",TRANSIT,12:00,2026-02-27,11.4,27.1,,
+"Tres Cantos, Madrid","Alcobendas, Madrid",TRANSIT,12:00,2026-02-27,14.8,55.0,,
+"Aranjuez, Madrid","Valdemoro, Madrid",TRANSIT,12:00,2026-02-27,22.34,26.6,,
+"Aranjuez, Madrid","Ocaña, Toledo",TRANSIT,12:00,2026-02-27,16.96,15.0,,
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,13:00,2026-02-27,20.96,25.8,29.2,3.4
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",DRIVE,13:00,2026-02-27,3.71,15.1,15.6,0.5
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",DRIVE,13:00,2026-02-27,18.03,27.1,30.8,3.7
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",DRIVE,13:00,2026-02-27,12.59,26.6,26.6,0.0
+"Puerta del Sol, Madrid","Vallecas, Madrid",DRIVE,13:00,2026-02-27,18.78,22.6,24.3,1.7
+"Puerta del Sol, Madrid","Moncloa, Madrid",DRIVE,13:00,2026-02-27,11.92,20.5,23.1,2.6
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",DRIVE,13:00,2026-02-27,6.51,21.9,23.5,1.6
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",DRIVE,13:00,2026-02-27,4.2,11.9,14.3,2.4
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",DRIVE,13:00,2026-02-27,10.39,12.8,14.7,1.9
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,13:00,2026-02-27,12.54,16.0,19.2,3.2
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",DRIVE,13:00,2026-02-27,5.83,17.7,22.4,4.7
+"Retiro, Madrid","Ciudad Universitaria, Madrid",DRIVE,13:00,2026-02-27,8.78,22.4,26.4,4.0
+"Retiro, Madrid","Leganés, Madrid",DRIVE,13:00,2026-02-27,14.27,23.3,26.8,3.5
+"Retiro, Madrid","Getafe, Madrid",DRIVE,13:00,2026-02-27,14.99,25.4,28.7,3.3
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",DRIVE,13:00,2026-02-27,33.74,31.6,36.2,4.6
+"Estación de Atocha, Madrid","Aranjuez, Madrid",DRIVE,13:00,2026-02-27,47.89,43.0,47.4,4.4
+"Estación de Atocha, Madrid","Alcobendas, Madrid",DRIVE,13:00,2026-02-27,18.7,19.5,20.8,1.3
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",DRIVE,13:00,2026-02-27,25.2,27.3,29.6,2.3
+"Estación de Atocha, Madrid","Móstoles, Madrid",DRIVE,13:00,2026-02-27,25.18,30.6,36.1,5.5
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",DRIVE,13:00,2026-02-27,22.96,27.1,34.7,7.6
+"Estación de Atocha, Madrid","Parla, Madrid",DRIVE,13:00,2026-02-27,24.36,29.1,34.8,5.7
+"Estación de Atocha, Madrid","Pinto, Madrid",DRIVE,13:00,2026-02-27,23.85,23.6,28.2,4.6
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",DRIVE,13:00,2026-02-27,16.68,17.7,17.6,-0.1
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",DRIVE,13:00,2026-02-27,26.62,27.8,28.4,0.6
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",DRIVE,13:00,2026-02-27,9.54,11.8,12.2,0.4
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",DRIVE,13:00,2026-02-27,17.9,15.8,18.4,2.6
+"Moncloa, Madrid","Majadahonda, Madrid",DRIVE,13:00,2026-02-27,18.27,16.4,18.6,2.2
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",DRIVE,13:00,2026-02-27,10.63,13.0,14.2,1.2
+"Moncloa, Madrid","Boadilla del Monte, Madrid",DRIVE,13:00,2026-02-27,20.84,19.4,20.6,1.2
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",DRIVE,13:00,2026-02-27,34.15,29.0,29.2,0.2
+"Puerta del Sol, Madrid","Alcorcón, Madrid",DRIVE,13:00,2026-02-27,15.35,25.0,30.1,5.1
+"Puerta del Sol, Madrid","Leganés, Madrid",DRIVE,13:00,2026-02-27,13.68,24.1,26.8,2.7
+"Puerta del Sol, Madrid","Getafe, Madrid",DRIVE,13:00,2026-02-27,14.4,26.2,28.7,2.5
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",DRIVE,13:00,2026-02-27,30.81,36.5,40.0,3.5
+"Puerta del Sol, Madrid","Coslada, Madrid",DRIVE,13:00,2026-02-27,20.72,28.7,31.6,2.9
+"Estación de Atocha, Madrid",Toledo,DRIVE,13:00,2026-02-27,73.34,57.2,64.2,7.0
+"Estación de Atocha, Madrid",Segovia,DRIVE,13:00,2026-02-27,99.76,74.5,75.3,0.8
+"Estación de Atocha, Madrid",Ávila,DRIVE,13:00,2026-02-27,117.1,82.4,80.4,-2.0
+"Estación de Atocha, Madrid",Cuenca,DRIVE,13:00,2026-02-27,164.27,98.5,95.0,-3.5
+"Estación de Chamartín, Madrid",Valladolid,DRIVE,13:00,2026-02-27,208.61,133.7,141.0,7.3
+"Estación de Chamartín, Madrid",Burgos,DRIVE,13:00,2026-02-27,234.65,140.0,137.2,-2.8
+"Estación de Chamartín, Madrid",Salamanca,DRIVE,13:00,2026-02-27,214.75,133.4,140.5,7.1
+"Estación de Atocha, Madrid",Córdoba,DRIVE,13:00,2026-02-27,392.87,238.5,241.0,2.5
+"Estación de Atocha, Madrid",Ciudad Real,DRIVE,13:00,2026-02-27,190.37,134.3,147.9,13.6
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",DRIVE,13:00,2026-02-27,613.8,366.8,362.7,-4.1
+"Estación de Atocha, Madrid","Valencia, España",DRIVE,13:00,2026-02-27,355.0,215.0,216.7,1.7
+"Estación de Atocha, Madrid","Sevilla, España",DRIVE,13:00,2026-02-27,534.39,307.4,302.0,-5.4
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,13:00,2026-02-27,314.08,193.5,197.2,3.7
+"Estación de Atocha, Madrid","Málaga, España",DRIVE,13:00,2026-02-27,533.33,316.2,318.7,2.5
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,13:00,2026-02-27,387.98,233.3,226.8,-6.5
+"Estación de Chamartín, Madrid","San Sebastián, España",DRIVE,13:00,2026-02-27,442.83,268.6,262.7,-5.9
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",DRIVE,13:00,2026-02-27,14.38,18.7,22.8,4.1
+"Móstoles, Madrid","Alcorcón, Madrid",DRIVE,13:00,2026-02-27,8.93,15.5,17.7,2.2
+"Móstoles, Madrid","Leganés, Madrid",DRIVE,13:00,2026-02-27,11.77,22.1,23.4,1.3
+"Móstoles, Madrid","Fuenlabrada, Madrid",DRIVE,13:00,2026-02-27,9.98,18.0,21.4,3.4
+"Getafe, Madrid","Parla, Madrid",DRIVE,13:00,2026-02-27,10.84,15.5,18.0,2.5
+"Getafe, Madrid","Leganés, Madrid",DRIVE,13:00,2026-02-27,4.77,12.6,13.8,1.2
+"Las Rozas de Madrid, Madrid","Majadahonda, Madrid",DRIVE,13:00,2026-02-27,3.12,7.1,5.9,-1.2
+"Tres Cantos, Madrid","Alcobendas, Madrid",DRIVE,13:00,2026-02-27,17.22,15.6,16.9,1.3
+"Aranjuez, Madrid","Valdemoro, Madrid",DRIVE,13:00,2026-02-27,22.01,21.4,21.6,0.2
+"Aranjuez, Madrid","Ocaña, Toledo",DRIVE,13:00,2026-02-27,16.03,17.0,16.4,-0.6
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",TRANSIT,13:00,2026-02-27,15.7,32.6,,
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",TRANSIT,13:00,2026-02-27,2.11,12.6,,
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",TRANSIT,13:00,2026-02-27,6.93,22.9,,
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",TRANSIT,13:00,2026-02-27,6.48,22.4,,
+"Puerta del Sol, Madrid","Vallecas, Madrid",TRANSIT,13:00,2026-02-27,11.23,40.0,,
+"Puerta del Sol, Madrid","Moncloa, Madrid",TRANSIT,13:00,2026-02-27,6.39,67.9,,
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",TRANSIT,13:00,2026-02-27,4.45,18.2,,
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",TRANSIT,13:00,2026-02-27,4.56,25.7,,
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",TRANSIT,13:00,2026-02-27,14.73,45.2,,
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",TRANSIT,13:00,2026-02-27,12.29,20.7,,
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",TRANSIT,13:00,2026-02-27,5.21,15.6,,
+"Retiro, Madrid","Ciudad Universitaria, Madrid",TRANSIT,13:00,2026-02-27,7.69,41.7,,
+"Retiro, Madrid","Leganés, Madrid",TRANSIT,13:00,2026-02-27,16.58,39.0,,
+"Retiro, Madrid","Getafe, Madrid",TRANSIT,13:00,2026-02-27,14.87,39.0,,
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",TRANSIT,13:00,2026-02-27,33.21,43.6,,
+"Estación de Atocha, Madrid","Aranjuez, Madrid",TRANSIT,13:00,2026-02-27,48.17,48.6,,
+"Estación de Atocha, Madrid","Alcobendas, Madrid",TRANSIT,13:00,2026-02-27,18.86,51.8,,
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",TRANSIT,13:00,2026-02-27,24.25,61.6,,
+"Estación de Atocha, Madrid","Móstoles, Madrid",TRANSIT,13:00,2026-02-27,19.76,39.5,,
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",TRANSIT,13:00,2026-02-27,21.62,44.9,,
+"Estación de Atocha, Madrid","Parla, Madrid",TRANSIT,13:00,2026-02-27,21.86,41.4,,
+"Estación de Atocha, Madrid","Pinto, Madrid",TRANSIT,13:00,2026-02-27,20.65,26.6,,
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",TRANSIT,13:00,2026-02-27,15.34,24.5,,
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",TRANSIT,13:00,2026-02-27,22.64,33.5,,
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",TRANSIT,13:00,2026-02-27,13.63,37.0,,
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",TRANSIT,13:00,2026-02-27,24.14,58.8,,
+"Moncloa, Madrid","Majadahonda, Madrid",TRANSIT,13:00,2026-02-27,35.36,79.5,,
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",TRANSIT,13:00,2026-02-27,5.66,47.9,,
+"Moncloa, Madrid","Boadilla del Monte, Madrid",TRANSIT,13:00,2026-02-27,38.31,104.5,,
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",TRANSIT,13:00,2026-02-27,39.84,88.0,,
+"Puerta del Sol, Madrid","Alcorcón, Madrid",TRANSIT,13:00,2026-02-27,17.66,44.9,,
+"Puerta del Sol, Madrid","Leganés, Madrid",TRANSIT,13:00,2026-02-27,16.77,32.5,,
+"Puerta del Sol, Madrid","Getafe, Madrid",TRANSIT,13:00,2026-02-27,14.43,26.5,,
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",TRANSIT,13:00,2026-02-27,24.73,45.5,,
+"Puerta del Sol, Madrid","Coslada, Madrid",TRANSIT,13:00,2026-02-27,16.65,36.5,,
+"Estación de Atocha, Madrid",Toledo,TRANSIT,13:00,2026-02-27,83.76,53.7,,
+"Estación de Atocha, Madrid",Segovia,TRANSIT,13:00,2026-02-27,81.56,85.5,,
+"Estación de Atocha, Madrid",Ávila,TRANSIT,13:00,2026-02-27,128.06,133.2,,
+"Estación de Atocha, Madrid",Cuenca,TRANSIT,13:00,2026-02-27,195.45,81.1,,
+"Estación de Chamartín, Madrid",Valladolid,TRANSIT,13:00,2026-02-27,179.52,63.5,,
+"Estación de Chamartín, Madrid",Burgos,TRANSIT,13:00,2026-02-27,303.96,109.5,,
+"Estación de Chamartín, Madrid",Salamanca,TRANSIT,13:00,2026-02-27,243.1,109.5,,
+"Estación de Atocha, Madrid",Córdoba,TRANSIT,13:00,2026-02-27,346.05,121.3,,
+"Estación de Atocha, Madrid",Ciudad Real,TRANSIT,13:00,2026-02-27,171.32,63.0,,
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",TRANSIT,13:00,2026-02-27,602.48,168.1,,
+"Estación de Atocha, Madrid","Valencia, España",TRANSIT,13:00,2026-02-27,390.24,132.1,,
+"Estación de Atocha, Madrid","Sevilla, España",TRANSIT,13:00,2026-02-27,470.82,168.8,,
+"Estación de Atocha, Madrid","Zaragoza, España",TRANSIT,13:00,2026-02-27,306.89,107.1,,
+"Estación de Atocha, Madrid","Málaga, España",TRANSIT,13:00,2026-02-27,536.46,173.1,,
+"Estación de Chamartín, Madrid","Bilbao, España",TRANSIT,13:00,2026-02-27,325.7,280.6,,
+"Estación de Chamartín, Madrid","San Sebastián, España",TRANSIT,13:00,2026-02-27,549.77,308.5,,
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",TRANSIT,13:00,2026-02-27,10.37,9.0,,
+"Móstoles, Madrid","Alcorcón, Madrid",TRANSIT,13:00,2026-02-27,8.41,27.3,,
+"Móstoles, Madrid","Leganés, Madrid",TRANSIT,13:00,2026-02-27,13.27,26.2,,
+"Móstoles, Madrid","Fuenlabrada, Madrid",TRANSIT,13:00,2026-02-27,10.65,46.2,,
+"Getafe, Madrid","Parla, Madrid",TRANSIT,13:00,2026-02-27,9.03,20.8,,
+"Getafe, Madrid","Leganés, Madrid",TRANSIT,13:00,2026-02-27,10.91,16.1,,
+"Las Rozas de Madrid, Madrid","Majadahonda, Madrid",TRANSIT,13:00,2026-02-27,11.4,23.2,,
+"Tres Cantos, Madrid","Alcobendas, Madrid",TRANSIT,13:00,2026-02-27,13.74,40.5,,
+"Aranjuez, Madrid","Valdemoro, Madrid",TRANSIT,13:00,2026-02-27,22.34,26.6,,
+"Aranjuez, Madrid","Ocaña, Toledo",TRANSIT,13:00,2026-02-27,16.96,15.0,,
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,14:00,2026-02-27,20.96,25.8,29.2,3.4
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",DRIVE,14:00,2026-02-27,3.71,15.1,14.6,-0.5
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",DRIVE,14:00,2026-02-27,18.03,27.1,31.3,4.2
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",DRIVE,14:00,2026-02-27,12.59,26.6,26.2,-0.4
+"Puerta del Sol, Madrid","Vallecas, Madrid",DRIVE,14:00,2026-02-27,18.78,22.6,24.9,2.3
+"Puerta del Sol, Madrid","Moncloa, Madrid",DRIVE,14:00,2026-02-27,11.92,20.5,24.0,3.5
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",DRIVE,14:00,2026-02-27,6.51,21.9,22.1,0.2
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",DRIVE,14:00,2026-02-27,4.2,11.9,13.8,1.9
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",DRIVE,14:00,2026-02-27,10.39,12.8,15.1,2.3
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,14:00,2026-02-27,12.54,16.0,22.0,6.0
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",DRIVE,14:00,2026-02-27,5.83,17.7,23.5,5.8
+"Retiro, Madrid","Ciudad Universitaria, Madrid",DRIVE,14:00,2026-02-27,8.78,22.4,25.5,3.1
+"Retiro, Madrid","Leganés, Madrid",DRIVE,14:00,2026-02-27,14.27,23.3,27.3,4.0
+"Retiro, Madrid","Getafe, Madrid",DRIVE,14:00,2026-02-27,14.99,25.4,28.8,3.4
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",DRIVE,14:00,2026-02-27,33.74,31.6,36.5,4.9
+"Estación de Atocha, Madrid","Aranjuez, Madrid",DRIVE,14:00,2026-02-27,47.89,43.0,47.7,4.7
+"Estación de Atocha, Madrid","Alcobendas, Madrid",DRIVE,14:00,2026-02-27,18.7,19.5,21.4,1.9
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",DRIVE,14:00,2026-02-27,25.2,27.3,29.3,2.0
+"Estación de Atocha, Madrid","Móstoles, Madrid",DRIVE,14:00,2026-02-27,25.18,30.6,36.2,5.6
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",DRIVE,14:00,2026-02-27,22.96,27.1,35.0,7.9
+"Estación de Atocha, Madrid","Parla, Madrid",DRIVE,14:00,2026-02-27,24.36,29.1,35.3,6.2
+"Estación de Atocha, Madrid","Pinto, Madrid",DRIVE,14:00,2026-02-27,23.85,23.6,28.8,5.2
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",DRIVE,14:00,2026-02-27,16.68,17.7,18.7,1.0
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",DRIVE,14:00,2026-02-27,26.62,27.8,31.2,3.4
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",DRIVE,14:00,2026-02-27,9.54,11.8,12.7,0.9
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",DRIVE,14:00,2026-02-27,17.9,15.8,22.3,6.5
+"Moncloa, Madrid","Majadahonda, Madrid",DRIVE,14:00,2026-02-27,18.27,16.4,22.2,5.8
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",DRIVE,14:00,2026-02-27,10.63,13.0,16.6,3.6
+"Moncloa, Madrid","Boadilla del Monte, Madrid",DRIVE,14:00,2026-02-27,20.84,19.4,24.1,4.7
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",DRIVE,14:00,2026-02-27,34.15,29.0,32.4,3.4
+"Puerta del Sol, Madrid","Alcorcón, Madrid",DRIVE,14:00,2026-02-27,15.35,25.0,32.1,7.1
+"Puerta del Sol, Madrid","Leganés, Madrid",DRIVE,14:00,2026-02-27,13.68,24.1,26.5,2.4
+"Puerta del Sol, Madrid","Getafe, Madrid",DRIVE,14:00,2026-02-27,14.4,26.2,27.6,1.4
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",DRIVE,14:00,2026-02-27,30.81,36.5,41.3,4.8
+"Puerta del Sol, Madrid","Coslada, Madrid",DRIVE,14:00,2026-02-27,20.72,28.7,31.2,2.5
+"Estación de Atocha, Madrid",Toledo,DRIVE,14:00,2026-02-27,73.34,57.2,62.5,5.3
+"Estación de Atocha, Madrid",Segovia,DRIVE,14:00,2026-02-27,99.76,74.5,77.6,3.1
+"Estación de Atocha, Madrid",Ávila,DRIVE,14:00,2026-02-27,117.1,82.4,83.8,1.4
+"Estación de Atocha, Madrid",Cuenca,DRIVE,14:00,2026-02-27,164.27,98.5,101.3,2.8
+"Estación de Chamartín, Madrid",Valladolid,DRIVE,14:00,2026-02-27,208.61,133.7,149.2,15.5
+"Estación de Chamartín, Madrid",Burgos,DRIVE,14:00,2026-02-27,234.65,140.0,141.8,1.8
+"Estación de Chamartín, Madrid",Salamanca,DRIVE,14:00,2026-02-27,214.75,133.4,148.2,14.8
+"Estación de Atocha, Madrid",Córdoba,DRIVE,14:00,2026-02-27,392.87,238.5,244.3,5.8
+"Estación de Atocha, Madrid",Ciudad Real,DRIVE,14:00,2026-02-27,190.37,134.3,147.9,13.6
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",DRIVE,14:00,2026-02-27,613.8,366.8,361.1,-5.7
+"Estación de Atocha, Madrid","Valencia, España",DRIVE,14:00,2026-02-27,355.0,215.0,220.9,5.9
+"Estación de Atocha, Madrid","Sevilla, España",DRIVE,14:00,2026-02-27,534.39,307.4,305.7,-1.7
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,14:00,2026-02-27,314.08,193.5,197.4,3.9
+"Estación de Atocha, Madrid","Málaga, España",DRIVE,14:00,2026-02-27,533.33,316.2,320.2,4.0
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,14:00,2026-02-27,387.98,233.3,232.2,-1.1
+"Estación de Chamartín, Madrid","San Sebastián, España",DRIVE,14:00,2026-02-27,442.83,268.6,267.3,-1.3
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",DRIVE,14:00,2026-02-27,14.38,18.7,22.0,3.3
+"Móstoles, Madrid","Alcorcón, Madrid",DRIVE,14:00,2026-02-27,8.93,15.5,17.2,1.7
+"Móstoles, Madrid","Leganés, Madrid",DRIVE,14:00,2026-02-27,11.77,22.1,21.9,-0.2
+"Móstoles, Madrid","Fuenlabrada, Madrid",DRIVE,14:00,2026-02-27,9.98,18.0,19.7,1.7
+"Getafe, Madrid","Parla, Madrid",DRIVE,14:00,2026-02-27,10.84,15.5,18.4,2.9
+"Getafe, Madrid","Leganés, Madrid",DRIVE,14:00,2026-02-27,4.77,12.6,13.8,1.2
+"Las Rozas de Madrid, Madrid","Majadahonda, Madrid",DRIVE,14:00,2026-02-27,3.12,7.1,5.8,-1.3
+"Tres Cantos, Madrid","Alcobendas, Madrid",DRIVE,14:00,2026-02-27,17.22,15.6,16.1,0.5
+"Aranjuez, Madrid","Valdemoro, Madrid",DRIVE,14:00,2026-02-27,22.01,21.4,21.2,-0.2
+"Aranjuez, Madrid","Ocaña, Toledo",DRIVE,14:00,2026-02-27,16.03,17.0,15.8,-1.2
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",TRANSIT,14:00,2026-02-27,15.7,32.6,,
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",TRANSIT,14:00,2026-02-27,2.11,12.6,,
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",TRANSIT,14:00,2026-02-27,6.93,22.9,,
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",TRANSIT,14:00,2026-02-27,6.48,22.4,,
+"Puerta del Sol, Madrid","Vallecas, Madrid",TRANSIT,14:00,2026-02-27,11.23,40.0,,
+"Puerta del Sol, Madrid","Moncloa, Madrid",TRANSIT,14:00,2026-02-27,12.06,64.5,,
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",TRANSIT,14:00,2026-02-27,4.45,18.2,,
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",TRANSIT,14:00,2026-02-27,4.56,28.2,,
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",TRANSIT,14:00,2026-02-27,14.73,45.2,,
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",TRANSIT,14:00,2026-02-27,12.29,20.7,,
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",TRANSIT,14:00,2026-02-27,5.21,15.6,,
+"Retiro, Madrid","Ciudad Universitaria, Madrid",TRANSIT,14:00,2026-02-27,7.69,40.8,,
+"Retiro, Madrid","Leganés, Madrid",TRANSIT,14:00,2026-02-27,16.96,41.7,,
+"Retiro, Madrid","Getafe, Madrid",TRANSIT,14:00,2026-02-27,15.68,39.7,,
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",TRANSIT,14:00,2026-02-27,33.21,42.2,,
+"Estación de Atocha, Madrid","Aranjuez, Madrid",TRANSIT,14:00,2026-02-27,48.17,48.6,,
+"Estación de Atocha, Madrid","Alcobendas, Madrid",TRANSIT,14:00,2026-02-27,21.54,53.5,,
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",TRANSIT,14:00,2026-02-27,24.25,62.5,,
+"Estación de Atocha, Madrid","Móstoles, Madrid",TRANSIT,14:00,2026-02-27,19.76,39.5,,
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",TRANSIT,14:00,2026-02-27,21.62,44.9,,
+"Estación de Atocha, Madrid","Parla, Madrid",TRANSIT,14:00,2026-02-27,21.86,41.4,,
+"Estación de Atocha, Madrid","Pinto, Madrid",TRANSIT,14:00,2026-02-27,20.65,26.6,,
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",TRANSIT,14:00,2026-02-27,15.34,24.5,,
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",TRANSIT,14:00,2026-02-27,22.64,33.5,,
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",TRANSIT,14:00,2026-02-27,13.63,37.0,,
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",TRANSIT,14:00,2026-02-27,22.49,59.0,,
+"Moncloa, Madrid","Majadahonda, Madrid",TRANSIT,14:00,2026-02-27,14.83,78.6,,
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",TRANSIT,14:00,2026-02-27,5.91,48.2,,
+"Moncloa, Madrid","Boadilla del Monte, Madrid",TRANSIT,14:00,2026-02-27,38.31,108.6,,
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",TRANSIT,14:00,2026-02-27,39.84,87.7,,
+"Puerta del Sol, Madrid","Alcorcón, Madrid",TRANSIT,14:00,2026-02-27,15.82,40.9,,
+"Puerta del Sol, Madrid","Leganés, Madrid",TRANSIT,14:00,2026-02-27,16.1,31.5,,
+"Puerta del Sol, Madrid","Getafe, Madrid",TRANSIT,14:00,2026-02-27,14.43,26.5,,
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",TRANSIT,14:00,2026-02-27,24.73,43.5,,
+"Puerta del Sol, Madrid","Coslada, Madrid",TRANSIT,14:00,2026-02-27,16.65,34.5,,
+"Estación de Atocha, Madrid",Toledo,TRANSIT,14:00,2026-02-27,83.88,55.4,,
+"Estación de Atocha, Madrid",Segovia,TRANSIT,14:00,2026-02-27,81.6,78.5,,
+"Estación de Atocha, Madrid",Ávila,TRANSIT,14:00,2026-02-27,128.24,119.2,,
+"Estación de Atocha, Madrid",Cuenca,TRANSIT,14:00,2026-02-27,212.36,113.2,,
+"Estación de Chamartín, Madrid",Valladolid,TRANSIT,14:00,2026-02-27,179.23,73.5,,
+"Estación de Chamartín, Madrid",Burgos,TRANSIT,14:00,2026-02-27,217.9,202.7,,
+"Estación de Chamartín, Madrid",Salamanca,TRANSIT,14:00,2026-02-27,243.1,109.5,,
+"Estación de Atocha, Madrid",Córdoba,TRANSIT,14:00,2026-02-27,344.21,108.6,,
+"Estación de Atocha, Madrid",Ciudad Real,TRANSIT,14:00,2026-02-27,171.32,64.0,,
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",TRANSIT,14:00,2026-02-27,621.07,195.7,,
+"Estación de Atocha, Madrid","Valencia, España",TRANSIT,14:00,2026-02-27,407.01,144.2,,
+"Estación de Atocha, Madrid","Sevilla, España",TRANSIT,14:00,2026-02-27,470.82,162.6,,
+"Estación de Atocha, Madrid","Zaragoza, España",TRANSIT,14:00,2026-02-27,306.89,106.1,,
+"Estación de Atocha, Madrid","Málaga, España",TRANSIT,14:00,2026-02-27,536.46,167.1,,
+"Estación de Chamartín, Madrid","Bilbao, España",TRANSIT,14:00,2026-02-27,322.43,323.1,,
+"Estación de Chamartín, Madrid","San Sebastián, España",TRANSIT,14:00,2026-02-27,360.46,383.1,,
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",TRANSIT,14:00,2026-02-27,10.37,9.0,,
+"Móstoles, Madrid","Alcorcón, Madrid",TRANSIT,14:00,2026-02-27,8.38,23.7,,
+"Móstoles, Madrid","Leganés, Madrid",TRANSIT,14:00,2026-02-27,13.27,26.2,,
+"Móstoles, Madrid","Fuenlabrada, Madrid",TRANSIT,14:00,2026-02-27,10.65,46.2,,
+"Getafe, Madrid","Parla, Madrid",TRANSIT,14:00,2026-02-27,9.03,20.8,,
+"Getafe, Madrid","Leganés, Madrid",TRANSIT,14:00,2026-02-27,10.91,16.1,,
+"Las Rozas de Madrid, Madrid","Majadahonda, Madrid",TRANSIT,14:00,2026-02-27,11.4,23.2,,
+"Tres Cantos, Madrid","Alcobendas, Madrid",TRANSIT,14:00,2026-02-27,27.97,56.9,,
+"Aranjuez, Madrid","Valdemoro, Madrid",TRANSIT,14:00,2026-02-27,22.39,28.1,,
+"Aranjuez, Madrid","Ocaña, Toledo",TRANSIT,14:00,2026-02-27,16.96,15.0,,
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,15:00,2026-02-27,20.96,25.8,26.0,0.2
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",DRIVE,15:00,2026-02-27,3.71,15.1,14.4,-0.7
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",DRIVE,15:00,2026-02-27,18.03,27.1,27.5,0.4
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",DRIVE,15:00,2026-02-27,12.59,26.6,25.0,-1.6
+"Puerta del Sol, Madrid","Vallecas, Madrid",DRIVE,15:00,2026-02-27,18.78,22.6,23.7,1.1
+"Puerta del Sol, Madrid","Moncloa, Madrid",DRIVE,15:00,2026-02-27,11.92,20.5,21.0,0.5
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",DRIVE,15:00,2026-02-27,6.51,21.9,21.4,-0.5
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",DRIVE,15:00,2026-02-27,4.2,11.9,12.0,0.1
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",DRIVE,15:00,2026-02-27,10.39,12.8,13.1,0.3
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,15:00,2026-02-27,12.54,16.0,16.6,0.6
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",DRIVE,15:00,2026-02-27,5.83,17.7,18.9,1.2
+"Retiro, Madrid","Ciudad Universitaria, Madrid",DRIVE,15:00,2026-02-27,8.78,22.4,21.4,-1.0
+"Retiro, Madrid","Leganés, Madrid",DRIVE,15:00,2026-02-27,14.27,23.3,24.6,1.3
+"Retiro, Madrid","Getafe, Madrid",DRIVE,15:00,2026-02-27,14.99,25.4,26.4,1.0
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",DRIVE,15:00,2026-02-27,33.74,31.6,31.2,-0.4
+"Estación de Atocha, Madrid","Aranjuez, Madrid",DRIVE,15:00,2026-02-27,47.89,43.0,45.3,2.3
+"Estación de Atocha, Madrid","Alcobendas, Madrid",DRIVE,15:00,2026-02-27,18.7,19.5,18.1,-1.4
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",DRIVE,15:00,2026-02-27,25.2,27.3,25.8,-1.5
+"Estación de Atocha, Madrid","Móstoles, Madrid",DRIVE,15:00,2026-02-27,25.18,30.6,32.6,2.0
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",DRIVE,15:00,2026-02-27,22.96,27.1,30.0,2.9
+"Estación de Atocha, Madrid","Parla, Madrid",DRIVE,15:00,2026-02-27,24.36,29.1,30.8,1.7
+"Estación de Atocha, Madrid","Pinto, Madrid",DRIVE,15:00,2026-02-27,23.85,23.6,26.1,2.5
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",DRIVE,15:00,2026-02-27,16.68,17.7,17.6,-0.1
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",DRIVE,15:00,2026-02-27,26.62,27.8,28.9,1.1
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",DRIVE,15:00,2026-02-27,9.54,11.8,12.4,0.6
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",DRIVE,15:00,2026-02-27,17.9,15.8,17.8,2.0
+"Moncloa, Madrid","Majadahonda, Madrid",DRIVE,15:00,2026-02-27,18.27,16.4,18.1,1.7
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",DRIVE,15:00,2026-02-27,10.63,13.0,14.3,1.3
+"Moncloa, Madrid","Boadilla del Monte, Madrid",DRIVE,15:00,2026-02-27,20.84,19.4,20.9,1.5
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",DRIVE,15:00,2026-02-27,34.15,29.0,30.2,1.2
+"Puerta del Sol, Madrid","Alcorcón, Madrid",DRIVE,15:00,2026-02-27,15.35,25.0,29.6,4.6
+"Puerta del Sol, Madrid","Leganés, Madrid",DRIVE,15:00,2026-02-27,13.68,24.1,25.4,1.3
+"Puerta del Sol, Madrid","Getafe, Madrid",DRIVE,15:00,2026-02-27,14.4,26.2,26.6,0.4
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",DRIVE,15:00,2026-02-27,30.81,36.5,35.0,-1.5
+"Puerta del Sol, Madrid","Coslada, Madrid",DRIVE,15:00,2026-02-27,20.72,28.7,27.5,-1.2
+"Estación de Atocha, Madrid",Toledo,DRIVE,15:00,2026-02-27,73.34,57.2,59.4,2.2
+"Estación de Atocha, Madrid",Segovia,DRIVE,15:00,2026-02-27,99.76,74.5,74.9,0.4
+"Estación de Atocha, Madrid",Ávila,DRIVE,15:00,2026-02-27,117.1,82.4,81.9,-0.5
+"Estación de Atocha, Madrid",Cuenca,DRIVE,15:00,2026-02-27,164.27,98.5,96.1,-2.4
+"Estación de Chamartín, Madrid",Valladolid,DRIVE,15:00,2026-02-27,208.61,133.7,139.6,5.9
+"Estación de Chamartín, Madrid",Burgos,DRIVE,15:00,2026-02-27,234.65,140.0,142.2,2.2
+"Estación de Chamartín, Madrid",Salamanca,DRIVE,15:00,2026-02-27,214.75,133.4,140.0,6.6
+"Estación de Atocha, Madrid",Córdoba,DRIVE,15:00,2026-02-27,392.87,238.5,242.0,3.5
+"Estación de Atocha, Madrid",Ciudad Real,DRIVE,15:00,2026-02-27,190.37,134.3,142.9,8.6
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",DRIVE,15:00,2026-02-27,613.8,366.8,352.0,-14.8
+"Estación de Atocha, Madrid","Valencia, España",DRIVE,15:00,2026-02-27,355.0,215.0,217.2,2.2
+"Estación de Atocha, Madrid","Sevilla, España",DRIVE,15:00,2026-02-27,534.39,307.4,302.6,-4.8
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,15:00,2026-02-27,314.08,193.5,191.5,-2.0
+"Estación de Atocha, Madrid","Málaga, España",DRIVE,15:00,2026-02-27,533.33,316.2,317.7,1.5
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,15:00,2026-02-27,387.98,233.3,232.1,-1.2
+"Estación de Chamartín, Madrid","San Sebastián, España",DRIVE,15:00,2026-02-27,442.83,268.6,267.6,-1.0
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",DRIVE,15:00,2026-02-27,14.38,18.7,18.5,-0.2
+"Móstoles, Madrid","Alcorcón, Madrid",DRIVE,15:00,2026-02-27,8.93,15.5,15.3,-0.2
+"Móstoles, Madrid","Leganés, Madrid",DRIVE,15:00,2026-02-27,11.77,22.1,21.4,-0.7
+"Móstoles, Madrid","Fuenlabrada, Madrid",DRIVE,15:00,2026-02-27,9.98,18.0,17.3,-0.7
+"Getafe, Madrid","Parla, Madrid",DRIVE,15:00,2026-02-27,10.84,15.5,17.0,1.5
+"Getafe, Madrid","Leganés, Madrid",DRIVE,15:00,2026-02-27,4.77,12.6,12.1,-0.5
+"Las Rozas de Madrid, Madrid","Majadahonda, Madrid",DRIVE,15:00,2026-02-27,3.12,7.1,5.7,-1.4
+"Tres Cantos, Madrid","Alcobendas, Madrid",DRIVE,15:00,2026-02-27,17.22,15.6,15.4,-0.2
+"Aranjuez, Madrid","Valdemoro, Madrid",DRIVE,15:00,2026-02-27,22.01,21.4,20.7,-0.7
+"Aranjuez, Madrid","Ocaña, Toledo",DRIVE,15:00,2026-02-27,16.03,17.0,16.2,-0.8
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",TRANSIT,15:00,2026-02-27,15.7,32.6,,
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",TRANSIT,15:00,2026-02-27,2.49,11.2,,
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",TRANSIT,15:00,2026-02-27,6.93,22.9,,
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",TRANSIT,15:00,2026-02-27,6.48,22.4,,
+"Puerta del Sol, Madrid","Vallecas, Madrid",TRANSIT,15:00,2026-02-27,11.23,40.0,,
+"Puerta del Sol, Madrid","Moncloa, Madrid",TRANSIT,15:00,2026-02-27,12.06,64.5,,
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",TRANSIT,15:00,2026-02-27,4.45,18.2,,
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",TRANSIT,15:00,2026-02-27,4.56,27.5,,
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",TRANSIT,15:00,2026-02-27,14.73,45.2,,
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",TRANSIT,15:00,2026-02-27,12.29,20.7,,
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",TRANSIT,15:00,2026-02-27,5.21,15.6,,
+"Retiro, Madrid","Ciudad Universitaria, Madrid",TRANSIT,15:00,2026-02-27,7.69,41.0,,
+"Retiro, Madrid","Leganés, Madrid",TRANSIT,15:00,2026-02-27,16.03,39.6,,
+"Retiro, Madrid","Getafe, Madrid",TRANSIT,15:00,2026-02-27,14.87,41.0,,
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",TRANSIT,15:00,2026-02-27,33.21,42.2,,
+"Estación de Atocha, Madrid","Aranjuez, Madrid",TRANSIT,15:00,2026-02-27,48.17,48.6,,
+"Estación de Atocha, Madrid","Alcobendas, Madrid",TRANSIT,15:00,2026-02-27,18.86,52.5,,
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",TRANSIT,15:00,2026-02-27,24.25,62.5,,
+"Estación de Atocha, Madrid","Móstoles, Madrid",TRANSIT,15:00,2026-02-27,19.76,38.5,,
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",TRANSIT,15:00,2026-02-27,21.62,45.9,,
+"Estación de Atocha, Madrid","Parla, Madrid",TRANSIT,15:00,2026-02-27,21.86,41.4,,
+"Estación de Atocha, Madrid","Pinto, Madrid",TRANSIT,15:00,2026-02-27,20.65,26.6,,
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",TRANSIT,15:00,2026-02-27,15.34,24.5,,
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",TRANSIT,15:00,2026-02-27,22.64,33.5,,
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",TRANSIT,15:00,2026-02-27,13.63,37.0,,
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",TRANSIT,15:00,2026-02-27,22.6,58.4,,
+"Moncloa, Madrid","Majadahonda, Madrid",TRANSIT,15:00,2026-02-27,27.35,88.0,,
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",TRANSIT,15:00,2026-02-27,5.91,48.2,,
+"Moncloa, Madrid","Boadilla del Monte, Madrid",TRANSIT,15:00,2026-02-27,36.47,98.9,,
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",TRANSIT,15:00,2026-02-27,44.51,111.1,,
+"Puerta del Sol, Madrid","Alcorcón, Madrid",TRANSIT,15:00,2026-02-27,15.82,42.9,,
+"Puerta del Sol, Madrid","Leganés, Madrid",TRANSIT,15:00,2026-02-27,16.77,32.5,,
+"Puerta del Sol, Madrid","Getafe, Madrid",TRANSIT,15:00,2026-02-27,15.41,25.5,,
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",TRANSIT,15:00,2026-02-27,24.63,40.5,,
+"Puerta del Sol, Madrid","Coslada, Madrid",TRANSIT,15:00,2026-02-27,16.55,31.5,,
+"Estación de Atocha, Madrid",Toledo,TRANSIT,15:00,2026-02-27,83.88,55.4,,
+"Estación de Atocha, Madrid",Segovia,TRANSIT,15:00,2026-02-27,81.6,83.5,,
+"Estación de Atocha, Madrid",Ávila,TRANSIT,15:00,2026-02-27,128.24,123.2,,
+"Estación de Atocha, Madrid",Cuenca,TRANSIT,15:00,2026-02-27,211.96,115.6,,
+"Estación de Chamartín, Madrid",Valladolid,TRANSIT,15:00,2026-02-27,179.23,73.5,,
+"Estación de Chamartín, Madrid",Burgos,TRANSIT,15:00,2026-02-27,215.35,183.2,,
+"Estación de Chamartín, Madrid",Salamanca,TRANSIT,15:00,2026-02-27,243.31,149.5,,
+"Estación de Atocha, Madrid",Córdoba,TRANSIT,15:00,2026-02-27,344.21,106.1,,
+"Estación de Atocha, Madrid",Ciudad Real,TRANSIT,15:00,2026-02-27,171.32,59.1,,
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",TRANSIT,15:00,2026-02-27,621.07,195.8,,
+"Estación de Atocha, Madrid","Valencia, España",TRANSIT,15:00,2026-02-27,407.01,141.2,,
+"Estación de Atocha, Madrid","Sevilla, España",TRANSIT,15:00,2026-02-27,470.82,160.1,,
+"Estación de Atocha, Madrid","Zaragoza, España",TRANSIT,15:00,2026-02-27,306.89,101.1,,
+"Estación de Atocha, Madrid","Málaga, España",TRANSIT,15:00,2026-02-27,509.77,191.1,,
+"Estación de Chamartín, Madrid","Bilbao, España",TRANSIT,15:00,2026-02-27,326.28,296.7,,
+"Estación de Chamartín, Madrid","San Sebastián, España",TRANSIT,15:00,2026-02-27,549.77,323.5,,
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",TRANSIT,15:00,2026-02-27,10.37,9.0,,
+"Móstoles, Madrid","Alcorcón, Madrid",TRANSIT,15:00,2026-02-27,13.12,32.8,,
+"Móstoles, Madrid","Leganés, Madrid",TRANSIT,15:00,2026-02-27,13.27,26.2,,
+"Móstoles, Madrid","Fuenlabrada, Madrid",TRANSIT,15:00,2026-02-27,10.65,46.2,,
+"Getafe, Madrid","Parla, Madrid",TRANSIT,15:00,2026-02-27,9.03,20.8,,
+"Getafe, Madrid","Leganés, Madrid",TRANSIT,15:00,2026-02-27,10.91,16.1,,
+"Las Rozas de Madrid, Madrid","Majadahonda, Madrid",TRANSIT,15:00,2026-02-27,12.26,31.0,,
+"Tres Cantos, Madrid","Alcobendas, Madrid",TRANSIT,15:00,2026-02-27,13.55,39.0,,
+"Aranjuez, Madrid","Valdemoro, Madrid",TRANSIT,15:00,2026-02-27,21.05,21.0,,
+"Aranjuez, Madrid","Ocaña, Toledo",TRANSIT,15:00,2026-02-27,50.61,60.0,,
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,16:00,2026-02-27,20.96,25.8,27.2,1.4
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",DRIVE,16:00,2026-02-27,3.71,15.1,15.2,0.1
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",DRIVE,16:00,2026-02-27,18.03,27.1,28.4,1.3
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",DRIVE,16:00,2026-02-27,12.59,26.6,25.2,-1.4
+"Puerta del Sol, Madrid","Vallecas, Madrid",DRIVE,16:00,2026-02-27,18.78,22.6,23.9,1.3
+"Puerta del Sol, Madrid","Moncloa, Madrid",DRIVE,16:00,2026-02-27,11.92,20.5,20.2,-0.3
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",DRIVE,16:00,2026-02-27,6.51,21.9,22.9,1.0
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",DRIVE,16:00,2026-02-27,4.2,11.9,12.2,0.3
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",DRIVE,16:00,2026-02-27,10.39,12.8,13.4,0.6
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,16:00,2026-02-27,12.54,16.0,16.7,0.7
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",DRIVE,16:00,2026-02-27,5.83,17.7,19.4,1.7
+"Retiro, Madrid","Ciudad Universitaria, Madrid",DRIVE,16:00,2026-02-27,8.78,22.4,21.9,-0.5
+"Retiro, Madrid","Leganés, Madrid",DRIVE,16:00,2026-02-27,14.27,23.3,25.2,1.9
+"Retiro, Madrid","Getafe, Madrid",DRIVE,16:00,2026-02-27,14.99,25.4,26.8,1.4
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",DRIVE,16:00,2026-02-27,33.74,31.6,31.9,0.3
+"Estación de Atocha, Madrid","Aranjuez, Madrid",DRIVE,16:00,2026-02-27,47.89,43.0,45.6,2.6
+"Estación de Atocha, Madrid","Alcobendas, Madrid",DRIVE,16:00,2026-02-27,18.7,19.5,19.1,-0.4
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",DRIVE,16:00,2026-02-27,25.2,27.3,27.1,-0.2
+"Estación de Atocha, Madrid","Móstoles, Madrid",DRIVE,16:00,2026-02-27,25.18,30.6,33.7,3.1
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",DRIVE,16:00,2026-02-27,22.96,27.1,29.8,2.7
+"Estación de Atocha, Madrid","Parla, Madrid",DRIVE,16:00,2026-02-27,24.36,29.1,30.9,1.8
+"Estación de Atocha, Madrid","Pinto, Madrid",DRIVE,16:00,2026-02-27,23.85,23.6,26.2,2.6
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",DRIVE,16:00,2026-02-27,16.68,17.7,17.8,0.1
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",DRIVE,16:00,2026-02-27,26.62,27.8,29.9,2.1
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",DRIVE,16:00,2026-02-27,9.54,11.8,12.4,0.6
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",DRIVE,16:00,2026-02-27,17.9,15.8,17.8,2.0
+"Moncloa, Madrid","Majadahonda, Madrid",DRIVE,16:00,2026-02-27,18.27,16.4,18.1,1.7
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",DRIVE,16:00,2026-02-27,10.63,13.0,13.1,0.1
+"Moncloa, Madrid","Boadilla del Monte, Madrid",DRIVE,16:00,2026-02-27,20.84,19.4,21.5,2.1
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",DRIVE,16:00,2026-02-27,34.15,29.0,31.0,2.0
+"Puerta del Sol, Madrid","Alcorcón, Madrid",DRIVE,16:00,2026-02-27,15.35,25.0,28.4,3.4
+"Puerta del Sol, Madrid","Leganés, Madrid",DRIVE,16:00,2026-02-27,13.68,24.1,25.6,1.5
+"Puerta del Sol, Madrid","Getafe, Madrid",DRIVE,16:00,2026-02-27,14.4,26.2,26.8,0.6
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",DRIVE,16:00,2026-02-27,30.81,36.5,35.7,-0.8
+"Puerta del Sol, Madrid","Coslada, Madrid",DRIVE,16:00,2026-02-27,20.72,28.7,28.8,0.1
+"Estación de Atocha, Madrid",Toledo,DRIVE,16:00,2026-02-27,73.34,57.2,61.3,4.1
+"Estación de Atocha, Madrid",Segovia,DRIVE,16:00,2026-02-27,99.76,74.5,76.6,2.1
+"Estación de Atocha, Madrid",Ávila,DRIVE,16:00,2026-02-27,117.1,82.4,83.1,0.7
+"Estación de Atocha, Madrid",Cuenca,DRIVE,16:00,2026-02-27,164.27,98.5,102.0,3.5
+"Estación de Chamartín, Madrid",Valladolid,DRIVE,16:00,2026-02-27,208.61,133.7,139.8,6.1
+"Estación de Chamartín, Madrid",Burgos,DRIVE,16:00,2026-02-27,234.65,140.0,144.4,4.4
+"Estación de Chamartín, Madrid",Salamanca,DRIVE,16:00,2026-02-27,214.75,133.4,139.8,6.4
+"Estación de Atocha, Madrid",Córdoba,DRIVE,16:00,2026-02-27,392.87,238.5,242.2,3.7
+"Estación de Atocha, Madrid",Ciudad Real,DRIVE,16:00,2026-02-27,190.37,134.3,148.6,14.3
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",DRIVE,16:00,2026-02-27,613.8,366.8,358.0,-8.8
+"Estación de Atocha, Madrid","Valencia, España",DRIVE,16:00,2026-02-27,355.0,215.0,216.3,1.3
+"Estación de Atocha, Madrid","Sevilla, España",DRIVE,16:00,2026-02-27,534.39,307.4,304.1,-3.3
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,16:00,2026-02-27,314.08,193.5,193.7,0.2
+"Estación de Atocha, Madrid","Málaga, España",DRIVE,16:00,2026-02-27,533.33,316.2,317.2,1.0
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,16:00,2026-02-27,387.98,233.3,233.9,0.6
+"Estación de Chamartín, Madrid","San Sebastián, España",DRIVE,16:00,2026-02-27,442.83,268.6,269.8,1.2
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",DRIVE,16:00,2026-02-27,14.38,18.7,19.6,0.9
+"Móstoles, Madrid","Alcorcón, Madrid",DRIVE,16:00,2026-02-27,8.93,15.5,17.7,2.2
