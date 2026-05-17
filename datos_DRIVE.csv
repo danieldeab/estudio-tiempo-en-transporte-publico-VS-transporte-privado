@@ -1,0 +1,616 @@
+origen,destino,modo_transporte,hora_salida,fecha_consulta,distancia_km,duracion_sin_trafico_min,duracion_con_trafico_min,diferencia_trafico_min,min_por_km
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",DRIVE,16:00,2026-02-27,3.71,15.1,15.2,0.1,4.097035040431266
+"Móstoles, Madrid","Leganés, Madrid",DRIVE,22:00,2026-02-27,11.77,22.1,19.1,-3.0,1.6227697536108754
+"Retiro, Madrid","Leganés, Madrid",DRIVE,21:00,2026-02-27,14.27,23.3,20.7,-2.6,1.4505956552207429
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",DRIVE,02:00,2026-02-27,34.15,29.0,28.3,-0.7,0.8286969253294291
+"Estación de Chamartín, Madrid",Salamanca,DRIVE,18:00,2026-02-27,214.75,133.4,138.2,4.8,0.6435389988358556
+"Puerta del Sol, Madrid","Coslada, Madrid",DRIVE,09:00,2026-02-27,20.72,28.7,27.4,-1.3,1.3223938223938223
+"Getafe, Madrid","Parla, Madrid",DRIVE,22:00,2026-02-27,10.84,15.5,13.6,-1.9,1.2546125461254611
+"Puerta del Sol, Madrid","Coslada, Madrid",DRIVE,19:00,2026-02-27,20.72,28.7,29.0,0.3,1.3996138996138996
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,09:00,2026-02-27,387.98,233.3,224.4,-8.9,0.5783803288829321
+"Retiro, Madrid","Ciudad Universitaria, Madrid",DRIVE,07:00,2026-02-27,8.78,22.4,20.5,-1.9,2.334851936218679
+"Tres Cantos, Madrid","Alcobendas, Madrid",DRIVE,04:00,2026-02-27,17.22,15.6,15.0,-0.6,0.8710801393728224
+"Moncloa, Madrid","Boadilla del Monte, Madrid",DRIVE,18:00,2026-02-27,20.84,19.4,19.8,0.4,0.9500959692898273
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",DRIVE,20:00,2026-02-27,5.83,17.7,19.1,1.4,3.2761578044596913
+"Estación de Atocha, Madrid","Aranjuez, Madrid",DRIVE,14:00,2026-02-27,47.89,43.0,47.7,4.7,0.9960325746502402
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",DRIVE,05:00,2026-02-27,26.62,27.8,24.9,-2.9,0.9353869271224642
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",DRIVE,04:00,2026-02-27,3.71,15.1,10.3,-4.8,2.776280323450135
+"Aranjuez, Madrid","Ocaña, Toledo",DRIVE,05:00,2026-02-27,16.03,17.0,16.3,-0.7,1.0168434185901434
+"Estación de Atocha, Madrid","Parla, Madrid",DRIVE,08:00,2026-02-27,24.36,29.1,27.5,-1.6,1.1288998357963875
+"Puerta del Sol, Madrid","Moncloa, Madrid",DRIVE,17:00,2026-02-27,11.92,20.5,20.9,0.4,1.7533557046979864
+"Estación de Chamartín, Madrid",Salamanca,DRIVE,23:00,2026-02-27,214.75,133.4,132.8,-0.6,0.6183934807916183
+"Estación de Atocha, Madrid",Cuenca,DRIVE,22:00,2026-02-27,164.27,98.5,95.2,-3.3,0.5795336945273026
+"Estación de Chamartín, Madrid","San Sebastián, España",DRIVE,05:00,2026-02-27,442.83,268.6,271.6,3.0,0.6133279136463203
+"Estación de Atocha, Madrid",Toledo,DRIVE,14:00,2026-02-27,73.34,57.2,62.5,5.3,0.8521952549768202
+"Estación de Atocha, Madrid",Segovia,DRIVE,04:00,2026-02-27,99.76,74.5,70.5,-4.0,0.7066960705693665
+"Estación de Atocha, Madrid",Segovia,DRIVE,14:00,2026-02-27,99.76,74.5,77.6,3.1,0.7778668805132316
+"Puerta del Sol, Madrid","Leganés, Madrid",DRIVE,22:00,2026-02-27,13.68,24.1,20.8,-3.3,1.52046783625731
+"Estación de Chamartín, Madrid",Salamanca,DRIVE,16:00,2026-02-27,214.75,133.4,139.8,6.4,0.650989522700815
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",DRIVE,08:00,2026-02-27,16.68,17.7,17.5,-0.2,1.0491606714628297
+"Aranjuez, Madrid","Valdemoro, Madrid",DRIVE,03:00,2026-02-27,22.01,21.4,20.3,-1.1,0.9223080417991821
+"Estación de Atocha, Madrid",Córdoba,DRIVE,23:00,2026-02-27,392.87,238.5,245.2,6.7,0.6241250286354264
+"Tres Cantos, Madrid","Alcobendas, Madrid",DRIVE,11:00,2026-02-27,17.22,15.6,15.4,-0.2,0.894308943089431
+"Tres Cantos, Madrid","Alcobendas, Madrid",DRIVE,01:00,2026-02-27,17.22,15.6,15.5,-0.1,0.9001161440185831
+"Puerta del Sol, Madrid","Alcorcón, Madrid",DRIVE,15:00,2026-02-27,15.35,25.0,29.6,4.6,1.928338762214984
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,23:00,2026-02-27,387.98,233.3,245.5,12.2,0.6327645754935821
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",DRIVE,11:00,2026-02-27,613.8,366.8,356.0,-10.8,0.5799934832192897
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",DRIVE,01:00,2026-02-27,26.62,27.8,24.1,-3.7,0.9053343350864013
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",DRIVE,07:00,2026-02-27,22.96,27.1,26.7,-0.4,1.1628919860627176
+"Estación de Chamartín, Madrid",Burgos,DRIVE,17:00,2026-02-27,234.65,140.0,145.9,5.9,0.6217771148519071
+"Estación de Atocha, Madrid","Aranjuez, Madrid",DRIVE,06:00,2026-02-27,47.89,43.0,40.8,-2.2,0.8519523908958028
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",DRIVE,08:00,2026-02-27,30.81,36.5,35.5,-1.0,1.1522233041220384
+"Getafe, Madrid","Parla, Madrid",DRIVE,16:00,2026-02-27,10.84,15.5,17.4,1.9,1.6051660516605164
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,06:00,2026-02-27,314.08,193.5,191.8,-1.7,0.6106724401426389
+"Estación de Atocha, Madrid",Toledo,DRIVE,20:00,2026-02-27,73.34,57.2,54.5,-2.7,0.7431142623397873
+"Estación de Atocha, Madrid",Toledo,DRIVE,10:00,2026-02-27,73.34,57.2,56.5,-0.7,0.7703845104990455
+"Estación de Atocha, Madrid","Parla, Madrid",DRIVE,10:00,2026-02-27,24.36,29.1,28.0,-1.1,1.1494252873563218
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,01:00,2026-02-27,387.98,233.3,246.8,13.5,0.6361152636733852
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",DRIVE,06:00,2026-02-27,9.54,11.8,11.6,-0.2,1.2159329140461217
+"Estación de Atocha, Madrid","Móstoles, Madrid",DRIVE,09:00,2026-02-27,25.18,30.6,29.0,-1.6,1.1517077045274027
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,02:00,2026-02-27,12.54,16.0,13.2,-2.8,1.0526315789473684
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,16:00,2026-02-27,387.98,233.3,233.9,0.6,0.6028661271199546
+"Retiro, Madrid","Getafe, Madrid",DRIVE,03:00,2026-02-27,14.99,25.4,18.6,-6.8,1.2408272181454303
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",DRIVE,17:00,2026-02-27,17.9,15.8,18.7,2.9,1.0446927374301676
+"Estación de Atocha, Madrid","Valencia, España",DRIVE,05:00,2026-02-27,355.0,215.0,218.3,3.3,0.6149295774647887
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,03:00,2026-02-27,387.98,233.3,248.9,15.6,0.6415279138099902
+"Estación de Atocha, Madrid","Valencia, España",DRIVE,04:00,2026-02-27,355.0,215.0,223.0,8.0,0.6281690140845071
+"Tres Cantos, Madrid","Alcobendas, Madrid",DRIVE,02:00,2026-02-27,17.22,15.6,15.3,-0.3,0.8885017421602789
+"Estación de Atocha, Madrid","Parla, Madrid",DRIVE,09:00,2026-02-27,24.36,29.1,27.2,-1.9,1.116584564860427
+"Estación de Chamartín, Madrid",Valladolid,DRIVE,16:00,2026-02-27,208.61,133.7,139.8,6.1,0.6701500407458895
+"Móstoles, Madrid","Fuenlabrada, Madrid",DRIVE,01:00,2026-02-27,9.98,18.0,14.4,-3.6,1.442885771543086
+"Getafe, Madrid","Parla, Madrid",DRIVE,18:00,2026-02-27,10.84,15.5,18.5,3.0,1.7066420664206643
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",DRIVE,11:00,2026-02-27,10.39,12.8,12.7,-0.1,1.2223291626564003
+"Getafe, Madrid","Leganés, Madrid",DRIVE,01:00,2026-02-27,4.77,12.6,8.9,-3.7,1.865828092243187
+"Puerta del Sol, Madrid","Alcorcón, Madrid",DRIVE,12:00,2026-02-27,15.35,25.0,29.1,4.1,1.8957654723127038
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",DRIVE,14:00,2026-02-27,9.54,11.8,12.7,0.9,1.3312368972746331
+"Estación de Atocha, Madrid","Valencia, España",DRIVE,14:00,2026-02-27,355.0,215.0,220.9,5.9,0.6222535211267606
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,23:00,2026-02-27,12.54,16.0,14.0,-2.0,1.1164274322169059
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",DRIVE,18:00,2026-02-27,12.59,26.6,26.4,-0.2,2.096902303415409
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",DRIVE,23:00,2026-02-27,30.81,36.5,31.7,-4.8,1.0288867250892568
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",DRIVE,11:00,2026-02-27,18.03,27.1,28.2,1.1,1.5640599001663893
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,20:00,2026-02-27,387.98,233.3,230.2,-3.1,0.5933295530697458
+"Estación de Atocha, Madrid",Segovia,DRIVE,10:00,2026-02-27,99.76,74.5,72.6,-1.9,0.7277465918203688
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,03:00,2026-02-27,314.08,193.5,197.1,3.6,0.6275471217524198
+"Móstoles, Madrid","Leganés, Madrid",DRIVE,02:00,2026-02-27,11.77,22.1,18.8,-3.3,1.5972812234494478
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",DRIVE,10:00,2026-02-27,613.8,366.8,353.5,-13.3,0.5759204952753341
+"Estación de Atocha, Madrid",Toledo,DRIVE,06:00,2026-02-27,73.34,57.2,55.5,-1.7,0.7567493864194164
+"Getafe, Madrid","Leganés, Madrid",DRIVE,19:00,2026-02-27,4.77,12.6,12.8,0.2,2.683438155136269
+"Estación de Atocha, Madrid",Ciudad Real,DRIVE,11:00,2026-02-27,190.37,134.3,139.1,4.8,0.7306823554131427
+"Estación de Atocha, Madrid","Málaga, España",DRIVE,07:00,2026-02-27,533.33,316.2,311.4,-4.8,0.5838786492415576
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",DRIVE,10:00,2026-02-27,17.9,15.8,15.4,-0.4,0.8603351955307263
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",DRIVE,02:00,2026-02-27,14.38,18.7,15.1,-3.6,1.0500695410292071
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",DRIVE,08:00,2026-02-27,34.15,29.0,28.5,-0.5,0.8345534407027819
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",DRIVE,21:00,2026-02-27,6.51,21.9,20.9,-1.0,3.2104454685099846
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",DRIVE,11:00,2026-02-27,4.2,11.9,12.3,0.4,2.928571428571429
+"Estación de Atocha, Madrid","Parla, Madrid",DRIVE,02:00,2026-02-27,24.36,29.1,22.9,-6.2,0.9400656814449918
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",DRIVE,06:00,2026-02-27,18.03,27.1,27.1,0.0,1.5030504714364947
+"Estación de Atocha, Madrid","Sevilla, España",DRIVE,22:00,2026-02-27,534.39,307.4,315.8,8.4,0.5909541720466327
+"Moncloa, Madrid","Boadilla del Monte, Madrid",DRIVE,07:00,2026-02-27,20.84,19.4,19.4,0.0,0.9309021113243762
+"Móstoles, Madrid","Leganés, Madrid",DRIVE,20:00,2026-02-27,11.77,22.1,21.0,-1.1,1.784197111299915
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",DRIVE,20:00,2026-02-27,16.68,17.7,17.0,-0.7,1.0191846522781776
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",DRIVE,15:00,2026-02-27,18.03,27.1,27.5,0.4,1.5252357182473655
+"Estación de Atocha, Madrid","Sevilla, España",DRIVE,03:00,2026-02-27,534.39,307.4,319.3,11.9,0.5975036958026909
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",DRIVE,23:00,2026-02-27,9.54,11.8,10.4,-1.4,1.0901467505241091
+"Aranjuez, Madrid","Valdemoro, Madrid",DRIVE,06:00,2026-02-27,22.01,21.4,20.5,-0.9,0.9313948205361199
+"Retiro, Madrid","Leganés, Madrid",DRIVE,06:00,2026-02-27,14.27,23.3,20.5,-2.8,1.4365802382620882
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",DRIVE,04:00,2026-02-27,10.39,12.8,9.8,-3.0,0.9432146294513956
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,12:00,2026-02-27,314.08,193.5,189.7,-3.8,0.6039862455425369
+"Estación de Atocha, Madrid",Ávila,DRIVE,13:00,2026-02-27,117.1,82.4,80.4,-2.0,0.6865926558497012
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",DRIVE,20:00,2026-02-27,18.03,27.1,26.8,-0.3,1.4864115363283417
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,08:00,2026-02-27,20.96,25.8,26.8,1.0,1.2786259541984732
+"Estación de Atocha, Madrid",Segovia,DRIVE,22:00,2026-02-27,99.76,74.5,69.3,-5.2,0.6946672012830793
+"Estación de Atocha, Madrid","Valencia, España",DRIVE,02:00,2026-02-27,355.0,215.0,219.9,4.9,0.6194366197183099
+"Aranjuez, Madrid","Valdemoro, Madrid",DRIVE,12:00,2026-02-27,22.01,21.4,21.6,0.2,0.9813721035892776
+"Estación de Atocha, Madrid",Toledo,DRIVE,13:00,2026-02-27,73.34,57.2,64.2,7.0,0.8753749659121898
+"Estación de Chamartín, Madrid","San Sebastián, España",DRIVE,17:00,2026-02-27,442.83,268.6,271.9,3.3,0.6140053745229546
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",DRIVE,19:00,2026-02-27,34.15,29.0,29.0,0.0,0.849194729136164
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",DRIVE,01:00,2026-02-27,613.8,366.8,369.2,2.4,0.6014988595633757
+"Estación de Atocha, Madrid",Ávila,DRIVE,08:00,2026-02-27,117.1,82.4,79.7,-2.7,0.6806148590947908
+"Puerta del Sol, Madrid","Vallecas, Madrid",DRIVE,21:00,2026-02-27,18.78,22.6,21.8,-0.8,1.1608093716719914
+"Estación de Atocha, Madrid","Sevilla, España",DRIVE,16:00,2026-02-27,534.39,307.4,304.1,-3.3,0.5690600497763806
+"Retiro, Madrid","Leganés, Madrid",DRIVE,05:00,2026-02-27,14.27,23.3,18.3,-5.0,1.2824106517168887
+"Estación de Atocha, Madrid","Málaga, España",DRIVE,18:00,2026-02-27,533.33,316.2,312.9,-3.3,0.5866911668197925
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,15:00,2026-02-27,20.96,25.8,26.0,0.2,1.2404580152671756
+"Estación de Atocha, Madrid","Aranjuez, Madrid",DRIVE,20:00,2026-02-27,47.89,43.0,39.8,-3.2,0.8310712048444351
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,06:00,2026-02-27,387.98,233.3,234.0,0.7,0.6031238723645549
+"Tres Cantos, Madrid","Alcobendas, Madrid",DRIVE,06:00,2026-02-27,17.22,15.6,15.8,0.2,0.9175377468060396
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",DRIVE,01:00,2026-02-27,14.38,18.7,15.5,-3.2,1.0778859527121
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,23:00,2026-02-27,314.08,193.5,193.5,0.0,0.6160850738665309
+"Estación de Atocha, Madrid","Parla, Madrid",DRIVE,06:00,2026-02-27,24.36,29.1,25.7,-3.4,1.055008210180624
+"Estación de Atocha, Madrid","Sevilla, España",DRIVE,09:00,2026-02-27,534.39,307.4,306.1,-1.3,0.5728026347798425
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",DRIVE,05:00,2026-02-27,5.83,17.7,13.4,-4.3,2.2984562607204118
+"Estación de Chamartín, Madrid","San Sebastián, España",DRIVE,14:00,2026-02-27,442.83,268.6,267.3,-1.3,0.6036176410812276
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,04:00,2026-02-27,314.08,193.5,193.7,0.2,0.6167218543046358
+"Puerta del Sol, Madrid","Leganés, Madrid",DRIVE,03:00,2026-02-27,13.68,24.1,17.9,-6.2,1.3084795321637426
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",DRIVE,15:00,2026-02-27,10.63,13.0,14.3,1.3,1.3452492944496708
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,19:00,2026-02-27,314.08,193.5,192.6,-0.9,0.6132195618950586
+"Estación de Atocha, Madrid","Pinto, Madrid",DRIVE,12:00,2026-02-27,23.85,23.6,25.4,1.8,1.0649895178197064
+"Estación de Atocha, Madrid",Ávila,DRIVE,21:00,2026-02-27,117.1,82.4,77.9,-4.5,0.6652433817250214
+"Estación de Atocha, Madrid","Sevilla, España",DRIVE,04:00,2026-02-27,534.39,307.4,312.4,5.0,0.5845917775407473
+"Retiro, Madrid","Getafe, Madrid",DRIVE,18:00,2026-02-27,14.99,25.4,26.3,0.9,1.7545030020013344
+"Estación de Atocha, Madrid",Córdoba,DRIVE,08:00,2026-02-27,392.87,238.5,231.1,-7.4,0.5882352941176471
+"Puerta del Sol, Madrid","Coslada, Madrid",DRIVE,08:00,2026-02-27,20.72,28.7,28.9,0.2,1.3947876447876448
+"Tres Cantos, Madrid","Alcobendas, Madrid",DRIVE,23:00,2026-02-27,17.22,15.6,15.1,-0.5,0.8768873403019745
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",DRIVE,16:00,2026-02-27,4.2,11.9,12.2,0.3,2.9047619047619047
+"Estación de Atocha, Madrid",Toledo,DRIVE,04:00,2026-02-27,73.34,57.2,50.6,-6.6,0.6899372784292337
+"Retiro, Madrid","Leganés, Madrid",DRIVE,18:00,2026-02-27,14.27,23.3,26.0,2.7,1.8220042046250877
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,21:00,2026-02-27,314.08,193.5,196.9,3.4,0.6269103413143149
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",DRIVE,16:00,2026-02-27,6.51,21.9,22.9,1.0,3.517665130568356
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,19:00,2026-02-27,20.96,25.8,27.0,1.2,1.2881679389312977
+"Estación de Chamartín, Madrid",Valladolid,DRIVE,18:00,2026-02-27,208.61,133.7,138.4,4.7,0.6634389530703226
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",DRIVE,06:00,2026-02-27,16.68,17.7,17.2,-0.5,1.0311750599520384
+"Getafe, Madrid","Leganés, Madrid",DRIVE,04:00,2026-02-27,4.77,12.6,9.3,-3.3,1.9496855345911952
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",DRIVE,07:00,2026-02-27,613.8,366.8,360.4,-6.4,0.5871619420006516
+"Estación de Chamartín, Madrid",Burgos,DRIVE,12:00,2026-02-27,234.65,140.0,137.0,-3.0,0.5838482846793096
+"Móstoles, Madrid","Fuenlabrada, Madrid",DRIVE,03:00,2026-02-27,9.98,18.0,14.3,-3.7,1.4328657314629258
+"Puerta del Sol, Madrid","Vallecas, Madrid",DRIVE,08:00,2026-02-27,18.78,22.6,22.4,-0.2,1.1927582534611287
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,13:00,2026-02-27,314.08,193.5,197.2,3.7,0.6278655119714722
+"Puerta del Sol, Madrid","Getafe, Madrid",DRIVE,10:00,2026-02-27,14.4,26.2,26.3,0.1,1.8263888888888888
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,22:00,2026-02-27,387.98,233.3,245.0,11.7,0.631475849270581
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",DRIVE,12:00,2026-02-27,613.8,366.8,356.4,-10.4,0.5806451612903226
+"Estación de Chamartín, Madrid",Burgos,DRIVE,02:00,2026-02-27,234.65,140.0,146.3,6.3,0.6234817813765182
+"Aranjuez, Madrid","Ocaña, Toledo",DRIVE,15:00,2026-02-27,16.03,17.0,16.2,-0.8,1.0106051154086086
+"Puerta del Sol, Madrid","Leganés, Madrid",DRIVE,01:00,2026-02-27,13.68,24.1,18.4,-5.7,1.3450292397660817
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",DRIVE,05:00,2026-02-27,9.54,11.8,10.5,-1.3,1.1006289308176103
+"Estación de Atocha, Madrid",Segovia,DRIVE,16:00,2026-02-27,99.76,74.5,76.6,2.1,0.7678428227746591
+"Puerta del Sol, Madrid","Coslada, Madrid",DRIVE,06:00,2026-02-27,20.72,28.7,28.4,-0.3,1.3706563706563706
+"Puerta del Sol, Madrid","Getafe, Madrid",DRIVE,16:00,2026-02-27,14.4,26.2,26.8,0.6,1.8611111111111112
+"Móstoles, Madrid","Leganés, Madrid",DRIVE,18:00,2026-02-27,11.77,22.1,23.3,1.2,1.9796091758708583
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",DRIVE,11:00,2026-02-27,12.59,26.6,26.6,0.0,2.112787926926132
+"Retiro, Madrid","Leganés, Madrid",DRIVE,16:00,2026-02-27,14.27,23.3,25.2,1.9,1.7659425367904695
+"Estación de Atocha, Madrid","Móstoles, Madrid",DRIVE,08:00,2026-02-27,25.18,30.6,29.4,-1.2,1.1675933280381254
+"Puerta del Sol, Madrid","Leganés, Madrid",DRIVE,02:00,2026-02-27,13.68,24.1,18.1,-6.0,1.3230994152046784
+"Estación de Chamartín, Madrid","San Sebastián, España",DRIVE,11:00,2026-02-27,442.83,268.6,260.6,-8.0,0.58848768150306
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",DRIVE,04:00,2026-02-27,34.15,29.0,28.1,-0.9,0.8228404099560762
+"Estación de Atocha, Madrid","Parla, Madrid",DRIVE,05:00,2026-02-27,24.36,29.1,23.6,-5.5,0.9688013136288999
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",DRIVE,11:00,2026-02-27,26.62,27.8,27.3,-0.5,1.0255447032306537
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",DRIVE,20:00,2026-02-27,613.8,366.8,374.4,7.6,0.6099706744868035
+"Puerta del Sol, Madrid","Leganés, Madrid",DRIVE,08:00,2026-02-27,13.68,24.1,23.9,-0.2,1.7470760233918128
+"Móstoles, Madrid","Leganés, Madrid",DRIVE,11:00,2026-02-27,11.77,22.1,21.7,-0.4,1.8436703483432455
+"Estación de Atocha, Madrid",Segovia,DRIVE,09:00,2026-02-27,99.76,74.5,72.1,-2.4,0.7227345629510825
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,07:00,2026-02-27,387.98,233.3,229.5,-3.8,0.5915253363575442
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",DRIVE,08:00,2026-02-27,9.54,11.8,11.8,0.0,1.236897274633124
+"Retiro, Madrid","Leganés, Madrid",DRIVE,23:00,2026-02-27,14.27,23.3,19.1,-4.2,1.3384723195515067
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",DRIVE,14:00,2026-02-27,25.2,27.3,29.3,2.0,1.1626984126984128
+"Móstoles, Madrid","Leganés, Madrid",DRIVE,09:00,2026-02-27,11.77,22.1,21.4,-0.7,1.8181818181818181
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",DRIVE,01:00,2026-02-27,5.83,17.7,12.1,-5.6,2.0754716981132075
+"Puerta del Sol, Madrid","Coslada, Madrid",DRIVE,13:00,2026-02-27,20.72,28.7,31.6,2.9,1.5250965250965252
+"Estación de Atocha, Madrid",Ciudad Real,DRIVE,07:00,2026-02-27,190.37,134.3,136.2,1.9,0.715448862740978
+"Retiro, Madrid","Ciudad Universitaria, Madrid",DRIVE,17:00,2026-02-27,8.78,22.4,22.5,0.1,2.562642369020501
+"Aranjuez, Madrid","Valdemoro, Madrid",DRIVE,01:00,2026-02-27,22.01,21.4,20.8,-0.6,0.9450249886415265
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",DRIVE,13:00,2026-02-27,33.74,31.6,36.2,4.6,1.072910491997629
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",DRIVE,08:00,2026-02-27,613.8,366.8,357.5,-9.3,0.5824372759856631
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",DRIVE,18:00,2026-02-27,613.8,366.8,360.1,-6.7,0.5866731834473771
+"Puerta del Sol, Madrid","Getafe, Madrid",DRIVE,06:00,2026-02-27,14.4,26.2,22.4,-3.8,1.5555555555555554
+"Estación de Atocha, Madrid","Málaga, España",DRIVE,16:00,2026-02-27,533.33,316.2,317.2,1.0,0.5947537172107324
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,13:00,2026-02-27,20.96,25.8,29.2,3.4,1.3931297709923662
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",DRIVE,14:00,2026-02-27,5.83,17.7,23.5,5.8,4.030874785591767
+"Getafe, Madrid","Leganés, Madrid",DRIVE,05:00,2026-02-27,4.77,12.6,9.5,-3.1,1.9916142557651992
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",DRIVE,15:00,2026-02-27,9.54,11.8,12.4,0.6,1.2997903563941302
+"Estación de Atocha, Madrid",Córdoba,DRIVE,12:00,2026-02-27,392.87,238.5,233.8,-4.7,0.5951077964721155
+"Móstoles, Madrid","Leganés, Madrid",DRIVE,06:00,2026-02-27,11.77,22.1,19.9,-2.2,1.6907391673746814
+"Moncloa, Madrid","Majadahonda, Madrid",DRIVE,14:00,2026-02-27,18.27,16.4,22.2,5.8,1.2151067323481117
+"Estación de Atocha, Madrid","Móstoles, Madrid",DRIVE,22:00,2026-02-27,25.18,30.6,25.1,-5.5,0.9968228752978555
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,07:00,2026-02-27,12.54,16.0,16.5,0.5,1.3157894736842106
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,11:00,2026-02-27,20.96,25.8,27.8,2.0,1.3263358778625953
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",DRIVE,17:00,2026-02-27,613.8,366.8,359.3,-7.5,0.5853698273053113
+"Moncloa, Madrid","Boadilla del Monte, Madrid",DRIVE,13:00,2026-02-27,20.84,19.4,20.6,1.2,0.9884836852207295
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",DRIVE,20:00,2026-02-27,10.39,12.8,12.8,0.0,1.231953801732435
+"Estación de Chamartín, Madrid",Valladolid,DRIVE,15:00,2026-02-27,208.61,133.7,139.6,5.9,0.6691913139350941
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",DRIVE,18:00,2026-02-27,22.96,27.1,28.2,1.1,1.2282229965156795
+"Moncloa, Madrid","Boadilla del Monte, Madrid",DRIVE,16:00,2026-02-27,20.84,19.4,21.5,2.1,1.0316698656429943
+"Puerta del Sol, Madrid","Alcorcón, Madrid",DRIVE,19:00,2026-02-27,15.35,25.0,27.4,2.4,1.785016286644951
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",DRIVE,12:00,2026-02-27,17.9,15.8,17.0,1.2,0.9497206703910616
+"Puerta del Sol, Madrid","Leganés, Madrid",DRIVE,17:00,2026-02-27,13.68,24.1,27.1,3.0,1.9809941520467838
+"Estación de Atocha, Madrid","Pinto, Madrid",DRIVE,07:00,2026-02-27,23.85,23.6,23.4,-0.2,0.981132075471698
+"Estación de Atocha, Madrid","Valencia, España",DRIVE,17:00,2026-02-27,355.0,215.0,211.8,-3.2,0.5966197183098592
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",DRIVE,10:00,2026-02-27,6.51,21.9,24.1,2.2,3.7019969278033797
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",DRIVE,10:00,2026-02-27,33.74,31.6,30.1,-1.5,0.892116182572614
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",DRIVE,02:00,2026-02-27,16.68,17.7,15.7,-2.0,0.9412470023980815
+"Moncloa, Madrid","Boadilla del Monte, Madrid",DRIVE,20:00,2026-02-27,20.84,19.4,18.5,-0.9,0.8877159309021113
+"Estación de Atocha, Madrid","Sevilla, España",DRIVE,17:00,2026-02-27,534.39,307.4,304.3,-3.1,0.5694343082767268
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",DRIVE,07:00,2026-02-27,16.68,17.7,17.8,0.1,1.0671462829736211
+"Estación de Atocha, Madrid","Aranjuez, Madrid",DRIVE,03:00,2026-02-27,47.89,43.0,38.4,-4.6,0.8018375443725203
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",DRIVE,17:00,2026-02-27,34.15,29.0,30.3,1.3,0.8872620790629576
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",DRIVE,16:00,2026-02-27,10.63,13.0,13.1,0.1,1.2323612417685794
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",DRIVE,10:00,2026-02-27,10.63,13.0,12.8,-0.2,1.2041392285983066
+"Getafe, Madrid","Parla, Madrid",DRIVE,19:00,2026-02-27,10.84,15.5,16.4,0.9,1.5129151291512914
+"Retiro, Madrid","Leganés, Madrid",DRIVE,22:00,2026-02-27,14.27,23.3,19.4,-3.9,1.3594954449894885
+"Estación de Atocha, Madrid",Córdoba,DRIVE,11:00,2026-02-27,392.87,238.5,232.1,-6.4,0.5907806653600427
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",DRIVE,09:00,2026-02-27,12.59,26.6,25.0,-1.6,1.9857029388403495
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",DRIVE,20:00,2026-02-27,14.38,18.7,17.4,-1.3,1.2100139082058412
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",DRIVE,16:00,2026-02-27,26.62,27.8,29.9,2.1,1.1232156273478586
+"Estación de Atocha, Madrid","Aranjuez, Madrid",DRIVE,02:00,2026-02-27,47.89,43.0,37.9,-5.1,0.7913969513468364
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",DRIVE,14:00,2026-02-27,26.62,27.8,31.2,3.4,1.1720510894064613
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",DRIVE,03:00,2026-02-27,34.15,29.0,27.6,-1.4,0.808199121522694
+"Getafe, Madrid","Leganés, Madrid",DRIVE,10:00,2026-02-27,4.77,12.6,13.2,0.6,2.767295597484277
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",DRIVE,13:00,2026-02-27,25.2,27.3,29.6,2.3,1.1746031746031746
+"Aranjuez, Madrid","Ocaña, Toledo",DRIVE,17:00,2026-02-27,16.03,17.0,17.5,0.5,1.0917030567685588
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",DRIVE,02:00,2026-02-27,18.03,27.1,21.1,-6.0,1.1702717692734332
+"Puerta del Sol, Madrid","Getafe, Madrid",DRIVE,03:00,2026-02-27,14.4,26.2,18.9,-7.3,1.3124999999999998
+"Estación de Chamartín, Madrid",Burgos,DRIVE,10:00,2026-02-27,234.65,140.0,136.3,-3.7,0.5808651182612402
+"Aranjuez, Madrid","Ocaña, Toledo",DRIVE,11:00,2026-02-27,16.03,17.0,16.5,-0.5,1.0293200249532126
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",DRIVE,21:00,2026-02-27,26.62,27.8,25.2,-2.6,0.9466566491359879
+"Puerta del Sol, Madrid","Alcorcón, Madrid",DRIVE,03:00,2026-02-27,15.35,25.0,19.7,-5.3,1.283387622149837
+"Puerta del Sol, Madrid","Getafe, Madrid",DRIVE,08:00,2026-02-27,14.4,26.2,26.0,-0.2,1.8055555555555556
+"Estación de Atocha, Madrid","Alcobendas, Madrid",DRIVE,16:00,2026-02-27,18.7,19.5,19.1,-0.4,1.0213903743315509
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",DRIVE,05:00,2026-02-27,18.03,27.1,22.4,-4.7,1.242373821408763
+"Moncloa, Madrid","Majadahonda, Madrid",DRIVE,19:00,2026-02-27,18.27,16.4,16.3,-0.1,0.8921729611384784
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",DRIVE,13:00,2026-02-27,4.2,11.9,14.3,2.4,3.4047619047619047
+"Estación de Chamartín, Madrid",Burgos,DRIVE,19:00,2026-02-27,234.65,140.0,138.2,-1.8,0.5889622842531429
+"Tres Cantos, Madrid","Alcobendas, Madrid",DRIVE,19:00,2026-02-27,17.22,15.6,15.9,0.3,0.9233449477351917
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",DRIVE,14:00,2026-02-27,30.81,36.5,41.3,4.8,1.3404738721194418
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,06:00,2026-02-27,20.96,25.8,26.6,0.8,1.2690839694656488
+"Puerta del Sol, Madrid","Alcorcón, Madrid",DRIVE,07:00,2026-02-27,15.35,25.0,26.3,1.3,1.713355048859935
+"Estación de Atocha, Madrid",Ciudad Real,DRIVE,01:00,2026-02-27,190.37,134.3,130.0,-4.3,0.6828807059935914
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,10:00,2026-02-27,387.98,233.3,225.8,-7.5,0.5819887623073354
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",DRIVE,14:00,2026-02-27,10.63,13.0,16.6,3.6,1.561618062088429
+"Móstoles, Madrid","Fuenlabrada, Madrid",DRIVE,15:00,2026-02-27,9.98,18.0,17.3,-0.7,1.7334669338677355
+"Moncloa, Madrid","Majadahonda, Madrid",DRIVE,03:00,2026-02-27,18.27,16.4,15.1,-1.3,0.8264915161466886
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",DRIVE,21:00,2026-02-27,25.2,27.3,23.9,-3.4,0.9484126984126984
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",DRIVE,02:00,2026-02-27,25.2,27.3,23.2,-4.1,0.9206349206349206
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",DRIVE,12:00,2026-02-27,5.83,17.7,19.8,2.1,3.3962264150943398
+"Estación de Atocha, Madrid","Pinto, Madrid",DRIVE,04:00,2026-02-27,23.85,23.6,19.3,-4.3,0.8092243186582809
+"Retiro, Madrid","Ciudad Universitaria, Madrid",DRIVE,13:00,2026-02-27,8.78,22.4,26.4,4.0,3.0068337129840548
+"Retiro, Madrid","Getafe, Madrid",DRIVE,04:00,2026-02-27,14.99,25.4,18.5,-6.9,1.2341561040693796
+"Móstoles, Madrid","Leganés, Madrid",DRIVE,23:00,2026-02-27,11.77,22.1,18.9,-3.2,1.6057774001699234
+"Puerta del Sol, Madrid","Leganés, Madrid",DRIVE,05:00,2026-02-27,13.68,24.1,18.8,-5.3,1.3742690058479532
+"Móstoles, Madrid","Leganés, Madrid",DRIVE,16:00,2026-02-27,11.77,22.1,22.6,0.5,1.9201359388275279
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",DRIVE,22:00,2026-02-27,26.62,27.8,24.4,-3.4,0.9166040570999248
+"Retiro, Madrid","Leganés, Madrid",DRIVE,15:00,2026-02-27,14.27,23.3,24.6,1.3,1.7238962859145062
+"Puerta del Sol, Madrid","Coslada, Madrid",DRIVE,07:00,2026-02-27,20.72,28.7,29.6,0.9,1.4285714285714288
+"Estación de Chamartín, Madrid",Salamanca,DRIVE,08:00,2026-02-27,214.75,133.4,133.6,0.2,0.6221187427240977
+"Estación de Atocha, Madrid",Ávila,DRIVE,11:00,2026-02-27,117.1,82.4,79.4,-3.0,0.6780529461998293
+"Estación de Atocha, Madrid",Córdoba,DRIVE,21:00,2026-02-27,392.87,238.5,242.8,4.3,0.6180161376536768
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",DRIVE,12:00,2026-02-27,30.81,36.5,36.5,0.0,1.1846802986043492
+"Estación de Atocha, Madrid","Móstoles, Madrid",DRIVE,16:00,2026-02-27,25.18,30.6,33.7,3.1,1.3383637807783957
+"Estación de Atocha, Madrid","Aranjuez, Madrid",DRIVE,17:00,2026-02-27,47.89,43.0,46.2,3.2,0.9647107955731886
+"Estación de Chamartín, Madrid",Valladolid,DRIVE,01:00,2026-02-27,208.61,133.7,132.3,-1.4,0.6341977853410671
+"Puerta del Sol, Madrid","Alcorcón, Madrid",DRIVE,01:00,2026-02-27,15.35,25.0,20.0,-5.0,1.3029315960912053
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",DRIVE,05:00,2026-02-27,16.68,17.7,16.2,-1.5,0.9712230215827338
+"Móstoles, Madrid","Leganés, Madrid",DRIVE,10:00,2026-02-27,11.77,22.1,20.9,-1.2,1.7757009345794392
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",DRIVE,03:00,2026-02-27,10.63,13.0,11.5,-1.5,1.0818438381937912
+"Estación de Atocha, Madrid","Sevilla, España",DRIVE,19:00,2026-02-27,534.39,307.4,301.1,-6.3,0.5634461722711878
+"Puerta del Sol, Madrid","Alcorcón, Madrid",DRIVE,11:00,2026-02-27,15.35,25.0,27.9,2.9,1.8175895765472312
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",DRIVE,01:00,2026-02-27,12.59,26.6,20.6,-6.0,1.6362192216044482
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",DRIVE,14:00,2026-02-27,22.96,27.1,35.0,7.9,1.524390243902439
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,11:00,2026-02-27,387.98,233.3,226.4,-6.9,0.5835352337749369
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",DRIVE,20:00,2026-02-27,30.81,36.5,34.1,-2.4,1.106783511846803
+"Estación de Atocha, Madrid",Cuenca,DRIVE,07:00,2026-02-27,164.27,98.5,97.0,-1.5,0.5904912643818104
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",DRIVE,18:00,2026-02-27,9.54,11.8,12.5,0.7,1.310272536687631
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",DRIVE,21:00,2026-02-27,17.9,15.8,14.7,-1.1,0.8212290502793297
+"Estación de Atocha, Madrid",Segovia,DRIVE,08:00,2026-02-27,99.76,74.5,73.2,-1.3,0.7337610264635124
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",DRIVE,16:00,2026-02-27,14.38,18.7,19.6,0.9,1.3630041724617525
+"Puerta del Sol, Madrid","Getafe, Madrid",DRIVE,13:00,2026-02-27,14.4,26.2,28.7,2.5,1.9930555555555554
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",DRIVE,02:00,2026-02-27,613.8,366.8,373.5,6.7,0.6085043988269795
+"Estación de Atocha, Madrid",Ciudad Real,DRIVE,19:00,2026-02-27,190.37,134.3,136.4,2.1,0.7164994484425067
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",DRIVE,09:00,2026-02-27,30.81,36.5,34.4,-2.1,1.1165206101914962
+"Getafe, Madrid","Leganés, Madrid",DRIVE,08:00,2026-02-27,4.77,12.6,13.7,1.1,2.8721174004192873
+"Estación de Atocha, Madrid",Córdoba,DRIVE,15:00,2026-02-27,392.87,238.5,242.0,3.5,0.6159798406597602
+"Estación de Atocha, Madrid","Alcobendas, Madrid",DRIVE,06:00,2026-02-27,18.7,19.5,19.4,-0.1,1.0374331550802138
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",DRIVE,07:00,2026-02-27,17.9,15.8,15.9,0.1,0.8882681564245811
+"Estación de Atocha, Madrid","Móstoles, Madrid",DRIVE,06:00,2026-02-27,25.18,30.6,27.5,-3.1,1.0921366163621922
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",DRIVE,05:00,2026-02-27,6.51,21.9,16.1,-5.8,2.473118279569893
+"Estación de Atocha, Madrid","Valencia, España",DRIVE,06:00,2026-02-27,355.0,215.0,215.5,0.5,0.6070422535211267
+"Retiro, Madrid","Getafe, Madrid",DRIVE,10:00,2026-02-27,14.99,25.4,24.4,-1.0,1.6277518345563708
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",DRIVE,13:00,2026-02-27,30.81,36.5,40.0,3.5,1.2982797792924377
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",DRIVE,07:00,2026-02-27,34.15,29.0,29.4,0.4,0.8609077598828697
+"Puerta del Sol, Madrid","Moncloa, Madrid",DRIVE,02:00,2026-02-27,11.92,20.5,15.9,-4.6,1.3338926174496644
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",DRIVE,02:00,2026-02-27,6.51,21.9,15.9,-6.0,2.4423963133640556
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,07:00,2026-02-27,20.96,25.8,27.7,1.9,1.3215648854961832
+"Estación de Atocha, Madrid","Málaga, España",DRIVE,04:00,2026-02-27,533.33,316.2,321.1,4.9,0.6020662629141432
+"Retiro, Madrid","Leganés, Madrid",DRIVE,01:00,2026-02-27,14.27,23.3,17.8,-5.5,1.2473721093202523
+"Puerta del Sol, Madrid","Getafe, Madrid",DRIVE,09:00,2026-02-27,14.4,26.2,25.1,-1.1,1.7430555555555556
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",DRIVE,15:00,2026-02-27,5.83,17.7,18.9,1.2,3.241852487135506
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",DRIVE,06:00,2026-02-27,17.9,15.8,15.1,-0.7,0.8435754189944135
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",DRIVE,19:00,2026-02-27,26.62,27.8,27.0,-0.8,1.01427498121713
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",DRIVE,15:00,2026-02-27,22.96,27.1,30.0,2.9,1.3066202090592334
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",DRIVE,21:00,2026-02-27,9.54,11.8,10.6,-1.2,1.1111111111111112
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,19:00,2026-02-27,12.54,16.0,16.4,0.4,1.3078149920255182
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",DRIVE,18:00,2026-02-27,5.83,17.7,21.3,3.6,3.653516295025729
+"Estación de Atocha, Madrid",Ciudad Real,DRIVE,17:00,2026-02-27,190.37,134.3,147.8,13.5,0.7763828334296371
+"Móstoles, Madrid","Fuenlabrada, Madrid",DRIVE,06:00,2026-02-27,9.98,18.0,15.7,-2.3,1.5731462925851702
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",DRIVE,21:00,2026-02-27,12.59,26.6,24.5,-2.1,1.9459888800635425
+"Estación de Atocha, Madrid",Cuenca,DRIVE,08:00,2026-02-27,164.27,98.5,95.5,-3.0,0.5813599561697206
+"Getafe, Madrid","Parla, Madrid",DRIVE,23:00,2026-02-27,10.84,15.5,13.3,-2.2,1.2269372693726939
+"Puerta del Sol, Madrid","Vallecas, Madrid",DRIVE,11:00,2026-02-27,18.78,22.6,24.4,1.8,1.2992545260915866
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",DRIVE,14:00,2026-02-27,18.03,27.1,31.3,4.2,1.7359955629506378
+"Aranjuez, Madrid","Valdemoro, Madrid",DRIVE,05:00,2026-02-27,22.01,21.4,19.6,-1.8,0.8905043162199
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",DRIVE,17:00,2026-02-27,33.74,31.6,33.1,1.5,0.981031416716064
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",DRIVE,05:00,2026-02-27,25.2,27.3,23.4,-3.9,0.9285714285714285
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",DRIVE,18:00,2026-02-27,25.2,27.3,26.8,-0.5,1.0634920634920635
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",DRIVE,01:00,2026-02-27,18.03,27.1,21.3,-5.8,1.1813643926788686
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",DRIVE,01:00,2026-02-27,6.51,21.9,16.4,-5.5,2.5192012288786483
+"Estación de Atocha, Madrid",Ávila,DRIVE,06:00,2026-02-27,117.1,82.4,80.7,-1.7,0.6891545687446627
+"Estación de Atocha, Madrid","Parla, Madrid",DRIVE,20:00,2026-02-27,24.36,29.1,27.3,-1.8,1.120689655172414
+"Estación de Chamartín, Madrid","San Sebastián, España",DRIVE,09:00,2026-02-27,442.83,268.6,260.2,-8.4,0.587584400334214
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,09:00,2026-02-27,12.54,16.0,15.6,-0.4,1.244019138755981
+"Móstoles, Madrid","Leganés, Madrid",DRIVE,04:00,2026-02-27,11.77,22.1,17.3,-4.8,1.469838572642311
+"Estación de Chamartín, Madrid",Salamanca,DRIVE,09:00,2026-02-27,214.75,133.4,133.0,-0.4,0.619324796274738
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",DRIVE,01:00,2026-02-27,10.63,13.0,11.7,-1.3,1.1006585136406395
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",DRIVE,23:00,2026-02-27,3.71,15.1,13.2,-1.9,3.557951482479784
+"Puerta del Sol, Madrid","Coslada, Madrid",DRIVE,15:00,2026-02-27,20.72,28.7,27.5,-1.2,1.3272200772200773
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",DRIVE,09:00,2026-02-27,33.74,31.6,29.9,-1.7,0.8861885002963841
+"Estación de Atocha, Madrid","Aranjuez, Madrid",DRIVE,15:00,2026-02-27,47.89,43.0,45.3,2.3,0.9459177281269575
+"Estación de Atocha, Madrid","Málaga, España",DRIVE,08:00,2026-02-27,533.33,316.2,308.7,-7.5,0.5788161176007349
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",DRIVE,11:00,2026-02-27,30.81,36.5,36.4,-0.1,1.1814345991561181
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",DRIVE,18:00,2026-02-27,34.15,29.0,29.6,0.6,0.8667642752562226
+"Estación de Atocha, Madrid","Parla, Madrid",DRIVE,14:00,2026-02-27,24.36,29.1,35.3,6.2,1.4490968801313628
+"Getafe, Madrid","Parla, Madrid",DRIVE,20:00,2026-02-27,10.84,15.5,15.3,-0.2,1.411439114391144
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",DRIVE,12:00,2026-02-27,12.59,26.6,25.9,-0.7,2.057188244638602
+"Estación de Chamartín, Madrid",Salamanca,DRIVE,05:00,2026-02-27,214.75,133.4,136.6,3.2,0.6360884749708964
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",DRIVE,06:00,2026-02-27,25.2,27.3,26.7,-0.6,1.0595238095238095
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",DRIVE,01:00,2026-02-27,17.9,15.8,14.2,-1.6,0.7932960893854749
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",DRIVE,07:00,2026-02-27,12.59,26.6,26.1,-0.5,2.073073868149325
+"Puerta del Sol, Madrid","Moncloa, Madrid",DRIVE,18:00,2026-02-27,11.92,20.5,21.1,0.6,1.7701342281879195
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,01:00,2026-02-27,314.08,193.5,184.8,-8.7,0.588385124808966
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",DRIVE,06:00,2026-02-27,613.8,366.8,360.6,-6.2,0.5874877810361682
+"Estación de Chamartín, Madrid","San Sebastián, España",DRIVE,02:00,2026-02-27,442.83,268.6,278.3,9.7,0.628457873224488
+"Getafe, Madrid","Parla, Madrid",DRIVE,01:00,2026-02-27,10.84,15.5,13.5,-2.0,1.2453874538745389
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",DRIVE,21:00,2026-02-27,34.15,29.0,28.0,-1.0,0.8199121522693997
+"Estación de Chamartín, Madrid","San Sebastián, España",DRIVE,04:00,2026-02-27,442.83,268.6,276.4,7.8,0.6241672876724702
+"Puerta del Sol, Madrid","Vallecas, Madrid",DRIVE,03:00,2026-02-27,18.78,22.6,18.1,-4.5,0.9637912673056444
+"Puerta del Sol, Madrid","Alcorcón, Madrid",DRIVE,14:00,2026-02-27,15.35,25.0,32.1,7.1,2.0912052117263844
+"Las Rozas de Madrid, Madrid","Majadahonda, Madrid",DRIVE,07:00,2026-02-27,3.12,7.1,5.9,-1.2,1.891025641025641
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",DRIVE,11:00,2026-02-27,22.96,27.1,27.1,0.0,1.1803135888501743
+"Retiro, Madrid","Ciudad Universitaria, Madrid",DRIVE,02:00,2026-02-27,8.78,22.4,16.3,-6.1,1.8564920273348522
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",DRIVE,22:00,2026-02-27,10.39,12.8,12.2,-0.6,1.174205967276227
+"Puerta del Sol, Madrid","Coslada, Madrid",DRIVE,14:00,2026-02-27,20.72,28.7,31.2,2.5,1.505791505791506
+"Estación de Atocha, Madrid","Parla, Madrid",DRIVE,12:00,2026-02-27,24.36,29.1,29.7,0.6,1.2192118226600985
+"Retiro, Madrid","Ciudad Universitaria, Madrid",DRIVE,08:00,2026-02-27,8.78,22.4,20.4,-2.0,2.3234624145785876
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,19:00,2026-02-27,387.98,233.3,229.3,-4.0,0.5910098458683437
+"Estación de Atocha, Madrid","Parla, Madrid",DRIVE,15:00,2026-02-27,24.36,29.1,30.8,1.7,1.264367816091954
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",DRIVE,21:00,2026-02-27,16.68,17.7,16.0,-1.7,0.9592326139088729
+"Las Rozas de Madrid, Madrid","Majadahonda, Madrid",DRIVE,10:00,2026-02-27,3.12,7.1,5.8,-1.3,1.8589743589743588
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",DRIVE,08:00,2026-02-27,22.96,27.1,26.4,-0.7,1.1498257839721253
+"Estación de Atocha, Madrid",Ciudad Real,DRIVE,18:00,2026-02-27,190.37,134.3,143.2,8.9,0.752219362294479
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",DRIVE,20:00,2026-02-27,22.96,27.1,25.2,-1.9,1.097560975609756
+"Puerta del Sol, Madrid","Vallecas, Madrid",DRIVE,18:00,2026-02-27,18.78,22.6,24.2,1.6,1.2886048988285408
+"Estación de Atocha, Madrid",Córdoba,DRIVE,06:00,2026-02-27,392.87,238.5,237.0,-1.5,0.6032529844477817
+"Estación de Atocha, Madrid","Móstoles, Madrid",DRIVE,14:00,2026-02-27,25.18,30.6,36.2,5.6,1.4376489277204132
+"Puerta del Sol, Madrid","Coslada, Madrid",DRIVE,16:00,2026-02-27,20.72,28.7,28.8,0.1,1.38996138996139
+"Estación de Atocha, Madrid","Parla, Madrid",DRIVE,17:00,2026-02-27,24.36,29.1,31.6,2.5,1.2972085385878491
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",DRIVE,13:00,2026-02-27,10.63,13.0,14.2,1.2,1.3358419567262463
+"Puerta del Sol, Madrid","Alcorcón, Madrid",DRIVE,13:00,2026-02-27,15.35,25.0,30.1,5.1,1.960912052117264
+"Estación de Atocha, Madrid",Córdoba,DRIVE,10:00,2026-02-27,392.87,238.5,231.8,-6.7,0.5900170539873241
+"Aranjuez, Madrid","Ocaña, Toledo",DRIVE,01:00,2026-02-27,16.03,17.0,16.1,-0.9,1.0043668122270744
+"Retiro, Madrid","Ciudad Universitaria, Madrid",DRIVE,14:00,2026-02-27,8.78,22.4,25.5,3.1,2.904328018223235
+"Estación de Atocha, Madrid",Segovia,DRIVE,02:00,2026-02-27,99.76,74.5,71.1,-3.4,0.7127105052125099
+"Estación de Chamartín, Madrid",Burgos,DRIVE,16:00,2026-02-27,234.65,140.0,144.4,4.4,0.6153846153846154
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,07:00,2026-02-27,314.08,193.5,192.8,-0.7,0.6138563423331636
+"Estación de Atocha, Madrid","Móstoles, Madrid",DRIVE,07:00,2026-02-27,25.18,30.6,30.5,-0.1,1.2112787926926132
+"Estación de Atocha, Madrid","Aranjuez, Madrid",DRIVE,18:00,2026-02-27,47.89,43.0,44.0,1.0,0.9187721862601795
+"Puerta del Sol, Madrid","Moncloa, Madrid",DRIVE,06:00,2026-02-27,11.92,20.5,17.4,-3.1,1.459731543624161
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,08:00,2026-02-27,314.08,193.5,190.1,-3.4,0.6052598064187469
+"Moncloa, Madrid","Majadahonda, Madrid",DRIVE,07:00,2026-02-27,18.27,16.4,16.9,0.5,0.9250136836343732
+"Estación de Atocha, Madrid",Ciudad Real,DRIVE,10:00,2026-02-27,190.37,134.3,140.1,5.8,0.7359352839207858
+"Estación de Atocha, Madrid","Alcobendas, Madrid",DRIVE,14:00,2026-02-27,18.7,19.5,21.4,1.9,1.1443850267379678
+"Retiro, Madrid","Getafe, Madrid",DRIVE,09:00,2026-02-27,14.99,25.4,23.9,-1.5,1.5943962641761174
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",DRIVE,14:00,2026-02-27,33.74,31.6,36.5,4.9,1.0818020154119738
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",DRIVE,04:00,2026-02-27,22.96,27.1,21.2,-5.9,0.9233449477351916
+"Estación de Chamartín, Madrid",Salamanca,DRIVE,12:00,2026-02-27,214.75,133.4,134.7,1.3,0.6272409778812572
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",DRIVE,22:00,2026-02-27,6.51,21.9,19.1,-2.8,2.9339477726574503
+"Móstoles, Madrid","Fuenlabrada, Madrid",DRIVE,02:00,2026-02-27,9.98,18.0,14.9,-3.1,1.4929859719438878
+"Estación de Atocha, Madrid",Ávila,DRIVE,07:00,2026-02-27,117.1,82.4,81.0,-1.4,0.6917164816396243
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",DRIVE,05:00,2026-02-27,22.96,27.1,22.3,-4.8,0.9712543554006968
+"Móstoles, Madrid","Leganés, Madrid",DRIVE,13:00,2026-02-27,11.77,22.1,23.4,1.3,1.988105352591334
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",DRIVE,12:00,2026-02-27,10.63,13.0,12.9,-0.1,1.2135465663217309
+"Estación de Chamartín, Madrid",Burgos,DRIVE,11:00,2026-02-27,234.65,140.0,137.4,-2.6,0.5855529512039207
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",DRIVE,18:00,2026-02-27,6.51,21.9,23.9,2.0,3.671274961597542
+"Estación de Atocha, Madrid",Ávila,DRIVE,09:00,2026-02-27,117.1,82.4,78.6,-3.8,0.6712211784799317
+"Estación de Atocha, Madrid","Sevilla, España",DRIVE,05:00,2026-02-27,534.39,307.4,309.2,1.8,0.5786036415352084
+"Estación de Atocha, Madrid","Móstoles, Madrid",DRIVE,20:00,2026-02-27,25.18,30.6,29.3,-1.3,1.163621922160445
+"Estación de Chamartín, Madrid","San Sebastián, España",DRIVE,12:00,2026-02-27,442.83,268.6,261.7,-6.9,0.5909717047173859
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",DRIVE,07:00,2026-02-27,6.51,21.9,21.3,-0.6,3.2718894009216593
+"Estación de Atocha, Madrid","Aranjuez, Madrid",DRIVE,22:00,2026-02-27,47.89,43.0,38.1,-4.9,0.79557318855711
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,10:00,2026-02-27,314.08,193.5,188.8,-4.7,0.6011207335710648
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",DRIVE,08:00,2026-02-27,14.38,18.7,19.8,1.1,1.376912378303199
+"Estación de Atocha, Madrid","Parla, Madrid",DRIVE,04:00,2026-02-27,24.36,29.1,22.6,-6.5,0.9277504105090313
+"Moncloa, Madrid","Boadilla del Monte, Madrid",DRIVE,03:00,2026-02-27,20.84,19.4,18.4,-1.0,0.8829174664107485
+"Puerta del Sol, Madrid","Moncloa, Madrid",DRIVE,23:00,2026-02-27,11.92,20.5,17.7,-2.8,1.4848993288590604
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",DRIVE,13:00,2026-02-27,14.38,18.7,22.8,4.1,1.5855354659248957
+"Aranjuez, Madrid","Ocaña, Toledo",DRIVE,14:00,2026-02-27,16.03,17.0,15.8,-1.2,0.9856519026824704
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",DRIVE,02:00,2026-02-27,22.96,27.1,21.8,-5.3,0.9494773519163763
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",DRIVE,09:00,2026-02-27,17.9,15.8,15.5,-0.3,0.8659217877094972
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",DRIVE,16:00,2026-02-27,33.74,31.6,31.9,0.3,0.9454653230586839
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,14:00,2026-02-27,387.98,233.3,232.2,-1.1,0.5984844579617505
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",DRIVE,01:00,2026-02-27,34.15,29.0,27.8,-1.2,0.8140556368960469
+"Estación de Chamartín, Madrid",Valladolid,DRIVE,08:00,2026-02-27,208.61,133.7,135.4,1.7,0.6490580509083936
+"Getafe, Madrid","Leganés, Madrid",DRIVE,03:00,2026-02-27,4.77,12.6,9.4,-3.2,1.9706498951781972
+"Puerta del Sol, Madrid","Getafe, Madrid",DRIVE,05:00,2026-02-27,14.4,26.2,20.2,-6.0,1.4027777777777777
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",DRIVE,06:00,2026-02-27,30.81,36.5,35.6,-0.9,1.1554690035702695
+"Retiro, Madrid","Getafe, Madrid",DRIVE,07:00,2026-02-27,14.99,25.4,25.1,-0.3,1.674449633088726
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",DRIVE,07:00,2026-02-27,3.71,15.1,13.7,-1.4,3.6927223719676547
+"Retiro, Madrid","Ciudad Universitaria, Madrid",DRIVE,06:00,2026-02-27,8.78,22.4,15.9,-6.5,1.8109339407744875
+"Getafe, Madrid","Parla, Madrid",DRIVE,21:00,2026-02-27,10.84,15.5,14.1,-1.4,1.3007380073800738
+"Estación de Atocha, Madrid","Móstoles, Madrid",DRIVE,23:00,2026-02-27,25.18,30.6,25.4,-5.2,1.0087370929308974
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",DRIVE,09:00,2026-02-27,3.71,15.1,14.4,-0.7,3.881401617250674
+"Estación de Chamartín, Madrid",Burgos,DRIVE,20:00,2026-02-27,234.65,140.0,137.5,-2.5,0.5859791178350735
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,17:00,2026-02-27,387.98,233.3,236.2,2.9,0.6087942677457601
+"Estación de Atocha, Madrid","Málaga, España",DRIVE,11:00,2026-02-27,533.33,316.2,308.3,-7.9,0.5780661129132056
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",DRIVE,13:00,2026-02-27,9.54,11.8,12.2,0.4,1.278825995807128
+"Estación de Chamartín, Madrid",Salamanca,DRIVE,13:00,2026-02-27,214.75,133.4,140.5,7.1,0.6542491268917345
+"Estación de Atocha, Madrid",Ciudad Real,DRIVE,21:00,2026-02-27,190.37,134.3,128.6,-5.7,0.6755266060828912
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",DRIVE,14:00,2026-02-27,4.2,11.9,13.8,1.9,3.2857142857142856
+"Puerta del Sol, Madrid","Vallecas, Madrid",DRIVE,02:00,2026-02-27,18.78,22.6,18.6,-4.0,0.9904153354632588
+"Puerta del Sol, Madrid","Coslada, Madrid",DRIVE,12:00,2026-02-27,20.72,28.7,30.1,1.4,1.4527027027027029
+"Móstoles, Madrid","Alcorcón, Madrid",DRIVE,22:00,2026-02-27,8.93,15.5,12.7,-2.8,1.4221724524076147
+"Retiro, Madrid","Leganés, Madrid",DRIVE,11:00,2026-02-27,14.27,23.3,23.0,-0.3,1.6117729502452698
+"Estación de Atocha, Madrid",Toledo,DRIVE,21:00,2026-02-27,73.34,57.2,53.4,-3.8,0.7281156258521952
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",DRIVE,21:00,2026-02-27,14.38,18.7,16.6,-2.1,1.1543810848400557
+"Moncloa, Madrid","Boadilla del Monte, Madrid",DRIVE,06:00,2026-02-27,20.84,19.4,18.7,-0.7,0.8973128598848368
+"Estación de Chamartín, Madrid",Valladolid,DRIVE,05:00,2026-02-27,208.61,133.7,137.1,3.4,0.6572072288001534
+"Estación de Atocha, Madrid","Valencia, España",DRIVE,18:00,2026-02-27,355.0,215.0,208.6,-6.4,0.5876056338028169
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",DRIVE,18:00,2026-02-27,33.74,31.6,31.3,-0.3,0.927682276229994
+"Estación de Atocha, Madrid",Cuenca,DRIVE,06:00,2026-02-27,164.27,98.5,95.6,-2.9,0.5819687100505265
+"Estación de Chamartín, Madrid",Valladolid,DRIVE,19:00,2026-02-27,208.61,133.7,133.5,-0.2,0.6399501462058386
+"Aranjuez, Madrid","Valdemoro, Madrid",DRIVE,04:00,2026-02-27,22.01,21.4,19.7,-1.7,0.8950477055883689
+"Getafe, Madrid","Parla, Madrid",DRIVE,07:00,2026-02-27,10.84,15.5,16.1,0.6,1.4852398523985242
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",DRIVE,05:00,2026-02-27,33.74,31.6,27.4,-4.2,0.8120924718435091
+"Móstoles, Madrid","Fuenlabrada, Madrid",DRIVE,16:00,2026-02-27,9.98,18.0,19.0,1.0,1.9038076152304608
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",DRIVE,23:00,2026-02-27,14.38,18.7,15.7,-3.0,1.0917941585535464
+"Getafe, Madrid","Leganés, Madrid",DRIVE,20:00,2026-02-27,4.77,12.6,11.9,-0.7,2.4947589098532497
+"Puerta del Sol, Madrid","Leganés, Madrid",DRIVE,06:00,2026-02-27,13.68,24.1,20.3,-3.8,1.4839181286549707
+"Móstoles, Madrid","Fuenlabrada, Madrid",DRIVE,23:00,2026-02-27,9.98,18.0,15.1,-2.9,1.5130260521042083
+"Estación de Chamartín, Madrid",Burgos,DRIVE,09:00,2026-02-27,234.65,140.0,135.5,-4.5,0.5774557852120179
+"Puerta del Sol, Madrid","Vallecas, Madrid",DRIVE,15:00,2026-02-27,18.78,22.6,23.7,1.1,1.2619808306709264
+"Moncloa, Madrid","Boadilla del Monte, Madrid",DRIVE,19:00,2026-02-27,20.84,19.4,19.1,-0.3,0.916506717850288
+"Estación de Atocha, Madrid","Sevilla, España",DRIVE,23:00,2026-02-27,534.39,307.4,317.2,9.8,0.5935739815490559
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",DRIVE,05:00,2026-02-27,30.81,36.5,30.2,-6.3,0.9802012333657903
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,14:00,2026-02-27,314.08,193.5,197.4,3.9,0.6285022924095772
+"Estación de Chamartín, Madrid",Salamanca,DRIVE,11:00,2026-02-27,214.75,133.4,134.4,1.0,0.6258440046565774
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",DRIVE,02:00,2026-02-27,5.83,17.7,11.9,-5.8,2.041166380789022
+"Estación de Atocha, Madrid",Cuenca,DRIVE,02:00,2026-02-27,164.27,98.5,101.7,3.2,0.619102696779692
+"Estación de Chamartín, Madrid",Salamanca,DRIVE,10:00,2026-02-27,214.75,133.4,133.1,-0.3,0.619790454016298
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",DRIVE,01:00,2026-02-27,30.81,36.5,30.1,-6.4,0.9769555339175593
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",DRIVE,16:00,2026-02-27,613.8,366.8,358.0,-8.8,0.5832518735744543
+"Estación de Atocha, Madrid","Móstoles, Madrid",DRIVE,11:00,2026-02-27,25.18,30.6,29.7,-0.9,1.1795075456711677
+"Las Rozas de Madrid, Madrid","Majadahonda, Madrid",DRIVE,08:00,2026-02-27,3.12,7.1,6.3,-0.8,2.019230769230769
+"Móstoles, Madrid","Fuenlabrada, Madrid",DRIVE,08:00,2026-02-27,9.98,18.0,19.2,1.2,1.9238476953907815
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",DRIVE,05:00,2026-02-27,613.8,366.8,364.2,-2.6,0.5933528836754643
+"Estación de Chamartín, Madrid",Salamanca,DRIVE,04:00,2026-02-27,214.75,133.4,136.8,3.4,0.6370197904540164
+"Retiro, Madrid","Ciudad Universitaria, Madrid",DRIVE,11:00,2026-02-27,8.78,22.4,22.0,-0.4,2.5056947608200457
+"Puerta del Sol, Madrid","Vallecas, Madrid",DRIVE,16:00,2026-02-27,18.78,22.6,23.9,1.3,1.2726304579339722
+"Puerta del Sol, Madrid","Leganés, Madrid",DRIVE,11:00,2026-02-27,13.68,24.1,26.0,1.9,1.9005847953216375
+"Puerta del Sol, Madrid","Getafe, Madrid",DRIVE,07:00,2026-02-27,14.4,26.2,25.3,-0.9,1.7569444444444444
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",DRIVE,13:00,2026-02-27,17.9,15.8,18.4,2.6,1.0279329608938548
+"Estación de Atocha, Madrid","Alcobendas, Madrid",DRIVE,02:00,2026-02-27,18.7,19.5,16.2,-3.3,0.8663101604278075
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",DRIVE,02:00,2026-02-27,17.9,15.8,14.6,-1.2,0.8156424581005587
+"Puerta del Sol, Madrid","Coslada, Madrid",DRIVE,10:00,2026-02-27,20.72,28.7,28.7,0.0,1.385135135135135
+"Estación de Atocha, Madrid","Pinto, Madrid",DRIVE,02:00,2026-02-27,23.85,23.6,19.6,-4.0,0.8218029350104822
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",DRIVE,09:00,2026-02-27,10.39,12.8,12.4,-0.4,1.1934552454282965
+"Estación de Chamartín, Madrid",Valladolid,DRIVE,22:00,2026-02-27,208.61,133.7,132.8,-0.9,0.6365946023680552
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",DRIVE,12:00,2026-02-27,4.2,11.9,12.8,0.9,3.0476190476190474
+"Estación de Chamartín, Madrid",Salamanca,DRIVE,15:00,2026-02-27,214.75,133.4,140.0,6.6,0.6519208381839348
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",DRIVE,14:00,2026-02-27,17.9,15.8,22.3,6.5,1.245810055865922
+"Estación de Atocha, Madrid","Valencia, España",DRIVE,08:00,2026-02-27,355.0,215.0,210.8,-4.2,0.5938028169014085
+"Estación de Chamartín, Madrid","San Sebastián, España",DRIVE,10:00,2026-02-27,442.83,268.6,260.1,-8.5,0.5873585800420027
+"Estación de Atocha, Madrid","Sevilla, España",DRIVE,10:00,2026-02-27,534.39,307.4,299.4,-8.0,0.5602649750182451
+"Puerta del Sol, Madrid","Getafe, Madrid",DRIVE,12:00,2026-02-27,14.4,26.2,27.8,1.6,1.9305555555555556
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",DRIVE,07:00,2026-02-27,25.2,27.3,28.7,1.4,1.1388888888888888
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",DRIVE,04:00,2026-02-27,30.81,36.5,30.0,-6.5,0.9737098344693281
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",DRIVE,09:00,2026-02-27,25.2,27.3,25.6,-1.7,1.015873015873016
+"Puerta del Sol, Madrid","Alcorcón, Madrid",DRIVE,23:00,2026-02-27,15.35,25.0,22.5,-2.5,1.4657980456026058
+"Puerta del Sol, Madrid","Moncloa, Madrid",DRIVE,01:00,2026-02-27,11.92,20.5,16.0,-4.5,1.342281879194631
+"Estación de Atocha, Madrid",Segovia,DRIVE,06:00,2026-02-27,99.76,74.5,73.4,-1.1,0.735765838011227
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",DRIVE,08:00,2026-02-27,5.83,17.7,17.3,-0.4,2.967409948542024
+"Estación de Chamartín, Madrid","San Sebastián, España",DRIVE,20:00,2026-02-27,442.83,268.6,266.2,-2.4,0.6011336178669016
+"Las Rozas de Madrid, Madrid","Majadahonda, Madrid",DRIVE,22:00,2026-02-27,3.12,7.1,5.2,-1.9,1.6666666666666667
+"Estación de Atocha, Madrid","Málaga, España",DRIVE,02:00,2026-02-27,533.33,316.2,319.4,3.2,0.5988787429921436
+"Estación de Chamartín, Madrid",Salamanca,DRIVE,02:00,2026-02-27,214.75,133.4,131.8,-1.6,0.6137369033760187
+"Estación de Atocha, Madrid",Córdoba,DRIVE,14:00,2026-02-27,392.87,238.5,244.3,5.8,0.6218341945172704
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",DRIVE,13:00,2026-02-27,16.68,17.7,17.6,-0.1,1.0551558752997603
+"Retiro, Madrid","Ciudad Universitaria, Madrid",DRIVE,16:00,2026-02-27,8.78,22.4,21.9,-0.5,2.4943052391799543
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",DRIVE,17:00,2026-02-27,14.38,18.7,22.1,3.4,1.5368567454798332
+"Estación de Chamartín, Madrid",Burgos,DRIVE,06:00,2026-02-27,234.65,140.0,140.7,0.7,0.5996164500319624
+"Aranjuez, Madrid","Valdemoro, Madrid",DRIVE,11:00,2026-02-27,22.01,21.4,21.4,0.0,0.9722853248523398
+"Móstoles, Madrid","Alcorcón, Madrid",DRIVE,11:00,2026-02-27,8.93,15.5,18.8,3.3,2.105263157894737
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",DRIVE,02:00,2026-02-27,3.71,15.1,10.4,-4.7,2.803234501347709
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",DRIVE,06:00,2026-02-27,6.51,21.9,18.0,-3.9,2.7649769585253456
+"Puerta del Sol, Madrid","Leganés, Madrid",DRIVE,14:00,2026-02-27,13.68,24.1,26.5,2.4,1.9371345029239766
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",DRIVE,05:00,2026-02-27,14.38,18.7,16.4,-2.3,1.140472878998609
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",DRIVE,13:00,2026-02-27,6.51,21.9,23.5,1.6,3.609831029185868
+"Estación de Atocha, Madrid","Móstoles, Madrid",DRIVE,05:00,2026-02-27,25.18,30.6,24.5,-6.1,0.9729944400317713
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",DRIVE,05:00,2026-02-27,3.71,15.1,11.1,-4.0,2.9919137466307277
+"Estación de Atocha, Madrid",Segovia,DRIVE,03:00,2026-02-27,99.76,74.5,69.8,-4.7,0.6996792301523657
+"Retiro, Madrid","Getafe, Madrid",DRIVE,22:00,2026-02-27,14.99,25.4,20.8,-4.6,1.3875917278185457
+"Estación de Chamartín, Madrid",Burgos,DRIVE,07:00,2026-02-27,234.65,140.0,137.6,-2.4,0.5864052844662263
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",DRIVE,03:00,2026-02-27,18.03,27.1,20.5,-6.6,1.1369938990571269
+"Estación de Atocha, Madrid",Cuenca,DRIVE,15:00,2026-02-27,164.27,98.5,96.1,-2.4,0.5850124794545565
+"Puerta del Sol, Madrid","Coslada, Madrid",DRIVE,05:00,2026-02-27,20.72,28.7,23.3,-5.4,1.1245173745173747
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,23:00,2026-02-27,20.96,25.8,23.3,-2.5,1.1116412213740459
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,01:00,2026-02-27,12.54,16.0,13.3,-2.7,1.0606060606060608
+"Aranjuez, Madrid","Ocaña, Toledo",DRIVE,08:00,2026-02-27,16.03,17.0,16.4,-0.6,1.0230817217716779
+"Aranjuez, Madrid","Ocaña, Toledo",DRIVE,16:00,2026-02-27,16.03,17.0,16.8,-0.2,1.0480349344978166
+"Getafe, Madrid","Leganés, Madrid",DRIVE,07:00,2026-02-27,4.77,12.6,14.0,1.4,2.9350104821802936
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",DRIVE,17:00,2026-02-27,10.39,12.8,13.6,0.8,1.308950914340712
+"Retiro, Madrid","Leganés, Madrid",DRIVE,09:00,2026-02-27,14.27,23.3,22.1,-1.2,1.5487035739313246
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",DRIVE,20:00,2026-02-27,26.62,27.8,25.6,-2.2,0.9616829451540195
+"Estación de Atocha, Madrid",Toledo,DRIVE,03:00,2026-02-27,73.34,57.2,52.1,-5.1,0.7103899645486774
+"Aranjuez, Madrid","Valdemoro, Madrid",DRIVE,09:00,2026-02-27,22.01,21.4,20.7,-0.7,0.9404815992730576
+"Puerta del Sol, Madrid","Estación de Atocha, Madrid",DRIVE,22:00,2026-02-27,3.71,15.1,12.8,-2.3,3.450134770889488
+"Retiro, Madrid","Leganés, Madrid",DRIVE,04:00,2026-02-27,14.27,23.3,17.3,-6.0,1.2123335669236162
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",DRIVE,23:00,2026-02-27,12.59,26.6,23.0,-3.6,1.8268467037331215
+"Las Rozas de Madrid, Madrid","Majadahonda, Madrid",DRIVE,19:00,2026-02-27,3.12,7.1,6.2,-0.9,1.9871794871794872
+"Estación de Chamartín, Madrid",Burgos,DRIVE,15:00,2026-02-27,234.65,140.0,142.2,2.2,0.6060089494992541
+"Móstoles, Madrid","Alcorcón, Madrid",DRIVE,23:00,2026-02-27,8.93,15.5,12.5,-3.0,1.3997760358342666
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",DRIVE,01:00,2026-02-27,4.2,11.9,9.6,-2.3,2.2857142857142856
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",DRIVE,10:00,2026-02-27,14.38,18.7,18.8,0.1,1.3073713490959666
+"Estación de Atocha, Madrid","Pinto, Madrid",DRIVE,16:00,2026-02-27,23.85,23.6,26.2,2.6,1.0985324947589097
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",DRIVE,07:00,2026-02-27,9.54,11.8,12.1,0.3,1.2683438155136268
+"Getafe, Madrid","Parla, Madrid",DRIVE,06:00,2026-02-27,10.84,15.5,14.0,-1.5,1.2915129151291513
+"Puerta del Sol, Madrid","Vallecas, Madrid",DRIVE,14:00,2026-02-27,18.78,22.6,24.9,2.3,1.325878594249201
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",DRIVE,16:00,2026-02-27,5.83,17.7,19.4,1.7,3.327615780445969
+"Estación de Atocha, Madrid",Ciudad Real,DRIVE,05:00,2026-02-27,190.37,134.3,133.6,-0.7,0.7017912486211062
+"Móstoles, Madrid","Leganés, Madrid",DRIVE,21:00,2026-02-27,11.77,22.1,20.1,-2.0,1.7077315208156332
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",DRIVE,15:00,2026-02-27,10.39,12.8,13.1,0.3,1.2608277189605388
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,11:00,2026-02-27,314.08,193.5,190.7,-2.8,0.6071701477330617
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,16:00,2026-02-27,12.54,16.0,16.7,0.7,1.331738437001595
+"Puerta del Sol, Madrid","Leganés, Madrid",DRIVE,10:00,2026-02-27,13.68,24.1,25.0,0.9,1.827485380116959
+"Estación de Chamartín, Madrid","San Sebastián, España",DRIVE,15:00,2026-02-27,442.83,268.6,267.6,-1.0,0.604295101957862
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,22:00,2026-02-27,20.96,25.8,22.9,-2.9,1.0925572519083968
+"Estación de Atocha, Madrid",Cuenca,DRIVE,14:00,2026-02-27,164.27,98.5,101.3,2.8,0.616667681256468
+"Estación de Atocha, Madrid",Ciudad Real,DRIVE,22:00,2026-02-27,190.37,134.3,127.0,-7.3,0.6671219204706624
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,08:00,2026-02-27,387.98,233.3,227.5,-5.8,0.5863704314655395
+"Estación de Atocha, Madrid",Cuenca,DRIVE,10:00,2026-02-27,164.27,98.5,95.1,-3.4,0.5789249406464966
+"Estación de Atocha, Madrid","Sevilla, España",DRIVE,18:00,2026-02-27,534.39,307.4,303.4,-4.0,0.5677501450251689
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",DRIVE,05:00,2026-02-27,4.2,11.9,8.6,-3.3,2.0476190476190474
+"Estación de Atocha, Madrid","Valencia, España",DRIVE,20:00,2026-02-27,355.0,215.0,210.0,-5.0,0.5915492957746479
+"Estación de Chamartín, Madrid","Bilbao, España",DRIVE,04:00,2026-02-27,387.98,233.3,243.9,10.6,0.6286406515799783
+"Estación de Atocha, Madrid","Móstoles, Madrid",DRIVE,02:00,2026-02-27,25.18,30.6,23.2,-7.4,0.9213661636219221
+"Estación de Chamartín, Madrid",Valladolid,DRIVE,03:00,2026-02-27,208.61,133.7,135.2,1.5,0.6480993240975983
+"Moncloa, Madrid","Majadahonda, Madrid",DRIVE,18:00,2026-02-27,18.27,16.4,17.6,1.2,0.9633278598795841
+"Móstoles, Madrid","Alcorcón, Madrid",DRIVE,13:00,2026-02-27,8.93,15.5,17.7,2.2,1.9820828667413213
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",DRIVE,21:00,2026-02-27,22.96,27.1,23.9,-3.2,1.0409407665505226
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",DRIVE,03:00,2026-02-27,9.54,11.8,9.5,-2.3,0.9958071278825996
+"Estación de Atocha, Madrid","Alcobendas, Madrid",DRIVE,15:00,2026-02-27,18.7,19.5,18.1,-1.4,0.9679144385026739
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",DRIVE,08:00,2026-02-27,25.2,27.3,26.5,-0.8,1.0515873015873016
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",DRIVE,20:00,2026-02-27,33.74,31.6,29.2,-2.4,0.8654416123295791
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",DRIVE,10:00,2026-02-27,4.2,11.9,11.3,-0.6,2.6904761904761907
+"Puerta del Sol, Madrid","Getafe, Madrid",DRIVE,23:00,2026-02-27,14.4,26.2,22.7,-3.5,1.5763888888888888
+"Puerta del Sol, Madrid","Vallecas, Madrid",DRIVE,10:00,2026-02-27,18.78,22.6,23.5,0.9,1.2513312034078807
+"Estación de Atocha, Madrid","Móstoles, Madrid",DRIVE,13:00,2026-02-27,25.18,30.6,36.1,5.5,1.4336775218427324
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",DRIVE,07:00,2026-02-27,33.74,31.6,32.9,1.3,0.9751037344398339
+"Móstoles, Madrid","Leganés, Madrid",DRIVE,07:00,2026-02-27,11.77,22.1,22.0,-0.1,1.8691588785046729
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,01:00,2026-02-27,20.96,25.8,20.8,-5.0,0.9923664122137404
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",DRIVE,07:00,2026-02-27,10.63,13.0,13.0,0.0,1.2229539040451551
+"Puerta del Sol, Madrid","Coslada, Madrid",DRIVE,22:00,2026-02-27,20.72,28.7,24.9,-3.8,1.2017374517374517
+"Puerta del Sol, Madrid","Alcorcón, Madrid",DRIVE,09:00,2026-02-27,15.35,25.0,24.9,-0.1,1.6221498371335505
+"Retiro, Madrid","Ciudad Universitaria, Madrid",DRIVE,15:00,2026-02-27,8.78,22.4,21.4,-1.0,2.437357630979499
+"Estación de Chamartín, Madrid",Burgos,DRIVE,14:00,2026-02-27,234.65,140.0,141.8,1.8,0.6043042829746431
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",DRIVE,04:00,2026-02-27,6.51,21.9,15.8,-6.1,2.4270353302611367
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,09:00,2026-02-27,20.96,25.8,25.3,-0.5,1.20706106870229
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",DRIVE,03:00,2026-02-27,5.83,17.7,12.0,-5.7,2.058319039451115
+"Estación de Atocha, Madrid",Cuenca,DRIVE,12:00,2026-02-27,164.27,98.5,94.8,-3.7,0.5770986790040786
+"Estación de Atocha, Madrid",Ávila,DRIVE,10:00,2026-02-27,117.1,82.4,78.5,-3.9,0.6703672075149445
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",DRIVE,02:00,2026-02-27,30.81,36.5,29.9,-6.6,0.9704641350210971
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",DRIVE,23:00,2026-02-27,6.51,21.9,19.2,-2.7,2.9493087557603688
+"Estación de Atocha, Madrid","Móstoles, Madrid",DRIVE,04:00,2026-02-27,25.18,30.6,23.7,-6.9,0.9412231930103256
+"Retiro, Madrid","Ciudad Universitaria, Madrid",DRIVE,23:00,2026-02-27,8.78,22.4,18.3,-4.1,2.0842824601366745
+"Estación de Chamartín, Madrid",Salamanca,DRIVE,19:00,2026-02-27,214.75,133.4,134.2,0.8,0.6249126891734574
+"Estación de Atocha, Madrid",Toledo,DRIVE,05:00,2026-02-27,73.34,57.2,51.6,-5.6,0.7035724025088628
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",DRIVE,02:00,2026-02-27,10.39,12.8,10.3,-2.5,0.9913378248315688
+"Estación de Atocha, Madrid","Pinto, Madrid",DRIVE,03:00,2026-02-27,23.85,23.6,19.8,-3.8,0.830188679245283
+"Moncloa, Madrid","Majadahonda, Madrid",DRIVE,06:00,2026-02-27,18.27,16.4,15.8,-0.6,0.8648056923918993
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",DRIVE,15:00,2026-02-27,17.9,15.8,17.8,2.0,0.9944134078212292
+"Móstoles, Madrid","Alcorcón, Madrid",DRIVE,06:00,2026-02-27,8.93,15.5,13.5,-2.0,1.5117581187010078
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",DRIVE,20:00,2026-02-27,12.59,26.6,25.3,-1.3,2.009531374106434
+"Getafe, Madrid","Parla, Madrid",DRIVE,09:00,2026-02-27,10.84,15.5,15.4,-0.1,1.4206642066420665
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,13:00,2026-02-27,12.54,16.0,19.2,3.2,1.5311004784688995
+"Las Rozas de Madrid, Madrid","Majadahonda, Madrid",DRIVE,17:00,2026-02-27,3.12,7.1,6.4,-0.7,2.0512820512820515
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",DRIVE,09:00,2026-02-27,14.38,18.7,18.5,-0.2,1.2865090403337969
+"Puerta del Sol, Madrid","Moncloa, Madrid",DRIVE,07:00,2026-02-27,11.92,20.5,20.0,-0.5,1.6778523489932886
+"Estación de Chamartín, Madrid","San Sebastián, España",DRIVE,18:00,2026-02-27,442.83,268.6,267.2,-1.4,0.6033918207890161
+"Getafe, Madrid","Parla, Madrid",DRIVE,03:00,2026-02-27,10.84,15.5,12.8,-2.7,1.1808118081180812
+"Moncloa, Madrid","Boadilla del Monte, Madrid",DRIVE,01:00,2026-02-27,20.84,19.4,18.2,-1.2,0.873320537428023
+"Estación de Atocha, Madrid","Alcobendas, Madrid",DRIVE,10:00,2026-02-27,18.7,19.5,18.4,-1.1,0.9839572192513368
+"Puerta del Sol, Madrid","Alcorcón, Madrid",DRIVE,04:00,2026-02-27,15.35,25.0,19.8,-5.2,1.2899022801302933
+"Estación de Atocha, Madrid",Ávila,DRIVE,19:00,2026-02-27,117.1,82.4,78.9,-3.5,0.6737830913748933
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",DRIVE,04:00,2026-02-27,20.96,25.8,20.2,-5.6,0.9637404580152671
+"Móstoles, Madrid","Fuenlabrada, Madrid",DRIVE,13:00,2026-02-27,9.98,18.0,21.4,3.4,2.1442885771543083
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",DRIVE,04:00,2026-02-27,4.2,11.9,9.0,-2.9,2.142857142857143
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",DRIVE,10:00,2026-02-27,22.96,27.1,26.6,-0.5,1.1585365853658536
+"Aranjuez, Madrid","Valdemoro, Madrid",DRIVE,17:00,2026-02-27,22.01,21.4,22.1,0.7,1.004089050431622
+"Retiro, Madrid","Ciudad Universitaria, Madrid",DRIVE,18:00,2026-02-27,8.78,22.4,21.8,-0.6,2.4829157175398637
+"Estación de Atocha, Madrid","Zaragoza, España",DRIVE,09:00,2026-02-27,314.08,193.5,187.0,-6.5,0.5953897096281202
+"Retiro, Madrid","Leganés, Madrid",DRIVE,02:00,2026-02-27,14.27,23.3,17.4,-5.9,1.2193412754029431
