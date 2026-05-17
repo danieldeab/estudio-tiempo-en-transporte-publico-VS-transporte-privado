@@ -1,0 +1,61 @@
+origen,destino,distancia_drive,tiempo_privado,n_drive,distancia_publico,tiempo_publico,n_publico,distancia_km,peso,trayecto,trayecto_id
+"Gran Vía, Madrid","Estadio Santiago Bernabéu, Madrid",4.2,9.777777777777779,18,4.51864406779661,23.81016949152542,59,4.359322033898305,38.5,"Gran Vía, Madrid → Estadio Santiago Bernabéu, Madrid",1
+"Puerta del Sol, Madrid","Cuatro Caminos, Madrid",6.51,15.9,10,4.50514705882353,19.341176470588238,68,5.507573529411765,39.0,"Puerta del Sol, Madrid → Cuatro Caminos, Madrid",2
+"Nuevos Ministerios, Madrid","Estación de Atocha, Madrid",5.83,13.275,16,5.666216216216216,19.59189189189189,74,5.748108108108108,45.0,"Nuevos Ministerios, Madrid → Estación de Atocha, Madrid",3
+"Getafe, Madrid","Leganés, Madrid",4.77,10.408333333333333,24,10.919857142857143,19.618571428571432,70,7.8449285714285715,47.0,"Getafe, Madrid → Leganés, Madrid",4
+"Las Rozas de Madrid, Madrid","Majadahonda, Madrid",3.12,5.743478260869565,46,12.597777777777777,30.6,54,7.858888888888888,50.0,"Las Rozas de Madrid, Madrid → Majadahonda, Madrid",5
+"Móstoles, Madrid","Alcorcón, Madrid",8.93,15.402127659574468,47,8.410422535211268,26.628169014084506,71,8.670211267605634,59.0,"Móstoles, Madrid → Alcorcón, Madrid",6
+"Retiro, Madrid","Ciudad Universitaria, Madrid",8.78,19.472093023255812,43,9.186716417910448,48.002985074626864,67,8.983358208955224,55.0,"Retiro, Madrid → Ciudad Universitaria, Madrid",7
+"Puerta del Sol, Madrid","Plaza de Castilla, Madrid",12.59,24.365957446808512,47,6.846216216216217,25.937837837837836,74,9.718108108108108,60.5,"Puerta del Sol, Madrid → Plaza de Castilla, Madrid",8
+"Getafe, Madrid","Parla, Madrid",10.84,15.378260869565217,46,9.39257142857143,20.995714285714286,70,10.116285714285715,58.0,"Getafe, Madrid → Parla, Madrid",9
+"Estación de Chamartín, Madrid","Alcobendas, Madrid",9.54,11.365957446808512,47,12.540135135135136,35.26486486486486,74,11.040067567567569,60.5,"Estación de Chamartín, Madrid → Alcobendas, Madrid",10
+"Puerta del Sol, Madrid","Moncloa, Madrid",11.92,19.357446808510637,47,11.205,62.417647058823526,34,11.5625,40.5,"Puerta del Sol, Madrid → Moncloa, Madrid",11
+"Gran Vía, Madrid","Estadio Cívitas Metropolitano, Madrid",10.39,12.51063829787234,47,13.91391891891892,45.51081081081081,74,12.15195945945946,60.5,"Gran Vía, Madrid → Estadio Cívitas Metropolitano, Madrid",12
+"Alcalá de Henares, Madrid","Torrejón de Ardoz, Madrid",14.38,18.472340425531915,47,10.51364864864865,12.913513513513514,74,12.446824324324325,60.5,"Alcalá de Henares, Madrid → Torrejón de Ardoz, Madrid",13
+"Nuevos Ministerios, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",12.54,15.857446808510637,47,12.619594594594593,24.295945945945945,74,12.579797297297297,60.5,"Nuevos Ministerios, Madrid → Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",14
+"Puerta del Sol, Madrid","Estación de Chamartín, Madrid",18.03,26.251063829787235,47,7.332162162162163,25.36891891891892,74,12.681081081081082,60.5,"Puerta del Sol, Madrid → Estación de Chamartín, Madrid",15
+"Móstoles, Madrid","Fuenlabrada, Madrid",9.98,17.38695652173913,46,15.656142857142859,52.43571428571428,70,12.818071428571429,58.0,"Móstoles, Madrid → Fuenlabrada, Madrid",16
+"Moncloa, Madrid","Pozuelo de Alarcón, Madrid",10.63,12.738297872340427,47,16.166875,64.85,16,13.3984375,31.5,"Moncloa, Madrid → Pozuelo de Alarcón, Madrid",17
+"Móstoles, Madrid","Leganés, Madrid",11.77,20.821739130434782,46,16.159428571428574,32.26,70,13.964714285714287,58.0,"Móstoles, Madrid → Leganés, Madrid",18
+"Puerta del Sol, Madrid","Getafe, Madrid",14.400000000000002,24.548936170212766,47,14.90608108108108,29.174324324324324,74,14.653040540540541,60.5,"Puerta del Sol, Madrid → Getafe, Madrid",19
+"Retiro, Madrid","Getafe, Madrid",14.99,23.651063829787233,47,15.218783783783785,41.445945945945944,74,15.104391891891893,60.5,"Retiro, Madrid → Getafe, Madrid",20
+"Puerta del Sol, Madrid","Leganés, Madrid",13.680000000000001,23.123404255319148,47,16.749324324324323,35.045945945945945,74,15.214662162162163,60.5,"Puerta del Sol, Madrid → Leganés, Madrid",21
+"Puerta del Sol, Madrid","Vallecas, Madrid",18.78,22.0531914893617,47,11.686081081081081,44.46351351351352,74,15.233040540540541,60.5,"Puerta del Sol, Madrid → Vallecas, Madrid",22
+"Retiro, Madrid","Leganés, Madrid",14.27,22.170212765957448,47,17.11256756756757,42.78783783783784,74,15.691283783783785,60.5,"Retiro, Madrid → Leganés, Madrid",23
+"Estación de Chamartín, Madrid","Tres Cantos, Madrid",16.68,16.99148936170213,47,15.543648648648649,26.455405405405408,74,16.111824324324324,60.5,"Estación de Chamartín, Madrid → Tres Cantos, Madrid",24
+"Puerta del Sol, Madrid","Alcorcón, Madrid",15.349999999999998,25.434042553191492,47,18.245540540540542,46.93648648648648,74,16.79777027027027,60.5,"Puerta del Sol, Madrid → Alcorcón, Madrid",25
+"Puerta del Sol, Madrid","Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",20.96,25.32340425531915,47,15.611891891891892,36.10675675675676,74,18.285945945945947,60.5,"Puerta del Sol, Madrid → Aeropuerto Adolfo Suárez Madrid-Barajas, Madrid",26
+"Puerta del Sol, Madrid","Coslada, Madrid",20.72,27.327659574468086,47,17.227972972972974,38.387837837837836,74,18.97398648648649,60.5,"Puerta del Sol, Madrid → Coslada, Madrid",27
+"Moncloa, Madrid","Majadahonda, Madrid",18.27,16.661702127659574,47,20.10810810810811,87.49594594594595,74,19.189054054054054,60.5,"Moncloa, Madrid → Majadahonda, Madrid",28
+"Moncloa, Madrid","Las Rozas de Madrid, Madrid",17.9,16.119148936170212,47,21.28337837837838,66.37702702702703,74,19.59168918918919,60.5,"Moncloa, Madrid → Las Rozas de Madrid, Madrid",29
+"Tres Cantos, Madrid","Alcobendas, Madrid",17.22,15.634782608695653,46,23.103285714285715,49.79857142857143,70,20.16164285714286,58.0,"Tres Cantos, Madrid → Alcobendas, Madrid",30
+"Estación de Atocha, Madrid","Alcobendas, Madrid",18.7,18.248936170212765,47,21.68972972972973,53.83378378378378,74,20.194864864864865,60.5,"Estación de Atocha, Madrid → Alcobendas, Madrid",31
+"Estación de Atocha, Madrid","Fuenlabrada, Madrid",22.96,26.455319148936173,47,21.385,42.77162162162162,74,22.1725,60.5,"Estación de Atocha, Madrid → Fuenlabrada, Madrid",32
+"Estación de Atocha, Madrid","Pinto, Madrid",23.85,23.106382978723403,47,20.68945945945946,33.83513513513514,74,22.269729729729733,60.5,"Estación de Atocha, Madrid → Pinto, Madrid",33
+"Aranjuez, Madrid","Valdemoro, Madrid",22.01,20.97826086956522,46,23.766666666666666,28.457142857142856,63,22.888333333333335,54.5,"Aranjuez, Madrid → Valdemoro, Madrid",34
+"Estación de Atocha, Madrid","Móstoles, Madrid",25.18,29.253191489361704,47,20.823513513513515,43.9445945945946,74,23.001756756756755,60.5,"Estación de Atocha, Madrid → Móstoles, Madrid",35
+"Estación de Atocha, Madrid","Parla, Madrid",24.360000000000003,27.695744680851064,47,22.160540540540538,41.048648648648644,74,23.26027027027027,60.5,"Estación de Atocha, Madrid → Parla, Madrid",36
+"Estación de Chamartín, Madrid","Colmenar Viejo, Madrid",26.62,26.94255319148936,47,23.543783783783784,34.9972972972973,74,25.081891891891892,60.5,"Estación de Chamartín, Madrid → Colmenar Viejo, Madrid",37
+"Estación de Atocha, Madrid","San Sebastián de los Reyes, Madrid",25.199999999999996,25.682978723404254,47,25.67418918918919,71.41621621621621,74,25.43709459459459,60.5,"Estación de Atocha, Madrid → San Sebastián de los Reyes, Madrid",38
+"Puerta del Sol, Madrid","Torrejón de Ardoz, Madrid",30.81,34.43617021276596,47,24.338783783783782,47.24864864864865,74,27.574391891891892,60.5,"Puerta del Sol, Madrid → Torrejón de Ardoz, Madrid",39
+"Moncloa, Madrid","Boadilla del Monte, Madrid",20.84,19.35531914893617,47,35.41621621621622,99.85270270270271,74,28.12810810810811,60.5,"Moncloa, Madrid → Boadilla del Monte, Madrid",40
+"Estación de Atocha, Madrid","Alcalá de Henares, Madrid",33.74,30.05744680851064,47,33.29162162162162,49.939189189189186,74,33.51581081081081,60.5,"Estación de Atocha, Madrid → Alcalá de Henares, Madrid",41
+"Aranjuez, Madrid","Ocaña, Toledo",16.03,16.42608695652174,46,51.036857142857144,40.857142857142854,70,33.53342857142857,58.0,"Aranjuez, Madrid → Ocaña, Toledo",42
+"Moncloa, Madrid","Villanueva de la Cañada, Madrid",34.15,28.84255319148936,47,42.83121621621622,102.78513513513514,74,38.490608108108106,60.5,"Moncloa, Madrid → Villanueva de la Cañada, Madrid",43
+"Estación de Atocha, Madrid","Aranjuez, Madrid",47.89,41.56595744680851,47,48.78945945945946,54.233783783783785,74,48.339729729729726,60.5,"Estación de Atocha, Madrid → Aranjuez, Madrid",44
+"Estación de Atocha, Madrid",Toledo,73.34,56.172340425531914,47,78.30716216216216,76.0554054054054,74,75.82358108108107,60.5,"Estación de Atocha, Madrid → Toledo",45
+"Estación de Atocha, Madrid",Segovia,99.76,72.9191489361702,47,87.54445945945946,93.83513513513513,74,93.65222972972973,60.5,"Estación de Atocha, Madrid → Segovia",46
+"Estación de Atocha, Madrid",Ávila,117.1,79.75106382978724,47,135.97029411764706,139.98529411764707,68,126.53514705882353,57.5,"Estación de Atocha, Madrid → Ávila",47
+"Estación de Atocha, Madrid",Ciudad Real,190.36999999999998,137.5531914893617,47,171.32,62.59864864864865,74,180.84499999999997,60.5,"Estación de Atocha, Madrid → Ciudad Real",48
+"Estación de Atocha, Madrid",Cuenca,164.27,97.25106382978724,47,208.5014864864865,108.32027027027027,74,186.38574324324327,60.5,"Estación de Atocha, Madrid → Cuenca",49
+"Estación de Chamartín, Madrid",Valladolid,208.61,136.94042553191488,47,180.04256756756757,79.84189189189189,74,194.3262837837838,60.5,"Estación de Chamartín, Madrid → Valladolid",50
+"Estación de Chamartín, Madrid",Salamanca,214.75,136.08085106382978,47,265.1481081081081,184.77162162162162,74,239.94905405405405,60.5,"Estación de Chamartín, Madrid → Salamanca",51
+"Estación de Chamartín, Madrid",Burgos,234.65000000000003,141.54468085106384,47,279.1183783783784,143.84729729729727,74,256.8841891891892,60.5,"Estación de Chamartín, Madrid → Burgos",52
+"Estación de Atocha, Madrid","Zaragoza, España",314.08,192.46170212765958,47,302.75243243243244,116.00270270270269,74,308.4162162162162,60.5,"Estación de Atocha, Madrid → Zaragoza, España",53
+"Estación de Atocha, Madrid",Córdoba,392.87,238.32765957446807,47,344.24756756756756,112.97702702702702,74,368.5587837837838,60.5,"Estación de Atocha, Madrid → Córdoba",54
+"Estación de Atocha, Madrid","Valencia, España",355.0,216.46595744680852,47,398.4083783783784,159.21486486486486,74,376.7041891891892,60.5,"Estación de Atocha, Madrid → Valencia, España",55
+"Estación de Chamartín, Madrid","Bilbao, España",387.98,234.61063829787236,47,370.87891891891894,296.7689189189189,74,379.4294594594595,60.5,"Estación de Chamartín, Madrid → Bilbao, España",56
+"Estación de Chamartín, Madrid","San Sebastián, España",442.83,269.6936170212766,47,487.3775675675676,352.0567567567568,74,465.1037837837838,60.5,"Estación de Chamartín, Madrid → San Sebastián, España",57
+"Estación de Atocha, Madrid","Sevilla, España",534.39,306.58085106382975,47,475.9923943661972,186.60281690140843,71,505.19119718309855,59.0,"Estación de Atocha, Madrid → Sevilla, España",58
+"Estación de Atocha, Madrid","Málaga, España",533.33,316.9659574468085,47,513.8127027027027,229.6418918918919,74,523.5713513513514,60.5,"Estación de Atocha, Madrid → Málaga, España",59
+"Estación de Atocha, Madrid","Barcelona Sants, Barcelona",613.8,363.92340425531916,47,606.7424324324325,231.95,74,610.2712162162162,60.5,"Estación de Atocha, Madrid → Barcelona Sants, Barcelona",60
